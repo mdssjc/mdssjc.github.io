@@ -9,7 +9,15 @@ As tecnologias utilizadas, em principio, serão o Java e Berkeley DB com SQL.
 
 Adicionar uma mapa mental com a respectiva fase.
 
-previsão de início: após 22/05.
+**Entidade:**
+
+*Citacao*
+
+ - categoria
+ - autor
+ - texto
+
+Previsão de início: após 22/05.
 
 -------------------------------------------------------------------------------
 *este arquivo traz o roteiro para criação da página*
