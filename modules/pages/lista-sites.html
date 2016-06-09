@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Página do MDS - Lista de Sistes</title>
+    <title>Página do MDS - Lista de Sites</title>
     <meta charset="utf-8" />
-    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script> -->
-    <!-- <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script> -->
+    <link href="http://www.w3schools.com/lib/w3.css" rel="stylesheet" />
+    <link href="../../stylesheets/css.css" rel="stylesheet" />
     <script>
      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -24,32 +23,36 @@
     <!-- Github Ribbon -->
 
     <!-- Navegação -->
-    <ul class="breadcrumb">
+    <ul class="w3-navbar w3-small w3-light-grey w3-text-theme">
       <li><a href="../../index.html">Principal</a></li>
       <li><a href="https://mdssjc.gitbooks.io/mds/content/">Livro</a></li>
-      <li><a href="https://github.com/mdssjc">Repositório <span class="badge">&gt;1000</span></a></li>
+      <li><a href="https://github.com/mdssjc">Repositório <span class="w3-badge w3-dark-grey">&gt;1000</span></a></li>
     </ul>
     <!-- Navegação -->
 
-    <!-- Conteúdo -->
-    <div class="panel panel-primary">
-      <!-- Cabeçalho -->
-      <div class="panel-heading text-center text-uppercase"><strong>Página do MDS - Lista de Sistes</strong></div>
-      <!-- Cabeçalho -->
+    <!-- Topo -->
+    <div class="w3-container w3-theme">
+      <h1 class="w3-large w3-center text-uppercase">
+        <strong>Página do MDS - Lista de Sites</strong>
+      </h1>
+    </div>
+    <!-- Topo -->
 
-      <div class="panel-body">
-        <ul>
-          <li>
-            <strong>Arquitetura de Software e Testes</strong>
-            <dl>
-              <dt><a href="https://sourcemaking.com/">SourceMaking</a></dt>
-              <dd>Material sobre padrões de projeto, refatoração, princípios de projeto e UML</dd>
-              <dt><a href="http://www.vincehuston.org/dp/">Huston Design Patterns</a></dt>
-              <dd>Compilação de conteúdo sobre padrões de projeto</dd>
-            </dl>
-          </li>
-          <li>
-            <strong>Cursos Online</strong>
+    <!-- Conteúdo -->
+    <div id="lista-sites" class="w3-container">
+      <ul>
+        <li>
+          <strong>Arquitetura de Software e Testes</strong>
+          <dl>
+            <dt><a href="https://sourcemaking.com/">SourceMaking</a></dt>
+            <dd>Material sobre padrões de projeto, refatoração, princípios de projeto e UML</dd>
+            <dt><a href="http://www.vincehuston.org/dp/">Huston Design Patterns</a></dt>
+            <dd>Compilação de conteúdo sobre padrões de projeto</dd>
+          </dl>
+        </li>
+        <li>
+          <strong>Cursos Online</strong>
+          <dl>
             <dt><a href="https://www.udacity.com/">Udacity</a></dt>
             <dd>Cursos na área da Computação</dd>
             <dt><a href="https://www.coursera.org/">Coursera</a></dt>
@@ -70,22 +73,22 @@
                 <li><a href="https://www.casadocodigo.com.br/">Casa do Código</a></li>
               </ul>
             </dd>
-          </li>
-          <!-- <li> -->
-          <!-- <strong>Geral</strong> -->
-          <!-- <dl> -->
-          <!-- <dt></dt> -->
-          <!-- <dd></dd> -->
-          <!-- </dl> -->
-          <!-- </li> -->
-        </ul>
-      </div>
-
-      <!-- Rodapé -->
-      <div class="panel-footer small text-right">by Marcelo dos Santos - 2016</div>
-      <!-- Rodapé -->
+          </dl>
+        </li>
+      </ul>
     </div>
     <!-- Conteúdo -->
 
+    <!-- Rodapé -->
+    <div class="w3-container w3-small w3-topbar w3-border-indigo footer w3-theme-l4 w3-text-dark-grey">
+      <p>
+        Powered by GitHub |
+        <a href="https://github.com/syl20bnr/spacemacs" title="Spacemacs">
+          <img src="https://cdn.rawgit.com/syl20bnr/spacemacs/442d025779da2f62fc86c2082703697714db6514/assets/spacemacs-badge.svg" /></a>
+          <br/>
+          Marcelo dos Santos - 2016
+      </p>
+    </div>
+    <!-- Rodapé -->
   </body>
 </html>
