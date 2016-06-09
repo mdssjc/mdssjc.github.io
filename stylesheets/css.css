@@ -20,6 +20,17 @@
 
 .text-uppercase { text-transform: uppercase; }
 
-.footer {
-    text-align: center;
+.footer { text-align: center; }
+
+#lista-sites dl { font-size: small; }
+#lista-sites strong {
+    text-transform: uppercase;
+    color: #296192;
 }
+#lista-sites a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #2e6ea5;
+}
+#lista-sites a:hover { color: #337ab7; }
+#lista-sites dd { font-style: italic; }
