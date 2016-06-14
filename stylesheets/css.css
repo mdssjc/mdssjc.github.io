@@ -1,28 +1,49 @@
 /* CSS - Cascading Style Sheet */
 
 /* Estilos do Tema */
-/* RoyalBlue -	#4169E1 */
-.w3-theme-l5 {color:#000 !important; background-color:#f4f6fd !important}
-.w3-theme-l4 {color:#000 !important; background-color:#d9e1f9 !important}
-.w3-theme-l3 {color:#000 !important; background-color:#b3c3f3 !important}
-.w3-theme-l2 {color:#000 !important; background-color:#8da5ed !important}
-.w3-theme-l1 {color:#fff !important; background-color:#6787e7 !important}
-.w3-theme-d1 {color:#fff !important; background-color:#2855dd !important}
-.w3-theme-d2 {color:#fff !important; background-color:#1f4ac9 !important}
-.w3-theme-d3 {color:#fff !important; background-color:#1b41b0 !important}
+/* Cor base: RoyalBlue -	#4169E1 */
+/* Palette URL: http://paletton.com/#uid=13O0u0kpDPqk6SumVQZstNFvGLC */
+.color-primary-0 { color: #4169E1 }
+.color-primary-1 { color: #8FA7F0 }
+.color-primary-2 { color: #6485E8 }
+.color-primary-3 { color: #1D4CD8 }
+.color-primary-4 { color: #0C36B3 }
+
+.color-neutral-0 { color: #B9C6ED }
+.color-neutral-1 { color: #E5EBFB }
+.color-neutral-2 { color: #D0D9F6 }
+.color-neutral-3 { color: #A2B2E3 }
+.color-neutral-4 { color: #8B9ED6 }
+
+.w3-theme-l5 {color:#000 !important; background-color:#F4F6FD !important}
+.w3-theme-l4 {color:#000 !important; background-color:#D9E1F9 !important}
+.w3-theme-l3 {color:#000 !important; background-color:#B3C3F3 !important}
+.w3-theme-l2 {color:#000 !important; background-color:#8DA5ED !important}
+.w3-theme-l1 {color:#fff !important; background-color:#6787E7 !important}
+.w3-theme-d1 {color:#fff !important; background-color:#2855DD !important}
+.w3-theme-d2 {color:#fff !important; background-color:#1F4AC9 !important}
+.w3-theme-d3 {color:#fff !important; background-color:#1B41B0 !important}
 .w3-theme-d4 {color:#fff !important; background-color:#183797 !important}
-.w3-theme-d5 {color:#fff !important; background-color:#142e7e !important}
+.w3-theme-d5 {color:#fff !important; background-color:#142E7E !important}
 
-.w3-theme-light {color:#000 !important; background-color:#f4f6fd !important}
-.w3-theme-dark {color:#fff !important; background-color:#142e7e !important}
-.w3-theme-action {color:#fff !important; background-color:#142e7e !important}
+.w3-theme-light {color:#000 !important; background-color:#F4F6FD !important}
+.w3-theme-dark {color:#fff !important; background-color:#142E7E !important}
+.w3-theme-action {color:#fff !important; background-color:#142E7E !important}
 
-.w3-theme {color:#fff !important; background-color:#4169e1 !important}
-.w3-text-theme {color:#4169e1 !important}
-.w3-theme-border {border-color:#4169e1 !important}
-.w3-hover-theme:hover {color:#fff !important; background-color:#4169e1 !important}
+.w3-theme {color:#fff !important; background-color:#4169E1 !important}
+.w3-text-theme {color:#4169E1 !important}
+.w3-theme-border {border-color:#4169E1 !important}
+.w3-hover-theme:hover {color:#fff !important; background-color:#4169E1 !important}
 
 /* Estilos Gerais */
+.topo-faixa {
+    color: #fff;
+    background-color: #1A4AD7;
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+    text-transform: uppercase;
+}
 .titulo {
     font-size: large;
     font-weight: bold;
@@ -32,10 +53,10 @@
 .texto {
     text-align: justify;
 }
-.borda-destaque {
+.titulo-quadro {
     color: #fff;
-    background-color: #142e7e;
-    border: 1px solid : #4169e1;
+    background-color: #1A4AD7;
+    border: 1px solid #4169E1;
     text-align: center;
     font-weight: bold;
     font-size: small;
