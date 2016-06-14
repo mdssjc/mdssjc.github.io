@@ -44,15 +44,18 @@
     font-size: xx-large;
     text-transform: uppercase;
 }
-.titulo {
+/* Título 1 */
+h1 {
+    color: #4169E1;
     font-size: large;
     font-weight: bold;
     text-transform: uppercase;
-    color: #296192;
 }
-.texto {
+/* Texto */
+p {
     text-align: justify;
 }
+
 .titulo-quadro {
     color: #fff;
     background-color: #1A4AD7;
@@ -69,14 +72,10 @@
 .footer { text-align: center; }
 
 #lista-sites dl { font-size: small; }
-#lista-sites strong {
-    text-transform: uppercase;
-    color: #296192;
-}
 #lista-sites a {
+    color: #1D4CD8;
     text-transform: uppercase;
     text-decoration: none;
-    color: #2e6ea5;
 }
-#lista-sites a:hover { color: #337ab7; }
+#lista-sites a:hover { color: #8FA7F0; }
 #lista-sites dd { font-style: italic; }
