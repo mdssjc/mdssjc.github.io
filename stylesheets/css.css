@@ -9,11 +9,12 @@
 .color-primary-3 { color: #1D4CD8 }
 .color-primary-4 { color: #0C36B3 }
 
-.color-neutral-0 { color: #B9C6ED }
-.color-neutral-1 { color: #E5EBFB }
-.color-neutral-2 { color: #D0D9F6 }
-.color-neutral-3 { color: #A2B2E3 }
-.color-neutral-4 { color: #8B9ED6 }
+/* Palette URL: http://paletton.com/#uid=13O0u0k18O17rzm4NFO2nx-35tf */
+.color-neutral-0 { color: #D6D8DD }
+.color-neutral-1 { color: #9099B5 }
+.color-neutral-2 { color: #AEB4C8 }
+.color-neutral-3 { color: #A5A8B0 }
+.color-neutral-4 { color: #90939D }
 
 .w3-theme-l5 {color:#000 !important; background-color:#F4F6FD !important}
 .w3-theme-l4 {color:#000 !important; background-color:#D9E1F9 !important}
@@ -36,14 +37,17 @@
 .w3-hover-theme:hover {color:#fff !important; background-color:#4169E1 !important}
 
 /* Estilos Gerais */
+body { padding-bottom: 80px; }
+
 .topo-faixa {
     color: #fff;
-    background-color: #1A4AD7;
+    background-color: #4169E1;
     text-align: center;
     font-weight: bold;
     font-size: xx-large;
     text-transform: uppercase;
 }
+
 /* Título 1 */
 h1 {
     color: #4169E1;
@@ -51,10 +55,9 @@ h1 {
     font-weight: bold;
     text-transform: uppercase;
 }
+
 /* Texto */
-p {
-    text-align: justify;
-}
+p { text-align: justify; }
 
 .titulo-quadro {
     color: #fff;
@@ -69,8 +72,6 @@ p {
 /* Outros */
 .text-uppercase { text-transform: uppercase; }
 
-.footer { text-align: center; }
-
 #lista-sites dl { font-size: small; }
 #lista-sites a {
     color: #1D4CD8;
@@ -79,3 +80,24 @@ p {
 }
 #lista-sites a:hover { color: #8FA7F0; }
 #lista-sites dd { font-style: italic; }
+
+.rodape {
+    position: fixed;
+    margin-top: 2px;
+    padding: 2px;
+    height: 80px;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    color: #90939D;
+    background-color: #D6D8DD;
+    border-top: 5px solid #4169E1;
+    text-align: center;
+    font-size: x-small;
+}
+.rodape hr {
+    margin: 6px auto;
+    height: 1px;
+    width: 66%;
+    border-color: #6788E9;
+}
