@@ -40,12 +40,17 @@
 body { padding-bottom: 80px; }
 
 .topo-faixa {
+    margin: auto;
+    padding: 0;
+    height: 44px;
     color: #fff;
+    background-image: url("../images/topo-faixa.png");
+    background-repeat: no-repeat;
     background-color: #4169E1;
-    text-align: center;
     font-weight: bold;
     font-size: xx-large;
     text-transform: uppercase;
+    text-align: center;
 }
 
 /* Título 1 */
