@@ -93,13 +93,11 @@ h1 {
 
 /* Texto */
 p { text-align: justify; }
-
-/* Legendas */
-.legenda-figura {
+.figura {
+    text-align: center;
     font-size: x-small;
     font-style: italic;
 }
-.legenda-tabela {}
 
 /*  */
 .titulo-quadro {
