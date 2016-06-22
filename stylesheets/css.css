@@ -36,7 +36,7 @@
 .w3-theme-border {border-color:#4169E1 !important}
 .w3-hover-theme:hover {color:#fff !important; background-color:#4169E1 !important}
 
-/* Estilos Gerais */
+/* Estilos Estruturais */
 body { padding-bottom: 80px; }
 
 .topo-faixa {
@@ -52,39 +52,6 @@ body { padding-bottom: 80px; }
     text-transform: uppercase;
     text-align: center;
 }
-
-/* Título 1 */
-h1 {
-    color: #4169E1;
-    font-size: large;
-    font-weight: bold;
-    text-transform: uppercase;
-}
-
-/* Texto */
-p { text-align: justify; }
-
-.titulo-quadro {
-    color: #fff;
-    background-color: #1A4AD7;
-    border: 1px solid #4169E1;
-    text-align: center;
-    font-weight: bold;
-    font-size: small;
-    text-transform: uppercase;
-}
-
-/* Outros */
-.text-uppercase { text-transform: uppercase; }
-
-#lista-sites dl { font-size: small; }
-#lista-sites a {
-    color: #1D4CD8;
-    text-transform: uppercase;
-    text-decoration: none;
-}
-#lista-sites a:hover { color: #8FA7F0; }
-#lista-sites dd { font-style: italic; }
 
 .faixa-aviso {
     margin: 2px 0;
@@ -114,3 +81,45 @@ p { text-align: justify; }
     width: 66%;
     border-color: #6788E9;
 }
+
+/* Estilos do Texto */
+/* Título 1 */
+h1 {
+    color: #4169E1;
+    font-size: large;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/* Texto */
+p { text-align: justify; }
+
+/* Legendas */
+.legenda-figura {
+    font-size: x-small;
+    font-style: italic;
+}
+.legenda-tabela {}
+
+/*  */
+.titulo-quadro {
+    color: #fff;
+    background-color: #1A4AD7;
+    border: 1px solid #4169E1;
+    text-align: center;
+    font-weight: bold;
+    font-size: small;
+    text-transform: uppercase;
+}
+
+/* Outros */
+.text-uppercase { text-transform: uppercase; }
+
+#lista-sites dl { font-size: small; }
+#lista-sites a {
+    color: #1D4CD8;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+#lista-sites a:hover { color: #8FA7F0; }
+#lista-sites dd { font-style: italic; }
