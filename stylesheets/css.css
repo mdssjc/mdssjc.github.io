@@ -58,6 +58,10 @@ body { padding-bottom: 80px; }
     text-align: center;
 }
 
+.conteudo {
+    margin: 0px 12px;
+}
+
 .faixa-aviso {
     margin: 2px 0;
     background-color: #1A4AD7;
@@ -123,31 +127,41 @@ body { padding-bottom: 80px; }
 }
 
 .center { text-align: center !important; }
+.justify { text-align: justify !important; }
 .text-uppercase { text-transform: uppercase; }
 
 /* Estilos do Texto */
-/* Títulos */
 h1 {
     color: #4169E1;
     font-size: large;
     font-weight: bold;
     text-transform: uppercase;
 }
+h2 {
+    color: #4169E1;
+    font-size: large;
+    text-transform: uppercase;
+}
 
-/* Texto */
 p { text-align: justify; }
+
 .figura {
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.legenda{
     text-align: center;
     font-size: x-small;
     font-style: italic;
 }
 
-/* Outros */
-#lista-sites dl { font-size: small; }
-#lista-sites a {
+dl { font-size: small; }
+dl a {
     color: #1D4CD8;
     text-transform: uppercase;
     text-decoration: none;
 }
-#lista-sites a:hover { color: #8FA7F0; }
-#lista-sites dd { font-style: italic; }
+dl a:hover { color: #8FA7F0; }
+dd { font-style: italic; }

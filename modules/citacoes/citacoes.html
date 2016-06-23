@@ -5,17 +5,10 @@
     <meta charset="utf-8" />
     <link href="http://www.w3schools.com/lib/w3.css" rel="stylesheet" />
     <link href="../../stylesheets/css.css" rel="stylesheet" />
-    <script>
-     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-                              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-     })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-     ga('create', 'UA-55078607-1', 'auto');
-     ga('send', 'pageview');
-    </script>
+    <script src="../../javascripts/js.js"></script>
   </head>
   <body>
+
     <!-- Github Ribbon -->
     <a href="https://github.com/mdssjc">
       <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/365986a132ccd6a44c23a9169022c0b5c890c387/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" />
@@ -35,31 +28,45 @@
     <!-- Topo -->
 
     <!-- Conteúdo -->
-    <div class="w3-container">
+    <div class="conteudo">
       <h1>O que é?</h1>
       <p>
-        O aplicativo Citações é um software para a visualização de frases, tais como: provérbio, ditado popular, sabedoria e etc...
+        O aplicativo Citações é um <em>software</em> para visualização em qualquer local e momento de mensagens, tais como: provérbio, ditado popular, sabedoria, frases e etc...
       </p>
 
       <h1>Requisitos</h1>
       <p>
-        O software Citações é um aplicativo para visualização de frases em qualquer plataforma, tais como: Desktop, Web e Mobile - preferência no uso do Linux e Java. <br/>
-        Essas são armazenadas em um repositório local de dados com a possibilidade de sincronização, quando executado em offline, com o repositório central - servidor da aplicação. <br/>
-        Cada frase é exibida aleatoriamente na tela, conforme pressionado a opção de próxima citação, composta pelo: autor, citação e sua categoria - um log com dados estatísticos sobre a visualização das citações é criado. <br/>
-        A parte principal do aplicativo é sua Base, na qual são encontradas as funcionalidades principais para interação com o repositório, quando na versão: <br/>
+        O <em>software</em> Citações é um aplicativo para visualização de frases em qualquer plataforma, tais como: <em>Desktop</em>, <em>Web</em> e <em>Mobile</em> - preferência no uso do <em>Linux</em> e <em>Java</em>.
+      </p>
+      <p>
+        Essas são armazenadas em um repositório local de dados com a possibilidade de sincronização, quando executado em <em>offline</em>, com o repositório central - servidor da aplicação.
+      </p>
+      <p>
+        Cada frase é exibida aleatoriamente na tela, conforme pressionado a opção de próxima citação, composta pelo: autor, citação e sua categoria - um <em>log</em> com dados estatísticos sobre a visualização das citações é criado.
+      </p>
+      <p>
+        A parte principal do aplicativo é sua Base em que coordena as atividades das funcionalidades principais para interação com o repositório, quando na versão:
+      </p>
+      <p>
         <ul>
-          <li>
-            <p>
-              <strong>Desktop</strong>: a Base recupera a frase do repositório local - preferência no uso do Berkeley DB - e encaminha para o View. A Base é um módulo em linha de comando e a View é uma interface gráfica - preferência no uso do JavaFX. Existe a possibilidade de sincronização das frases com um repositório remoto, via Internet.
-            </p>
+          <li class="justify">
+            <strong>Desktop</strong>: a Base recupera a frase do repositório local - preferência no uso do <em>Berkeley</em> <em>DB</em> - e encaminha para o <em>View</em>. A Base é um módulo em linha de comando e a <em>View</em> é uma interface gráfica - preferência no uso do <em>JavaFX</em>. Existe a possibilidade de sincronização das frases com um repositório remoto, via <em>Internet</em>.
           </li>
-          <li>
-            <p><strong>Web</strong>: ASD (A Ser Definido); e</p>
-          </li>
-          <li>
-            <p><strong>Mobile</strong>: ASD (A Ser Definido).</p>
-          </li>
+          <li><strong>Web</strong>: ASD (A Ser Definido); e</li>
+          <li><strong>Mobile</strong>: ASD (A Ser Definido).</li>
         </ul>
+      </p>
+
+      <h1>Cenário</h1>
+      <p>
+        O cenário caracteriza os requisitos de alto nível da aplicação pela interação entre atores e casos de uso através do Diagrama de Caso de Uso - priorizando a versão <em>Desktop</em>, conforme apresentado pela Figura 1:
+      </p>
+      <img class="figura" src="../../images/citacoes/use case diagram.png"
+           alt="Figura do cenário do aplicativo Citações"
+           title="Diagrama de Caso de Uso"/>
+      <p class="legenda">Figura 1: Diagrama de Caso de Uso</p>
+      <p>
+        O caso de uso "<em>Requisita uma citação</em>" será o primeiro a ser trabalhado, assim trazendo a versão preliminar da estrutura do projeto - aplicando o Desenvolvimento Guiado por Testes - <em>Test Driven Development</em> (TDD) - os resultados serão disponibilizados pelo Repositório.
       </p>
     </div>
     <!-- Conteúdo -->
