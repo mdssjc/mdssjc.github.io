@@ -71,22 +71,16 @@ header .nav {
     margin: 15px 0px;
     text-align: center;
 }
-header .nav a {
-    background-color: #2855DD;
-}
-header .nav a:hover {
-    background-color: #0C36B3;
-}
+header .nav a { background-color: #2855DD; }
+header .nav a:hover { background-color: #0C36B3; }
 header .info {
     color: #333;
-    background-color: #D6D8DD;
+    background-color: #DDD;
     text-align: center;
     font-weight: bold;
 }
 
-.conteudo {
-    margin: 0px 12px;
-}
+.conteudo { margin: 0px 12px; }
 
 .cartoes {
     margin: 10px 6px;
