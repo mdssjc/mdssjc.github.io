@@ -39,6 +39,20 @@
 /* Estilos Estruturais */
 body { padding-bottom: 80px; }
 
+nav {
+    padding: 4px;
+    color: #333;
+    background-color: #D6D8DD;
+    font-size: small;
+}
+nav a {
+    margin: 0px 4px;
+    color: #4169E1;
+    text-decoration: none;
+}
+nav a:hover { color: red; }
+nav a[href="#"] { color: gray; }
+
 .topo-faixa {
     margin: auto;
     padding: 0;
@@ -70,7 +84,8 @@ body { padding-bottom: 80px; }
     font-weight: bold;
 }
 
-.rodape {
+footer {
+    display: block;
     position: fixed;
     margin-top: 2px;
     padding: 2px;
@@ -84,7 +99,7 @@ body { padding-bottom: 80px; }
     text-align: center;
     font-size: x-small;
 }
-.rodape hr {
+footer hr {
     margin: 6px auto;
     height: 1px;
     width: 66%;
