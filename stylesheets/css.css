@@ -42,7 +42,7 @@ body { padding-bottom: 80px; }
 nav {
     padding: 4px;
     color: #333;
-    background-color: #D6D8DD;
+    background-color: #EEE;
     font-size: small;
 }
 nav a {
@@ -52,12 +52,13 @@ nav a {
 }
 nav a:hover { color: red; }
 nav a[href="#"] { color: gray; }
+nav span { background-color: #616161 !important; }
 
-.topo-faixa {
+header div:first-child {
     margin: auto;
     padding: 0;
     height: 44px;
-    color: #fff;
+    color: #FFF;
     background-image: url("../images/topo-faixa.png");
     background-repeat: no-repeat;
     background-color: #4169E1;
@@ -66,44 +67,25 @@ nav a[href="#"] { color: gray; }
     text-transform: uppercase;
     text-align: center;
 }
-
-.navegacao {
-    margin: 15px 0px 5px 0px;
+header .nav {
+    margin: 15px 0px;
     text-align: center;
 }
-
-.conteudo {
-    margin: 0px 12px;
+header .nav a {
+    background-color: #2855DD;
 }
-
-.faixa-aviso {
-    margin: 2px 0;
-    background-color: #1A4AD7;
-    color: #6788E9;
+header .nav a:hover {
+    background-color: #0C36B3;
+}
+header .info {
+    color: #333;
+    background-color: #D6D8DD;
     text-align: center;
     font-weight: bold;
 }
 
-footer {
-    display: block;
-    position: fixed;
-    margin-top: 2px;
-    padding: 2px;
-    height: 80px;
-    width: 100%;
-    bottom: 0;
-    left: 0;
-    color: #333;
-    background-color: #D6D8DD;
-    border-top: 5px solid #4169E1;
-    text-align: center;
-    font-size: x-small;
-}
-footer hr {
-    margin: 6px auto;
-    height: 1px;
-    width: 66%;
-    border-color: #6788E9;
+.conteudo {
+    margin: 0px 12px;
 }
 
 .cartoes {
@@ -139,6 +121,28 @@ footer hr {
     display: block;
     margin: 10px auto;
     text-align: center;
+}
+
+footer {
+    display: block;
+    position: fixed;
+    margin-top: 2px;
+    padding: 2px;
+    height: 80px;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    color: #333;
+    background-color: #D6D8DD;
+    border-top: 5px solid #4169E1;
+    text-align: center;
+    font-size: x-small;
+}
+footer hr {
+    margin: 6px auto;
+    height: 1px;
+    width: 66%;
+    border-color: #6788E9;
 }
 
 .center { text-align: center !important; }
