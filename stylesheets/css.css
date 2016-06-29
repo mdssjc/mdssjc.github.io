@@ -160,6 +160,34 @@ dl a {
 dl a:hover { color: #8FA7F0; }
 dd { font-style: italic; }
 
+table { }
+table caption {
+    color: #4169E1;
+    font-size: large;
+    text-transform: uppercase;
+}
+.tb-title {
+    color: #333;
+    text-align: center;
+    font-weight: bold;
+}
+.tb-author {
+    color: #999;
+    text-align: center;
+    vertical-align: top;
+    font-size: small;
+    font-style: italic;
+}
+.tb-description {
+    color: #333;
+    text-align: justify;
+    vertical-align: top;
+}
+table img {
+    margin: 4px 40px 4px 4px;
+    width: 120px;
+}
+
 /* Compatibilidade com HTML5 */
 header, section, footer, aside, nav, main, article, figure {
     display: block;
