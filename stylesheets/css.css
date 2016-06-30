@@ -61,15 +61,16 @@ header .info {
     font-weight: bold;
 }
 
+article { margin: 0px 12px; }
 .conteudo { margin: 0px 12px; }
 
-.cartoes {
+.cards {
     margin: 10px 6px;
     padding: 0px;
     border: 1px solid #AEB4C8;
     box-shadow: 2px 2px 10px #90939D;
 }
-.cartoes h2 {
+.cards h2 {
     margin: 6px;
     padding: 0px;
     color: white;
@@ -80,19 +81,19 @@ header .info {
     font-size: small;
     text-transform: uppercase;
 }
-.cartoes p {
+.cards p {
     margin: 10px;
     color: #333;
     text-align: justify;
     font-size: small;
 }
-.cartoes dl {
+.cards dl {
     margin: 10px;
     color: #333;
     text-align: justify;
     font-size: small;
 }
-.cartoes img {
+.cards img {
     display: block;
     margin: 10px auto;
     text-align: center;
