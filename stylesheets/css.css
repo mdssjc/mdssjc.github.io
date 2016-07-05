@@ -135,6 +135,7 @@ h1,h2,h3 {
 h1,h2 { text-transform: uppercase; }
 h1 { font-weight: bold; }
 h3 { text-transform: capitalize; }
+aside h1 { color: #333; }
 
 p {
     color: 333;
