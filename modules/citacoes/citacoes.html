@@ -23,7 +23,7 @@
     <header>
       <div>Citações</div>
       <nav>
-        <a href="modules/citacoes/requisitos.html">Requisitos</a>
+        <a href="modules/citacoes/requisitos.html" title="Requisitos">Requisitos</a>
       </nav>
     </header>
 
@@ -33,40 +33,29 @@
         <p>
           O aplicativo Citações é um <em>software</em> para visualização em qualquer local e momento de mensagens, tais como: provérbio, ditado popular, sabedoria, frases e etc...
         </p>
+        <img src="images/citacoes/tela0.png"
+             alt="Imagem do rascunho da tela do Citações"
+             title="Tela do Citações" />
+        <p>Tela do Citações</p>
 
-        <h1>Requisitos</h1>
+        <h1>Etapas</h1>
         <p>
-          O <em>software</em> Citações é um aplicativo para visualização de frases em qualquer plataforma, tais como: <em>Desktop</em>, <em>Web</em> e <em>Mobile</em> - preferência no uso do <em>Linux</em> e <em>Java</em>.
-        </p>
-        <p>
-          Essas são armazenadas em um repositório local de dados com a possibilidade de sincronização, quando executado em <em>offline</em>, com o repositório central - servidor da aplicação.
-        </p>
-        <p>
-          Cada frase é exibida aleatoriamente na tela, conforme pressionado a opção de próxima citação, composta pelo: autor, citação e sua categoria - um <em>log</em> com dados estatísticos sobre a visualização das citações é criado.
-        </p>
-        <p>
-          A parte principal do aplicativo é sua Base em que coordena as atividades das funcionalidades principais para interação com o repositório, quando na versão:
-        </p>
-        <p>
-          <ul>
-            <li class="justify">
-              <strong>Desktop</strong>: a Base recupera a frase do repositório local - preferência no uso do <em>Berkeley</em> <em>DB</em> - e encaminha para o <em>View</em>. A Base é um módulo em linha de comando e a <em>View</em> é uma interface gráfica - preferência no uso do <em>JavaFX</em>. Existe a possibilidade de sincronização das frases com um repositório remoto, via <em>Internet</em>.
-            </li>
-            <li><strong>Web</strong>: ASD (A Ser Definido); e</li>
-            <li><strong>Mobile</strong>: ASD (A Ser Definido).</li>
-          </ul>
+          A primeira parte do material aborda os requisitos do projeto em uma forma ágil. Confira <a href="modules/citacoes/requisitos.html" title="Requisitos">AQUI!</a>.
         </p>
 
-        <h1>Cenário</h1>
+        <h1>Projeto</h1>
         <p>
-          O cenário caracteriza os requisitos de alto nível da aplicação pela interação entre atores e casos de uso através do Diagrama de Caso de Uso - priorizando a versão <em>Desktop</em>, conforme apresentado pela Figura 1:
+          O projeto está armazenado no repositório do Citações: <a href="https://github.com/mdssjc/citacoes" title="Repositório Git do Citações">github.com/mdssjc/citacoes</a>
         </p>
-        <img class="figura" src="images/citacoes/use case diagram.png"
-             alt="Figura do cenário do aplicativo Citações"
-             title="Diagrama de Caso de Uso" />
-        <p class="legenda">Figura 1: Diagrama de Caso de Uso</p>
         <p>
-          O caso de uso "<em>Requisita uma citação</em>" será o primeiro a ser trabalhado, assim trazendo a versão preliminar da estrutura do projeto - aplicando o Desenvolvimento Guiado por Testes - <em>Test Driven Development</em> (TDD) - os resultados serão disponibilizados pelo Repositório.
+          No Terminal:
+          <pre><code>
+git clone https://github.com/mdssjc/citacoes.git
+cd citacoes
+          </code></pre>
+        </p>
+        <p>
+          Está página será espelhada do arquivo <code><a href="https://github.com/mdssjc/citacoes/blob/master/README.md" title="README.md">README.md</a></code> (com atualizações por <em>commit</em>).
         </p>
       </section>
     </main>
