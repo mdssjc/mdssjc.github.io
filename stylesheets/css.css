@@ -152,6 +152,11 @@ p {
     color: #333;
     font-weight: bold;
 }
+pre {
+    display: inline-block;
+    color: #666;
+    background-color: #EEE;
+}
 
 img {
     display: block;
