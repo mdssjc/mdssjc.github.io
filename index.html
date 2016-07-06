@@ -8,15 +8,10 @@
     <link href="http://www.w3schools.com/lib/w3.css" rel="stylesheet" type="text/css" />
     <link href="stylesheets/css.css" rel="stylesheet" type="text/css" />
     <script src="javascripts/js.js"></script>
+    <script src="https://use.fontawesome.com/76c8f905b0.js"></script>
     <title>Página do MDS</title>
   </head>
   <body>
-    <!-- Github Ribbon -->
-    <a href="https://github.com/mdssjc">
-      <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/365986a132ccd6a44c23a9169022c0b5c890c387/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" />
-    </a>
-    <!-- Github Ribbon -->
-
     <nav>
       <a href="#">Principal</a> |
       <a href="http://goo.gl/AYcd6l/">Livro</a> |
@@ -24,23 +19,19 @@
       <span class="w3-badge">&gt;1000</span>
     </nav>
 
-    <header class="main-page">
+    <header>
       <div>MDS</div>
-      <div class="nav">
-        <a class="w3-btn w3-round-xlarge"
-           href="modules/citacoes/citacoes.html">Citações</a>
-        <a class="w3-btn w3-round-xlarge"
-           href="modules/pages/livros.html">Livros</a>
-        <a class="w3-btn w3-round-xlarge"
-           href="modules/pages/lista-sites.html">Lista de Sites</a>
-        <a class="w3-btn w3-round-xlarge"
-           href="modules/pages/sobre.html">Sobre...</a>
-      </div>
+      <nav class="main-page">
+        <a href="modules/citacoes/citacoes.html">Citações</a>
+        <a href="modules/pages/livros.html">Livros</a>
+        <a href="modules/pages/lista-sites.html">Lista de Sites</a>
+        <a href="modules/pages/sobre.html">Sobre...</a>
+      </nav>
       <div class="info">Em breve a volta do aplicativo Citações</div>
     </header>
 
-    <article>
-      <div class="w3-col s6 m4 l4">
+    <main>
+      <article class="w3-col s6 m4 l4">
         <div class="cards">
           <h2>Lançamento do Eclipse</h2>
           <p class="center">
@@ -67,9 +58,9 @@
                title="HTML5" />
           <p class="center">Estamos prontos!</p>
         </div>
-      </div>
+      </article>
 
-      <div class="w3-col s6 m4 l4">
+      <article class="w3-col s6 m4 l4">
         <div class="cards">
           <h2>Cunningham & Cunningham</h2>
           <p class="center">
@@ -79,8 +70,18 @@
         </div>
 
         <div class="cards">
+          <h2>RefCardz</h2>
+          <p class="center">
+            <a href="https://dzone.com/refcardz" title="dzone.com/refcardz">dzone.com/refcardz</a><br/>
+            Resumos sobre temas da computação
+          </p>
+        </div>
+
+        <div class="cards">
           <h2>Novidades</h2>
           <dl>
+            <dt>08/07</dt>
+            <dd>{novidades}</dd>
             <dt>01/07</dt>
             <dd>
               Melhorias no layout da página.<br/>
@@ -103,9 +104,9 @@
             </dd>
           </dl>
         </div>
-      </div>
+      </article>
 
-      <div class="w3-col s6 m4 l4">
+      <article class="w3-col s6 m4 l4">
         <div class="cards">
           <h2>Integração</h2>
           <img src="images/integracao-mds.png" width="100%"
@@ -115,20 +116,20 @@
         </div>
 
         <div class="cards">
-          <h2>Livros</h2>
-          <a href="https://pragprog.com/book/utj2/pragmatic-unit-testing-in-java-8-with-junit">
-            <img src="images/capas_livros/utj2_xlargecover.jpg"
-                 alt="Capa do livro Pragmatic Unit Testing in Java 8 with JUnit"
-                 title="Pragmatic Unit Testing in Java 8 with JUnit" />
+          <h2>Recomendado</h2>
+          <a href="https://pragprog.com/book/tpp/the-pragmatic-programmer">
+            <img src="images/capas_livros/tpp_xlargecover.jpg"
+                 alt="Capa do livro The Pragmatic Programmer"
+                 title="The Pragmatic Programmer" />
           </a>
           <p class="center">
-            Pragmatic Unit Testing in Java 8 with JUnit
+            The Pragmatic Programmer: From Journeyman to Master
             <br/>
-            <em>by Jeff Langr, with Andy Hunt and Dave Thomas</em>
+            <em>by Andrew Hunt and David Thomas</em>
           </p>
         </div>
-      </div>
-    </article>
+      </article>
+    </main>
 
     <footer>
       Powered by Marcelo dos Santos<br/>
