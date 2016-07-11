@@ -169,6 +169,8 @@ img+p {
     font-style: italic;
 }
 
+li a { color: blue; }
+
 dl { font-size: small; }
 dl a {
     color: #1D4CD8;
