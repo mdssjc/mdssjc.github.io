@@ -181,7 +181,10 @@ dl a {
 dl a:hover { color: #8FA7F0; }
 dd { font-style: italic; }
 
-.book { text-align: center; }
+.book {
+    padding: 2px;
+    text-align: center;
+}
 .book p {
     text-indent: 0px;
     font-size: xx-small;
@@ -200,8 +203,10 @@ dd { font-style: italic; }
 .book .description { }
 .book a {
     color: blue;
+    text-transform: uppercase;
     text-decoration: none;
     font-size: xx-small;
+    font-weight: bold;
 }
 
 /* Compatibilidade com HTML5 */
