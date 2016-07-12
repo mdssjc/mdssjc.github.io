@@ -165,6 +165,7 @@ img {
 }
 img+p {
     text-align: center;
+    text-indent: 0px;
     font-size: x-small;
     font-style: italic;
 }
@@ -180,32 +181,27 @@ dl a {
 dl a:hover { color: #8FA7F0; }
 dd { font-style: italic; }
 
-table { }
-table caption {
-    color: #4169E1;
-    font-size: large;
-    text-transform: uppercase;
+.book { text-align: center; }
+.book p {
+    text-indent: 0px;
+    font-size: xx-small;
+    font-style: normal;
 }
-.tb-title {
-    color: #333;
+.book img { width: 120px; }
+.book .title {
     text-align: center;
+    text-transform: uppercase;
     font-weight: bold;
 }
-.tb-author {
-    color: #999;
+.book .author {
     text-align: center;
-    vertical-align: top;
-    font-size: small;
     font-style: italic;
 }
-.tb-description {
-    color: #333;
-    text-align: justify;
-    vertical-align: top;
-}
-table img {
-    margin: 4px 40px 4px 4px;
-    width: 120px;
+.book .description { }
+.book a {
+    color: blue;
+    text-decoration: none;
+    font-size: xx-small;
 }
 
 /* Compatibilidade com HTML5 */
