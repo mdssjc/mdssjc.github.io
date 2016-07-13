@@ -200,7 +200,9 @@ dd { font-style: italic; }
     text-align: center;
     font-style: italic;
 }
-.book .description { }
+.book .description {
+    font-size: small;
+}
 .book a {
     color: blue;
     text-transform: uppercase;
