@@ -1,10 +1,10 @@
 /*
-* MDS - JavaScript
-*
-* Conjunto de funções para a página.
-*
-* autor: Marcelo dos Santos
-*/
+ * MDS - JavaScript
+ *
+ * Conjunto de funções para a página.
+ *
+ * autor: Marcelo dos Santos
+ */
 
 // Google Analytics
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -30,7 +30,33 @@ function githubRibbon() {
     document.body.appendChild(link);
 }
 
+// Botões de Controle
+function criarControle() {
+    var elementDiv = document.createElement("div");
+    elementDiv.setAttribute("style", "display: block; position: fixed; bottom: 2px; right: 2px;")
+    var elementTop = document.createElement("i");
+    elementTop.setAttribute("class", "fa fa-arrow-circle-up fa-2x");
+    elementTop.setAttribute("aria-hidden", "true")
+    elementTop.setAttribute("onclick", "gotoTop()");
+    var elementBack = document.createElement("i");
+    elementBack.setAttribute("class", "fa fa-arrow-circle-left fa-2x");
+    elementBack.setAttribute("aria-hidden", "true")
+    elementBack.setAttribute("onclick", "gotoBack()");
+
+    elementDiv.appendChild(elementBack);
+    elementDiv.appendChild(elementTop);
+    document.body.appendChild(elementDiv);
+}
+
+function gotoTop() { window.scrollTo(0, 0); }
+function gotoBack() { window.history.back(); }
+
 // Event Trigger
 window.onload = function() {
+    var path = location.pathname;
+
     githubRibbon();
+    if (path.indexOf("index.html") == -1) {
+        criarControle();
+    }
 }
