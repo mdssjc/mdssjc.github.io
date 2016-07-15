@@ -89,6 +89,10 @@ main { margin: 0px 12px; }
     text-indent: 0px;
     font-size: small;
 }
+.cards li {
+    color: #333;
+    font-size: small;
+}
 .cards dl {
     margin: 10px;
     color: #333;
