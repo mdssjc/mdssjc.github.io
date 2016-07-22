@@ -66,21 +66,19 @@ header .info {
 main { margin: 0px 12px; }
 
 .cards {
-    margin: 10px 6px;
+    margin: 4px;
     padding: 0px;
     border: 1px solid #AEB4C8;
-    box-shadow: 2px 2px 10px #90939D;
 }
 .cards h2 {
     margin: 6px;
-    padding: 0px;
     color: white;
     background-color: #4169E1;
     border: 1px solid #1A49D7;
     text-align: center;
+    text-transform: uppercase;
     font-weight: bold;
     font-size: small;
-    text-transform: uppercase;
 }
 .cards p {
     margin: 10px;
