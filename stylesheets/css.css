@@ -37,7 +37,7 @@ nav span { background-color: #616161 !important; }
 
 header div:first-child {
     margin: auto;
-    padding: 0;
+    padding: 0px;
     height: 44px;
     color: #FFF;
     background-image: url("../images/topo-faixa.png");
@@ -70,7 +70,7 @@ main { margin: 0px 12px; }
     padding: 0px;
     border: 1px solid #AEB4C8;
 }
-.cards h2 {
+.cards h1 {
     margin: 6px;
     color: white;
     background-color: #4169E1;
