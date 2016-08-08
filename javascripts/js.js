@@ -36,10 +36,12 @@ function criarControle() {
     elementDiv.setAttribute("style", "display: block; position: fixed; bottom: 2px; right: 2px;");
     var elementTop = document.createElement("i");
     elementTop.setAttribute("class", "fa fa-arrow-circle-up fa-2x");
+    elementTop.setAttribute("style", "margin-right: 5px;");
     elementTop.setAttribute("aria-hidden", "true");
     elementTop.setAttribute("onclick", "gotoTop()");
     var elementBack = document.createElement("i");
     elementBack.setAttribute("class", "fa fa-arrow-circle-left fa-2x");
+    elementBack.setAttribute("style", "margin-right: 5px;");
     elementBack.setAttribute("aria-hidden", "true");
     elementBack.setAttribute("onclick", "gotoBack()");
 
