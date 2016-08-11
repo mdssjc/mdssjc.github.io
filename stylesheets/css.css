@@ -122,6 +122,9 @@ footer hr {
     width: 66%;
     border-color: #6788E9;
 }
+footer img {
+    display: inline;
+}
 
 .center { text-align: center !important; }
 .justify { text-align: justify !important; }
