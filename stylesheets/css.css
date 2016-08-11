@@ -125,6 +125,9 @@ footer hr {
 footer img {
     display: inline;
 }
+footer a {
+    margin: 0px 5px;
+}
 
 .center { text-align: center !important; }
 .justify { text-align: justify !important; }
