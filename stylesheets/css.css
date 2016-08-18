@@ -131,7 +131,7 @@ footer a {
 
 .center { text-align: center !important; }
 .justify { text-align: justify !important; }
-.text-uppercase { text-transform: uppercase; }
+.uppercase { text-transform: uppercase; }
 
 /* Estilos do Texto */
 h1,h2,h3 {
