@@ -4,10 +4,10 @@
 /* Paleta base: RoyalBlue -	#4169E1 */
 /* Palette URL: http://paletton.com/#uid=13O0u0kpDPqk6SumVQZstNFvGLC */
 /* #4169E1 */
-/* #8FA7F0 */
-/* #6485E8 */
-/* #1D4CD8 */
-/* #0C36B3 */
+/* #6788E9 */
+/* #5378E5 */
+/* #2E5ADC */
+/* #1A4AD7 */
 
 /* Paleta auxiliar: Greyish lightest */
 /* Palette URL: http://paletton.com/#uid=13O0u0k18O17rzm4NFO2nx-35tf */
@@ -101,6 +101,24 @@ main { margin: 0px 12px; }
     text-align: center;
 }
 
+.user-story div { padding: 0px 10px; }
+.user-story header { background-color: #6788E9; }
+.user-story h1 {
+    color: #FFF;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+}
+.user-story h2 {
+    text-transform: uppercase;
+    font-weight: normal;
+}
+.user-story p {
+    text-indent: 0px;
+    text-align: justify;
+}
+.user-story li { text-align: justify; }
+
 footer {
     display: block;
     position: fixed;
@@ -180,11 +198,11 @@ li a { color: blue; }
 
 dl { font-size: small; }
 dl a {
-    color: #1D4CD8;
+    color: #2E5ADC;
     text-transform: uppercase;
     text-decoration: none;
 }
-dl a:hover { color: #8FA7F0; }
+dl a:hover { color: #6788E9; }
 dd { font-style: italic; }
 
 .book {
