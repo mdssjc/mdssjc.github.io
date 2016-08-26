@@ -117,7 +117,7 @@ main { margin: 0px 12px; }
     text-indent: 0px;
     text-align: justify;
 }
-.user-story li { text-align: justify; }
+/* .user-story li { text-align: justify; } */
 
 footer {
     display: block;
@@ -194,6 +194,7 @@ img+p {
     font-style: italic;
 }
 
+li { text-align: justify; }
 li a { color: blue; }
 
 dl { font-size: small; }
