@@ -86,6 +86,7 @@ main { margin: 0px 12px; }
     font-size: small;
 }
 .cards li {
+    padding-right: 10px;
     color: #333;
     font-size: small;
 }
