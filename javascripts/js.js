@@ -61,6 +61,6 @@ window.onload = function() {
     if (path.indexOf("index.html") == -1) {
         criarControle();
     }
-    loadCSS( "stylesheets/css.css" );
-    loadCSS( "http://www.w3schools.com/lib/w3.css" );
+    // loadCSS( "stylesheets/css.css" );
+    // loadCSS( "http://www.w3schools.com/lib/w3.css" );
 }
