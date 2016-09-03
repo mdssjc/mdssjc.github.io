@@ -9,15 +9,257 @@
 // Paleta
 // Base: RoyalBlue -	#4169E1
 // URL: http://paletton.com/#uid=13O0u0kpDPqk6SumVQZstNFvGLC
-#$primary-color-1: #4169E1;
-#$primary-color-2: #6788E9;
-#$primary-color-3: #5378E5;
-#$primary-color-4: #2E5ADC;
-#$primary-color-5: #1A4AD7;
+$primary-color-1: #4169E1;
+$primary-color-2: #6788E9;
+$primary-color-3: #5378E5;
+$primary-color-4: #2E5ADC;
+$primary-color-5: #1A4AD7;
 // Auxiliar: Greyish lightest
 // URL: http://paletton.com/#uid=13O0u0k18O17rzm4NFO2nx-35tf
-$auxiliary-color1: #D6D8DD;
-$auxiliary-color2: #9099B5;
-$auxiliary-color3: #AEB4C8;
-$auxiliary-color4: #A5A8B0;
-$auxiliary-color5: #90939D;
+$auxiliary-color-1: #D6D8DD;
+$auxiliary-color-2: #9099B5;
+$auxiliary-color-3: #AEB4C8;
+$auxiliary-color-4: #A5A8B0;
+$auxiliary-color-5: #90939D;
+
+body { padding-bottom: 100px; }
+
+nav {
+    display: block;
+    padding: 4px;
+    color: #333;
+    background-color: #EEE;
+    font-size: small;
+    a {
+        margin: 0 4px;
+        color: $primary-color-1;
+        text-decoration: none;
+    }
+    a:hover { color: red; }
+    a[href="#"] { color: gray; }
+    span { background-color: #616161!important; }
+}
+
+header {
+    display: block;
+    div:first-child {
+        margin: auto;
+        padding: 0;
+        height: 44px;
+        color: #FFF;
+        background-color: $primary-color-1;
+        text-align: center;
+        text-transform: uppercase;
+        font-weight: bold;
+        font-size: xx-large;
+    }
+    nav {
+        text-align: center;
+        text-transform: uppercase;
+    }
+    nav[class=main-page] {
+        font-size: larger;
+        font-weight: bold;
+    }
+    .info {
+        color: #333;
+        background-color: #EEE;
+        text-align: center;
+        font-weight: bold;
+    }
+}
+
+main {
+    display: block;
+    margin: 0 12px;
+}
+
+.cards {
+    margin: 4px;
+    padding: 0;
+    border: 1px solid $auxiliary-color-3;
+    h1 {
+        margin: 6px;
+        color: #FFF;
+        background-color: $primary-color-1;
+        border: 1px solid $primary-color-5;
+        text-align: center;
+        text-transform: uppercase;
+        font-size: small;
+        font-weight: bold;
+    }
+    p {
+        margin: 10px;
+        color: #333;
+        text-align: justify;
+        text-indent: 0;
+        font-size: small;
+    }
+    li {
+        padding-right: 10px;
+        color: #333;
+        font-size: small;
+    }
+    dl {
+        margin: 10px;
+        color: #333;
+        text-align: justify;
+        font-size: small;
+    }
+    img {
+        display: block;
+        margin: 10px auto;
+        text-align: center;
+    }
+}
+
+.user-story {
+    div { padding: 0 10px; }
+    header { background-color: $primary-color-2; }
+    h1 {
+        color: #FFF;
+        text-align: center;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+    h2 {
+        text-transform: uppercase;
+        font-weight: normal;
+    }
+    p {
+        text-align: justify;
+        text-indent: 0;
+    }
+}
+
+footer {
+    display: block;
+    position: fixed;
+    margin-top: 2px;
+    padding: 2px;
+    height: 100px;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    color: #333;
+    background-color: $auxiliary-color-1;
+    border-top: 5px solid $primary-color-1;
+    text-align: center;
+    font-size: x-small;
+    hr {
+        margin: 6px auto;
+        height: 1px;
+        width: 66%;
+        border-color: $primary-color-2;
+    }
+    img { display: inline; }
+    a { margin: 0 5px; }
+}
+
+.center { text-align: center!important; }
+.justify { text-align: justify!important; }
+.uppercase { text-transform: uppercase; }
+
+h1 {
+    color: $primary-color-1;
+    text-transform: uppercase;
+    font-size: large;
+    font-weight: bold;
+}
+h2{
+    color: $primary-color-1;
+    text-transform: uppercase;
+    font-size: large;
+}
+h3 {
+    color: $primary-color-1;
+    text-transform: capitalize;
+    font-size: large;
+}
+aside {
+    display: block;
+    h1 { color: #333; }
+}
+
+p {
+    color: 333;
+    text-indent: 20px;
+    text-align: justify;
+}
+
+.textbox {
+    padding: 20px;
+    color: #666;
+    background: #EEE;
+    text-indent: 0px;
+    ::first-line {
+        color: #333;
+        font-weight: bold;
+    }
+}
+
+pre {
+    display: inline-block;
+    color: #666;
+    background-color: #EEE;
+}
+
+img {
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+    +p {
+        text-align: center;
+        text-indent: 0px;
+        font-size: x-small;
+        font-style: italic;
+    }
+}
+
+li {
+    text-align: justify;
+    a { color: blue; }
+}
+
+dl {
+    font-size: small;
+    a {
+        color: $primary-color-4;
+        text-transform: uppercase;
+        text-decoration: none;
+    }
+    a:hover { color: $primary-color-2; }
+}
+dd { font-style: italic; }
+
+.book {
+    padding: 2px;
+    text-align: center;
+    p {
+        text-indent: 0px;
+        font-size: xx-small;
+        font-style: normal;
+    }
+    img { width: 120px; }
+    .title {
+        text-align: center;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+    .author {
+        text-align: center;
+        font-style: italic;
+    }
+    .description {
+        font-size: small;
+    }
+    a {
+        color: blue;
+        text-transform: uppercase;
+        text-decoration: none;
+        font-size: xx-small;
+        font-weight: bold;
+    }
+}
+
+section, article, figure { display: block; }
