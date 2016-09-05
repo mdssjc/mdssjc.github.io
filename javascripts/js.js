@@ -52,12 +52,15 @@ function criarControle() {
 
 function gotoTop() { window.scrollTo(0, 0); }
 function gotoBack() { window.history.back(); }
+function detectMobile() { return window.innerWidth <= 600 || window.innerHeight <= 400; }
 
 // Event Trigger
 window.onload = function() {
     var path = location.pathname;
 
-    githubRibbon();
+    if (!detectMobile()) {
+        githubRibbon();
+    }
     if (path.indexOf("index.html") == -1) {
         criarControle();
     }
