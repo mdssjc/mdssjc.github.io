@@ -31,42 +31,29 @@ function githubRibbon() {
     image.setAttribute("style", "position: absolute; top: 0; right: 0; border: 0;");
     image.setAttribute("src", "images/github-ribbon.png");
     image.setAttribute("alt", "Fork me on GitHub");
-    // image.setAttribute("data-canonical-src", "https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png");
 
     link.appendChild(image);
     document.body.appendChild(link);
 }
 
-// Botões de Controle
+// Botão de Controle
 function criarControle() {
-    var elementDiv = document.createElement("div");
-    elementDiv.setAttribute("style", "display: block; position: fixed; bottom: 2px; right: 2px;");
-    var elementTop = document.createElement("i");
-    elementTop.setAttribute("class", "fa fa-arrow-circle-up fa-2x");
-    elementTop.setAttribute("style", "margin-right: 5px;");
-    elementTop.setAttribute("aria-hidden", "true");
+    var elementTop = document.createElement("img");
+    elementTop.setAttribute("style", "display: block; position: fixed; bottom: 10px; right: 10px;");
+    elementTop.setAttribute("src", "images/goto-top.png");
+    elementTop.setAttribute("alt", "Topo da página");
+    elementTop.setAttribute("title", "Topo da página");
     elementTop.setAttribute("onclick", "gotoTop()");
-    var elementBack = document.createElement("i");
-    elementBack.setAttribute("class", "fa fa-arrow-circle-left fa-2x");
-    elementBack.setAttribute("style", "margin-right: 5px;");
-    elementBack.setAttribute("aria-hidden", "true");
-    elementBack.setAttribute("onclick", "gotoBack()");
 
-    elementDiv.appendChild(elementBack);
-    elementDiv.appendChild(elementTop);
-    document.body.appendChild(elementDiv);
+    document.body.appendChild(elementTop);
 }
 
 function gotoTop() {
     window.scrollTo(0, 0);
 }
 
-function gotoBack() {
-    window.history.back();
-}
-
 function detectMobile() {
-    return window.innerWidth <= 600 || window.innerHeight <= 400;
+    return window.innerWidth <= 600 || window.innerHeight <= 200;
 }
 
 // Event Trigger
