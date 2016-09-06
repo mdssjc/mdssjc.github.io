@@ -13,7 +13,7 @@
         (i[r].q = i[r].q || []).push(arguments);
     }, i[r].l = 1 * new Date();
     a = s.createElement(o),
-        m = s.getElementsByTagName(o)[0];
+    m = s.getElementsByTagName(o)[0];
     a.async = 1;
     a.src = g;
     m.parentNode.insertBefore(a, m);
@@ -40,6 +40,7 @@ function githubRibbon() {
 function criarControle() {
     var elementTop = document.createElement("img");
     elementTop.setAttribute("style", "display: block; position: fixed; bottom: 10px; right: 10px;");
+    elementTop.setAttribute("id", "goto-top");
     elementTop.setAttribute("src", "images/goto-top.png");
     elementTop.setAttribute("alt", "Topo da página");
     elementTop.setAttribute("title", "Topo da página");
@@ -56,16 +57,21 @@ function detectMobile() {
     return window.innerWidth <= 600 || window.innerHeight <= 200;
 }
 
-// Event Trigger
-window.onload = function() {
-    var path = location.pathname;
+function detectScrollBar() {
+    return window.pageYOffset > 0;
+}
 
+// Event Trigger
+window.onscroll = function() {
+    document.getElementById("goto-top").style.visibility = detectScrollBar() ? "visible" : "hidden";
+}
+
+window.onload = function() {
     if (!detectMobile()) {
         githubRibbon();
     }
-    if (path.indexOf("index.html") == -1) {
-        criarControle();
-    }
+    criarControle();
+    detectScrollBar();
     // loadCSS( "stylesheets/css.css" );
     // loadCSS( "http://www.w3schools.com/lib/w3.css" );
 }
