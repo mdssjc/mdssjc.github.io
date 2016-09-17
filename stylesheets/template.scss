@@ -229,7 +229,10 @@ dl {
         text-decoration: none;
     }
     a:hover { color: $primary-color-2; }
-    img { display: inline; }
+    img {
+        display: inline;
+        vertical-align: middle;
+    }
     dd { font-style: italic; }
 }
 
