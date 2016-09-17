@@ -1,0 +1,243 @@
+/* CSS - Cascading Style Sheet */
+
+/* Estilos do Tema */
+/* Paleta base: RoyalBlue -	#4169E1 */
+/* Palette URL: http://paletton.com/#uid=13O0u0kpDPqk6SumVQZstNFvGLC */
+/* #4169E1 */
+/* #6788E9 */
+/* #5378E5 */
+/* #2E5ADC */
+/* #1A4AD7 */
+
+/* Paleta auxiliar: Greyish lightest */
+/* Palette URL: http://paletton.com/#uid=13O0u0k18O17rzm4NFO2nx-35tf */
+/* #D6D8DD */
+/* #9099B5 */
+/* #AEB4C8 */
+/* #A5A8B0 */
+/* #90939D */
+
+/* Estilos Estruturais */
+body { padding-bottom: 100px; }
+
+nav {
+    padding: 4px;
+    color: #333;
+    background-color: #EEE;
+    font-size: small;
+}
+nav a {
+    margin: 0px 4px;
+    color: #4169E1;
+    text-decoration: none;
+}
+nav a:hover { color: red; }
+nav a[href="#"] { color: gray; }
+nav span { background-color: #616161 !important; }
+
+header div:first-child {
+    margin: auto;
+    padding: 0px;
+    height: 44px;
+    color: #FFF;
+    background-color: #4169E1;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+}
+header nav {
+    text-align: center;
+    text-transform: uppercase;
+}
+header nav[class=main-page] {
+    font-size: larger;
+    font-weight: bold;
+}
+header .info {
+    color: #333;
+    background-color: #EEE;
+    text-align: center;
+    font-weight: bold;
+}
+
+main { margin: 0px 12px; }
+
+.cards {
+    margin: 4px;
+    padding: 0px;
+    border: 1px solid #AEB4C8;
+}
+.cards h1 {
+    margin: 6px;
+    color: white;
+    background-color: #4169E1;
+    border: 1px solid #1A49D7;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: small;
+}
+.cards p {
+    margin: 10px;
+    color: #333;
+    text-align: justify;
+    text-indent: 0px;
+    font-size: small;
+}
+.cards li {
+    padding-right: 10px;
+    color: #333;
+    font-size: small;
+}
+.cards dl {
+    margin: 10px;
+    color: #333;
+    text-align: justify;
+    font-size: small;
+}
+.cards img {
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+}
+
+.user-story div { padding: 0px 10px; }
+.user-story header { background-color: #6788E9; }
+.user-story h1 {
+    color: #FFF;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+}
+.user-story h2 {
+    text-transform: uppercase;
+    font-weight: normal;
+}
+.user-story p {
+    text-indent: 0px;
+    text-align: justify;
+}
+/* .user-story li { text-align: justify; } */
+
+footer {
+    display: block;
+    position: fixed;
+    margin-top: 2px;
+    padding: 2px;
+    height: 100px;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    color: #333;
+    background-color: #D6D8DD;
+    border-top: 5px solid #4169E1;
+    text-align: center;
+    font-size: x-small;
+}
+footer hr {
+    margin: 6px auto;
+    height: 1px;
+    width: 66%;
+    border-color: #6788E9;
+}
+footer img {
+    display: inline;
+}
+footer a {
+    margin: 0px 5px;
+}
+
+.center { text-align: center !important; }
+.justify { text-align: justify !important; }
+.uppercase { text-transform: uppercase; }
+
+/* Estilos do Texto */
+h1,h2,h3 {
+    color: #4169E1;
+    font-size: large;
+}
+h1,h2 { text-transform: uppercase; }
+h1 { font-weight: bold; }
+h3 { text-transform: capitalize; }
+aside h1 { color: #333; }
+
+p {
+    color: 333;
+    text-indent: 20px;
+    text-align: justify;
+}
+.textbox {
+    padding: 20px;
+    color: #666;
+    background: #EEE;
+    text-indent: 0px;
+}
+.textbox::first-line {
+    color: #333;
+    font-weight: bold;
+}
+pre {
+    display: inline-block;
+    color: #666;
+    background-color: #EEE;
+}
+
+img {
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+}
+img+p {
+    text-align: center;
+    text-indent: 0px;
+    font-size: x-small;
+    font-style: italic;
+}
+
+li { text-align: justify; }
+li a { color: blue; }
+
+dl { font-size: small; }
+dl a {
+    color: #2E5ADC;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+dl a:hover { color: #6788E9; }
+dd { font-style: italic; }
+
+.book {
+    padding: 2px;
+    text-align: center;
+}
+.book p {
+    text-indent: 0px;
+    font-size: xx-small;
+    font-style: normal;
+}
+.book img { width: 120px; }
+.book .title {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.book .author {
+    text-align: center;
+    font-style: italic;
+}
+.book .description {
+    font-size: small;
+}
+.book a {
+    color: blue;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: xx-small;
+    font-weight: bold;
+}
+
+/* Compatibilidade com HTML5 */
+header, section, footer, aside, nav, main, article, figure {
+    display: block;
+}
