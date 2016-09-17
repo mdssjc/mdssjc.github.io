@@ -58,12 +58,12 @@ function detectMobile() {
 }
 
 function detectScrollBar() {
-    return window.pageYOffset > 0;
+    document.getElementById("goto-top").style.visibility = window.pageYOffset > 0 ? "visible" : "hidden";
 }
 
 // Event Trigger
 window.onscroll = function() {
-    document.getElementById("goto-top").style.visibility = detectScrollBar() ? "visible" : "hidden";
+    detectScrollBar();
 }
 
 window.onload = function() {
@@ -72,6 +72,4 @@ window.onload = function() {
     }
     criarControle();
     detectScrollBar();
-    // loadCSS( "stylesheets/css.css" );
-    // loadCSS( "http://www.w3schools.com/lib/w3.css" );
 }
