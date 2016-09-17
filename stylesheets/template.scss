@@ -229,8 +229,9 @@ dl {
         text-decoration: none;
     }
     a:hover { color: $primary-color-2; }
+    img { display: inline; }
+    dd { font-style: italic; }
 }
-dd { font-style: italic; }
 
 .book {
     padding: 2px;
