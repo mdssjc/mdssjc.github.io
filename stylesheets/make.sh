@@ -6,8 +6,10 @@
 # autor: Marcelo dos Santos
 #
 
-# install sass
-# install cssnano cssnano-cli
+# Ruby:
+#   gem install sass
+# NodeJS:
+#   npm install -g cssnano cssnano-cli
 # chmod +x make.sh
 
 echo "Gerando CSS..."
