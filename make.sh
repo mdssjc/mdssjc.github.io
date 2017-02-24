@@ -7,6 +7,6 @@
 #
 
 echo "Modificando o diretório para "
-cd stylesheets
+cd css
 echo $(pwd)
 ./make.sh

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rss version="2.0">
+ <channel>
+  <title>Página MDS: Posts tagged 'racket frog update citações orgmode'</title>
+  <description>Página MDS: Posts tagged 'racket frog update citações orgmode'</description>
+  <link>http://mdssjc.github.io/tags/racket-frog-update-citações-orgmode.html</link>
+  <lastBuildDate>Fri, 24 Feb 2017 18:00:00 UT</lastBuildDate>
+  <pubDate>Fri, 24 Feb 2017 18:00:00 UT</pubDate>
+  <ttl>1800</ttl>
+  <item>
+   <title>Atualização da Página</title>
+   <link>http://mdssjc.github.io/blog/2017/02/24/atualização-da-página/?utm_source=racket-frog-update-citações-orgmode&amp;utm_medium=RSS</link>
+   <guid>urn:http-mdssjc-github-io:-blog-2017-02-24-atualização-da-página</guid>
+   <pubDate>Fri, 24 Feb 2017 18:00:00 UT</pubDate>
+   <description>
+&lt;p&gt;A restruturação da Página do MDS com Racket&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;p&gt;A nova versão da Página do MDS está utilizando a aplicação &lt;a href="https://github.com/greghendershott/frog"&gt;Frog&lt;/a&gt;, um gerador de conteúdo &lt;em&gt;Web&lt;/em&gt; estático desenvolvido em &lt;em&gt;Racket&lt;/em&gt; (&lt;em&gt;Lisp&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;Todo conteúdo referente ao projeto Citações está no repositório em arquivo &lt;em&gt;Orgmode&lt;/em&gt;, na página será incluída apenas a sumarização das informações - a última atualização está em &lt;a href="https://github.com/mdssjc/citacoes/blob/master/design/Projeto.org"&gt;Projeto.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As listas de livros, marcações e etc&amp;hellip; serão atualizadas e convertidas para o novo sistema.&lt;/p&gt;
+
+&lt;p&gt;Todas as referências estão localizadas ao topo da página.&lt;/p&gt;</description></item></channel></rss>
