@@ -1,6 +1,6 @@
     Title: Atualização da Página
     Date: 2017-02-24T15:00:00
-    Tags: racket frog update citações orgmode
+    Tags: racket, frog, update, citações, orgmode
 
 A restruturação da Página do MDS com Racket...
 
