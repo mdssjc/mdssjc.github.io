@@ -16,3 +16,12 @@
 ### Referência
 
   * [**Design Patterns: Elements of Reusable Object-Oriented Software**](http://wiki.c2.com/?DesignPatternsBook/): livro sobre padrões de projeto (*Design Patterns*) do GoF (*Gang of Four*).
+
+## Carreira
+
+  * [**The Pragmatic Programmer from Journeyman to Master**](https://pragprog.com/book/tpp/the-pragmatic-programmer/): livro de *David Thomas*, *Andrew Hunt*; apresenta um grande compilado de ensinamentos para fortalecer o conhecimento e experiência do leitor, altamente recomendável para desenvolvedores de diferentes níveis de conhecimento.
+
+## Java
+
+  * [**Pragmatic Unit Testing in Java 8 with JUnit**](https://pragprog.com/book/utj2/pragmatic-unit-testing-in-java-8-with-junit/): livro de *Jeff Langr*, *Andy Hunt*, *Dave Thomas*; apresenta os conceitos sobre testes unitários com o *Java* 8, abordando as principais técnicas e ferramentas em um caso de uso.
+  * [**Functional Programming in Java Harnessing the Power Of Java 8 Lambda Expressions**](https://pragprog.com/book/vsjava8/functional-programming-in-java/): livro de *Venkat Subramaniam*; apresenta uma abordagem dos recursos de programação funcional apresentados no *Java* 8 para os problemas diários encontrados pelos desenvolvedores.
