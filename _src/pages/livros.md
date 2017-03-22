@@ -3,7 +3,7 @@
 ## Online
 
   * [**The Nature of Code**](http://natureofcode.com/): livro de *Processing* com estratégias e técnicas de programação sobre simulação computacional.
-  * [**How to Design Programs**](http://www.ccs.neu.edu/home/matthias/HtDP2e/): livro de *Racket* sobre desenvolvimento de *software*.
+  * [**How to Design Programs**](http://www.ccs.neu.edu/home/matthias/HtDP2e/): livro de *Racket* sobre metodologia de desenvolvimento de *software*.
 
 ## Arquitetura de Software
 
