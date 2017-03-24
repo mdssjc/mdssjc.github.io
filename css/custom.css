@@ -123,7 +123,8 @@ main {
       font-size: x-small;
       font-style: italic; }
   .posts li {
-    text-align: justify; }
+    text-align: justify;
+    text-indent: 0px; }
     .posts li a {
       color: blue; }
   .posts dl {
