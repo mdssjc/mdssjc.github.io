@@ -2,8 +2,10 @@
 
 ## Online
 
-  * [**The Nature of Code**](http://natureofcode.com/): livro de *Processing* com estratégias e técnicas de programação sobre simulação computacional.
+  * [**Introduction to Computing - Explorations in Language, Logic, and Machines**](http://computingbook.org/): livro de *David Evans*; apresenta uma introdução para a computação.
   * [**How to Design Programs**](http://www.ccs.neu.edu/home/matthias/HtDP2e/): livro de *Racket* sobre metodologia de desenvolvimento de *software*.
+  * [**Think Java**](http://books.trinket.io/thinkjava/): livro de *Allen Downey*, *Chris Mayfield*; apresenta uma introdução para a tecnologia *Java*.
+  * [**The Nature of Code**](http://natureofcode.com/): livro de *Processing* com estratégias e técnicas de programação sobre simulação computacional.
 
 ## Arquitetura de Software
 
