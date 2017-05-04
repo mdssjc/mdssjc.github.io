@@ -1,4 +1,5 @@
 http://mdssjc.github.io/blog/2017/02/24/atualização-da-página/
+http://mdssjc.github.io/blog/2017/05/04/emacs/
 http://mdssjc.github.io/pages/sobre.html
 http://mdssjc.github.io/pages/livros.html
 http://mdssjc.github.io/pages/artigos.html
