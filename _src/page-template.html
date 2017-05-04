@@ -51,8 +51,8 @@
         <a href="@|uri-prefix|/pages/sobre.html">Sobre...</a>
       </nav>
       <div class="w3-row">
-        <p class="w3-twothird">Março de 2017</p>
-        <p class="w3-third">Atualizado em: 21/03/2017</p>
+        <p class="w3-twothird">Maio de 2017</p>
+        <p class="w3-third">Atualizado em: 04/05/2017</p>
       </div>
     </header>
     <!-- Cabeçalho -->
@@ -62,7 +62,8 @@
       @(local-require racket/date)
       @(when (string-ci=? uri-path (string-append uri-prefix "/index.html"))
         @list{
-          <p>Bem-vindo a Página do MDS, sendo reestruturada com o <em>Frog</em>:</p>
+      <p>Bem-vindo a Página do MDS</p>
+      <p>Adicionado duas referências para livros <em>online</em>.</p>
           @|contents|
       })
       <div class="posts">
