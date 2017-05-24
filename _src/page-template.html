@@ -47,12 +47,13 @@
       <p class="logo"><a href="@|uri-prefix|/index.html">MDS</a></p>
       <nav>
         <a href="@|uri-prefix|/pages/artigos.html">Artigos</a>
+        <a href="@|uri-prefix|/pages/marcadores.html">Marcadores</a>
         <a href="@|uri-prefix|/pages/livros.html">Livros</a>
         <a href="@|uri-prefix|/pages/sobre.html">Sobre...</a>
       </nav>
       <div class="w3-row">
         <p class="w3-twothird">Maio de 2017</p>
-        <p class="w3-third">Atualizado em: 04/05/2017</p>
+        <p class="w3-third">Atualizado em: 24/05/2017</p>
       </div>
     </header>
     <!-- Cabeçalho -->
@@ -63,7 +64,7 @@
       @(when (string-ci=? uri-path (string-append uri-prefix "/index.html"))
         @list{
       <p>Bem-vindo a Página do MDS</p>
-      <p>Adicionado duas referências para livros <em>online</em>.</p>
+      <p>A lista de marcadores está convertida para a página.</p>
           @|contents|
       })
       <div class="posts">
