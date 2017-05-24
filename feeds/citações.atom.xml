@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
- <title type="text">Página MDS: Posts tagged 'orgmode'</title>
- <link rel="self" href="http://mdssjc.github.io/feeds/orgmode.atom.xml" />
- <link href="http://mdssjc.github.io/tags/orgmode.html" />
- <id>urn:http-mdssjc-github-io:-tags-orgmode-html</id>
+ <title type="text">Página MDS: Posts tagged 'citações'</title>
+ <link rel="self" href="http://mdssjc.github.io/feeds/citac%CC%A7o%CC%83es.atom.xml" />
+ <link href="http://mdssjc.github.io/tags/citac%CC%A7o%CC%83es.html" />
+ <id>urn:http-mdssjc-github-io:-tags-citac-CC-A7o-CC-83es-html</id>
  <updated>2017-02-24T18:00:00Z</updated>
  <entry>
   <title type="text">Atualização da Página</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/02/24/atualização-da-página/?utm_source=orgmode&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/02/24/atualização-da-página/?utm_source=citac%CC%A7o%CC%83es&amp;utm_medium=Atom" />
   <id>urn:http-mdssjc-github-io:-blog-2017-02-24-atualização-da-página</id>
   <published>2017-02-24T18:00:00Z</published>
   <updated>2017-02-24T18:00:00Z</updated>
