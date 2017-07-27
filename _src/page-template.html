@@ -61,7 +61,9 @@
       @(local-require racket/date)
       @(when (string-ci=? uri-path (string-append uri-prefix "/index.html"))
         @list{
-      <p>A página traz materiais com aspecto temporal sobre o objeto de estudo do sistema MDS (ver em <a href="@|uri-prefix|/pages/sobre.html">Sobre...</a>) com artigos, notícias e resumos da semana.</p>
+      <p>A página traz materiais com aspecto temporal sobre o objeto de estudo do sistema MDS (ver em <a href="@|uri-prefix|/pages/sobre.html">Sobre...</a>) com artigos, notícias e resumos da semana.
+        <br/>
+        Os resumos da semana serão adicionados a partir de Agosto/17.</p>
           @|contents|
       })
       <div class="posts">
