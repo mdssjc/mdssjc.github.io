@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
- <title type="text">Página MDS: Posts tagged 'mooc'</title>
- <link rel="self" href="http://mdssjc.github.io/feeds/mooc.atom.xml" />
- <link href="http://mdssjc.github.io/tags/mooc.html" />
- <id>urn:http-mdssjc-github-io:-tags-mooc-html</id>
+ <title type="text">Página MDS: Posts tagged 'haskell'</title>
+ <link rel="self" href="http://mdssjc.github.io/feeds/haskell.atom.xml" />
+ <link href="http://mdssjc.github.io/tags/haskell.html" />
+ <id>urn:http-mdssjc-github-io:-tags-haskell-html</id>
  <updated>2017-08-01T14:00:00Z</updated>
  <entry>
   <title type="text">Curso de Haskell</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/08/01/curso-de-haskell?utm_source=mooc&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/08/01/curso-de-haskell?utm_source=haskell&amp;utm_medium=Atom" />
   <id>urn:http-mdssjc-github-io:-blog-2017-08-01-curso-de-haskell</id>
   <published>2017-08-01T14:00:00Z</published>
   <updated>2017-08-01T14:00:00Z</updated>
@@ -30,24 +30,4 @@
 &lt;ul&gt;
  &lt;li&gt;as vídeos aulas de &lt;a href="https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-1/" title="C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals"&gt;C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals&lt;/a&gt;;&lt;/li&gt;
  &lt;li&gt;o livro &lt;a href="http://learnyouahaskell.com/" title="Learn You a Haskell for Great Good!"&gt;Learn You a Haskell for Great Good!&lt;/a&gt; ou sua versão em português &lt;a href="http://haskell.tailorfontela.com.br/" title="Aprender Haskell será um grande bem para você!"&gt;Aprender Haskell será um grande bem para você!&lt;/a&gt;; e&lt;/li&gt;
- &lt;li&gt;os artigos do &lt;em&gt;blog&lt;/em&gt; &lt;a href="http://www.adit.io/" title="Adit"&gt;Adit&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;</content></entry>
- <entry>
-  <title type="text">Cursos Oracle MOOC</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/07/14/cursos-oracle-mooc?utm_source=mooc&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2017-07-14-cursos-oracle-mooc</id>
-  <published>2017-07-14T15:19:37Z</published>
-  <updated>2017-07-14T15:19:37Z</updated>
-  <author>
-   <name>Marcelo dos Santos</name></author>
-  <content type="html">
-&lt;p&gt;A &lt;em&gt;Oracle&lt;/em&gt; está oferecendo dois cursos sobre &lt;em&gt;Microservices&lt;/em&gt; e &lt;em&gt;Cloud Services&lt;/em&gt;&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;p&gt;Em 17 de Julho de 2017 começa o curso &lt;em&gt;Java Microservices Using Oracle Cloud - Session 2&lt;/em&gt; - matrícula &lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:11342201462029::NO:RP,149:P149_EVENT_ID,P149_PREV_PAGE:5535,2" title="Clique aqui para matricular"&gt;AQUI&lt;/a&gt;, o curso possui 3 semanas e aborda o seguinte conteúdo:&lt;/p&gt;
-
-&lt;ul&gt;
- &lt;li&gt;Introdução para &lt;em&gt;REST&lt;/em&gt; e &lt;em&gt;Microservices&lt;/em&gt;;&lt;/li&gt;
- &lt;li&gt;Aplicação &lt;em&gt;RESTful&lt;/em&gt; com &lt;em&gt;Spring Boot&lt;/em&gt;; e&lt;/li&gt;
- &lt;li&gt;&lt;em&gt;Oracle Developer Cloud Services&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;
-
-&lt;p&gt;Já em 07 de Agosto de 2017 começa o curso &lt;em&gt;Introduction to Java Cloud Services&lt;/em&gt; - matrícula &lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:11342201462029::NO:RP,149:P149_EVENT_ID,P149_PREV_PAGE:5528,2" title="Clique aqui para matricular"&gt;AQUI&lt;/a&gt;, o curso possui 3 semanas e aborda uma material sobre &lt;em&gt;Oracle Cloud&lt;/em&gt;.&lt;/p&gt;</content></entry></feed>
+ &lt;li&gt;os artigos do &lt;em&gt;blog&lt;/em&gt; &lt;a href="http://www.adit.io/" title="Adit"&gt;Adit&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>

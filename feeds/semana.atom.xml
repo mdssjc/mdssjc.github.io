@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+ <title type="text">Página MDS: Posts tagged 'semana'</title>
+ <link rel="self" href="http://mdssjc.github.io/feeds/semana.atom.xml" />
+ <link href="http://mdssjc.github.io/tags/semana.html" />
+ <id>urn:http-mdssjc-github-io:-tags-semana-html</id>
+ <updated>2017-08-04T15:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 31</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/08/04/resumo-da-semana-31?utm_source=semana&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2017-08-04-resumo-da-semana-31</id>
+  <published>2017-08-04T15:00:00Z</published>
+  <updated>2017-08-04T15:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 31º semana do ano de 2017&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://12factor.net/" title="The Twelve-Factor App"&gt;The Twelve-Factor App&lt;/a&gt;: princípios para o desenvolvimento de aplicações na arquitetura &lt;em&gt;microservices&lt;/em&gt;, em vários idiomas.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://blog.racket-lang.org/2017/07/racket-v6-10.html" title="Racket"&gt;Racket&lt;/a&gt;: lançada a versão 6.10 da linguagem &lt;em&gt;Racket&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>

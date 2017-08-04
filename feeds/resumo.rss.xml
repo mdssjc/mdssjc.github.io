@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rss version="2.0">
+ <channel>
+  <title>Página MDS: Posts tagged 'resumo'</title>
+  <description>Página MDS: Posts tagged 'resumo'</description>
+  <link>http://mdssjc.github.io/tags/resumo.html</link>
+  <lastBuildDate>Fri, 04 Aug 2017 15:00:00 UT</lastBuildDate>
+  <pubDate>Fri, 04 Aug 2017 15:00:00 UT</pubDate>
+  <ttl>1800</ttl>
+  <item>
+   <title>Resumo da Semana 31</title>
+   <link>http://mdssjc.github.io/blog/2017/08/04/resumo-da-semana-31?utm_source=resumo&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2017-08-04-resumo-da-semana-31</guid>
+   <pubDate>Fri, 04 Aug 2017 15:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;Segue o resumo da 31º semana do ano de 2017&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://12factor.net/" title="The Twelve-Factor App"&gt;The Twelve-Factor App&lt;/a&gt;: princípios para o desenvolvimento de aplicações na arquitetura &lt;em&gt;microservices&lt;/em&gt;, em vários idiomas.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://blog.racket-lang.org/2017/07/racket-v6-10.html" title="Racket"&gt;Racket&lt;/a&gt;: lançada a versão 6.10 da linguagem &lt;em&gt;Racket&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
