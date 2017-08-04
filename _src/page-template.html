@@ -51,7 +51,7 @@
       </nav>
       <div class="w3-row">
         <p class="w3-twothird">Bem-vindo a Página do MDS</p>
-        <p class="w3-third">Atualizado em: 28/07/2017</p>
+        <p class="w3-third">Atualizado em: 04/08/2017</p>
       </div>
     </header>
     <!-- Cabeçalho -->
@@ -61,21 +61,26 @@
       @(local-require racket/date)
       @(when (string-ci=? uri-path (string-append uri-prefix "/index.html"))
         @list{
-      <p>A página traz materiais com aspecto temporal sobre o objeto de estudo do sistema MDS (ver em <a href="@|uri-prefix|/pages/sobre.html">Sobre...</a>) com artigos, notícias e resumos da semana.
-        <br/>
-        Os resumos da semana serão adicionados a partir de Agosto/17.</p>
+      <p>A página traz materiais com aspecto temporal sobre o objeto de estudo do sistema MDS (ver em <a href="@|uri-prefix|/pages/sobre.html">Sobre...</a>) com artigos, notícias e resumos da semana.</p>
           @|contents|
       })
       <div class="posts">
         @(when (not (string-ci=? uri-path (string-append uri-prefix "/index.html")))
           @(when tag
             @list{
-              <h1>Posts tagged <em>@|tag|</em></h1>
-          })
+        <h1>Posts tagged <em>@|tag|</em></h1>
+        })
         @|contents|)
       </div>
     </main>
     <!-- Conteúdo -->
+
+    <!-- Twitter -->
+    <div>
+      <a class="twitter-timeline" data-width="640" data-height="320" href="https://twitter.com/mdssjc">Tweets by mdssjc</a>
+      <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+    <!-- Twitter -->
 
     <!-- Rodapé -->
     <footer class="w3-container">
