@@ -10,7 +10,7 @@ _Haskell_ é uma linguagem de programação no paradigma funcional (base em prin
 
 Os requisitos para o curso são: conhecimento em alguma linguagem de programação como _Python_ ou _Java_ e Inglês.
 
-O curso será realizado em 18 de Setembro de 2017, com duração de 6 semanas - recomendado 4 horas de estudo semanal, com inscrição [Aqui!](https://www.futurelearn.com/courses/functional-programming-haskell/ "Página da inscrição do curso") ou na página da _Future Learn_.
+O curso será realizado em 18 de Setembro de 2017, com duração de 6 semanas - recomendado 4 horas de estudo semanais, com matrícula [Aqui!](https://www.futurelearn.com/courses/functional-programming-haskell/ "Página da matrícula do curso") ou na página da _Future Learn_.
 
 Autores: _Wim Vanderbauwhede_ e _Jeremy Singer_ da _University of Glasgow_.
 
