@@ -4,7 +4,50 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/all.atom.xml" />
  <link href="http://mdssjc.github.io/index.html" />
  <id>urn:http-mdssjc-github-io:-index-html</id>
- <updated>2017-08-04T15:00:00Z</updated>
+ <updated>2017-08-11T15:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 32</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/08/11/resumo-da-semana-32?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2017-08-11-resumo-da-semana-32</id>
+  <published>2017-08-11T15:00:00Z</published>
+  <updated>2017-08-11T15:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 32º semana do ano de 2017&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="http://natureofcode.com" title="Nature of Code"&gt;Nature of Code&lt;/a&gt;: livro sobre programação criativa utilizando a linguagem &lt;em&gt;Processing&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:11342201462029::NO:RP,149:P149_EVENT_ID,P149_PREV_PAGE:5528,2" title="Página de matrícula do curso"&gt;Oracle MOOC: Introduction to Java Cloud Services&lt;/a&gt;: início do curso.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
+ <entry>
+  <title type="text">Curso de SQL</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/08/08/curso-de-sql?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2017-08-08-curso-de-sql</id>
+  <published>2017-08-08T15:10:52Z</published>
+  <updated>2017-08-08T15:10:52Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;A &lt;em&gt;Oracle&lt;/em&gt; está oferecendo um curso sobre SQL&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;p&gt;O curso &lt;em&gt;Oracle MOOC: SQL Fundamentals&lt;/em&gt; é uma introdução aos conceitos de banco de dados relacional e a Linguagem de Consulta Estruturada - &lt;em&gt;Structured Query Language&lt;/em&gt; (SQL), utilizando o &lt;em&gt;Oracle Database 12c&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;A data de início será em 21 de agosto de 2017, com duração de 4 semanas - recomendado de 3 a 5 horas de estudo semanais, os conteúdos abordados são:&lt;/p&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;as formas para manipulação de dados em tabelas;&lt;/li&gt;
+ &lt;li&gt;a criação de relatórios personalizados; e&lt;/li&gt;
+ &lt;li&gt;o gerenciamento de permissões dos privilégios aos usuários do banco de dados.&lt;/li&gt;&lt;/ul&gt;
+
+&lt;p&gt;Os requisitos para o curso são: conhecimento básico de banco de dados e programação; e Inglês.&lt;/p&gt;
+
+&lt;p&gt;A matrícula será realizada clicando &lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:7828508460154:::149:P149_EVENT_ID,P149_PREV_PAGE:5472,147" title="Página de matrícula do curso"&gt;AQUI&lt;/a&gt;.&lt;/p&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 31</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2017/08/04/resumo-da-semana-31?utm_source=all&amp;utm_medium=Atom" />
@@ -38,7 +81,7 @@
 
 &lt;p&gt;Os requisitos para o curso são: conhecimento em alguma linguagem de programação como &lt;em&gt;Python&lt;/em&gt; ou &lt;em&gt;Java&lt;/em&gt; e Inglês.&lt;/p&gt;
 
-&lt;p&gt;O curso será realizado em 18 de Setembro de 2017, com duração de 6 semanas - recomendado 4 horas de estudo semanal, com inscrição &lt;a href="https://www.futurelearn.com/courses/functional-programming-haskell/" title="Página da inscrição do curso"&gt;Aqui!&lt;/a&gt; ou na página da &lt;em&gt;Future Learn&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;O curso será realizado em 18 de Setembro de 2017, com duração de 6 semanas - recomendado 4 horas de estudo semanais, com matrícula &lt;a href="https://www.futurelearn.com/courses/functional-programming-haskell/" title="Página da matrícula do curso"&gt;Aqui!&lt;/a&gt; ou na página da &lt;em&gt;Future Learn&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Autores: &lt;em&gt;Wim Vanderbauwhede&lt;/em&gt; e &lt;em&gt;Jeremy Singer&lt;/em&gt; da &lt;em&gt;University of Glasgow&lt;/em&gt;.&lt;/p&gt;
 
@@ -60,14 +103,14 @@
 &lt;p&gt;A &lt;em&gt;Oracle&lt;/em&gt; está oferecendo dois cursos sobre &lt;em&gt;Microservices&lt;/em&gt; e &lt;em&gt;Cloud Services&lt;/em&gt;&amp;hellip;&lt;/p&gt;
 &lt;!-- more--&gt;
 
-&lt;p&gt;Em 17 de Julho de 2017 começa o curso &lt;em&gt;Java Microservices Using Oracle Cloud - Session 2&lt;/em&gt; - matrícula &lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:11342201462029::NO:RP,149:P149_EVENT_ID,P149_PREV_PAGE:5535,2" title="Clique aqui para matricular"&gt;AQUI&lt;/a&gt;, o curso possui 3 semanas e aborda o seguinte conteúdo:&lt;/p&gt;
+&lt;p&gt;Em 17 de julho de 2017 começa o curso &lt;em&gt;Java Microservices Using Oracle Cloud - Session 2&lt;/em&gt; - matrícula &lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:11342201462029::NO:RP,149:P149_EVENT_ID,P149_PREV_PAGE:5535,2" title="Clique aqui para matricular"&gt;AQUI&lt;/a&gt;, o curso possui 3 semanas e aborda os seguintes conteúdos:&lt;/p&gt;
 
 &lt;ul&gt;
  &lt;li&gt;Introdução para &lt;em&gt;REST&lt;/em&gt; e &lt;em&gt;Microservices&lt;/em&gt;;&lt;/li&gt;
  &lt;li&gt;Aplicação &lt;em&gt;RESTful&lt;/em&gt; com &lt;em&gt;Spring Boot&lt;/em&gt;; e&lt;/li&gt;
  &lt;li&gt;&lt;em&gt;Oracle Developer Cloud Services&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;
 
-&lt;p&gt;Já em 07 de Agosto de 2017 começa o curso &lt;em&gt;Introduction to Java Cloud Services&lt;/em&gt; - matrícula &lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:11342201462029::NO:RP,149:P149_EVENT_ID,P149_PREV_PAGE:5528,2" title="Clique aqui para matricular"&gt;AQUI&lt;/a&gt;, o curso possui 3 semanas e aborda uma material sobre &lt;em&gt;Oracle Cloud&lt;/em&gt;.&lt;/p&gt;</content></entry>
+&lt;p&gt;Já em 07 de agosto de 2017 começa o curso &lt;em&gt;Introduction to Java Cloud Services&lt;/em&gt; - matrícula &lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:11342201462029::NO:RP,149:P149_EVENT_ID,P149_PREV_PAGE:5528,2" title="Clique aqui para matricular"&gt;AQUI&lt;/a&gt;, o curso possui 3 semanas e aborda um material sobre &lt;em&gt;Oracle Cloud&lt;/em&gt;.&lt;/p&gt;</content></entry>
  <entry>
   <title type="text">Emacs</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2017/05/04/emacs?utm_source=all&amp;utm_medium=Atom" />
@@ -77,12 +120,12 @@
   <author>
    <name>Marcelo dos Santos</name></author>
   <content type="html">
-&lt;p&gt;Lançado dia 21 de Abril de 2017, a versão 25.2 do &lt;em&gt;Emacs&lt;/em&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Lançado dia 21 de abril de 2017, a versão 25.2 do &lt;em&gt;Emacs&lt;/em&gt;&amp;hellip;&lt;/p&gt;
 &lt;!-- more--&gt;
 
 &lt;p&gt;A versão 25.2 do &lt;em&gt;Emacs&lt;/em&gt; é principalmente voltado para correções de problemas (&lt;em&gt;bug-fix&lt;/em&gt;).&lt;/p&gt;
 
-&lt;p&gt;Acompanhe em &lt;a href="https://www.gnu.org/software/emacs/"&gt;www.gnu.org/software/emacs&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Acompanhe em &lt;a href="https://www.gnu.org/software/emacs"&gt;www.gnu.org/software/emacs&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Dentre os &lt;em&gt;starter kits&lt;/em&gt;, recomendo:&lt;/p&gt;
 

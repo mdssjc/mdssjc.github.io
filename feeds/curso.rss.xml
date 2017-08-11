@@ -4,9 +4,31 @@
   <title>Página MDS: Posts tagged 'curso'</title>
   <description>Página MDS: Posts tagged 'curso'</description>
   <link>http://mdssjc.github.io/tags/curso.html</link>
-  <lastBuildDate>Tue, 01 Aug 2017 14:00:00 UT</lastBuildDate>
-  <pubDate>Tue, 01 Aug 2017 14:00:00 UT</pubDate>
+  <lastBuildDate>Tue, 08 Aug 2017 15:10:52 UT</lastBuildDate>
+  <pubDate>Tue, 08 Aug 2017 15:10:52 UT</pubDate>
   <ttl>1800</ttl>
+  <item>
+   <title>Curso de SQL</title>
+   <link>http://mdssjc.github.io/blog/2017/08/08/curso-de-sql?utm_source=curso&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2017-08-08-curso-de-sql</guid>
+   <pubDate>Tue, 08 Aug 2017 15:10:52 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;A &lt;em&gt;Oracle&lt;/em&gt; está oferecendo um curso sobre SQL&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;p&gt;O curso &lt;em&gt;Oracle MOOC: SQL Fundamentals&lt;/em&gt; é uma introdução aos conceitos de banco de dados relacional e a Linguagem de Consulta Estruturada - &lt;em&gt;Structured Query Language&lt;/em&gt; (SQL), utilizando o &lt;em&gt;Oracle Database 12c&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;A data de início será em 21 de agosto de 2017, com duração de 4 semanas - recomendado de 3 a 5 horas de estudo semanais, os conteúdos abordados são:&lt;/p&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;as formas para manipulação de dados em tabelas;&lt;/li&gt;
+ &lt;li&gt;a criação de relatórios personalizados; e&lt;/li&gt;
+ &lt;li&gt;o gerenciamento de permissões dos privilégios aos usuários do banco de dados.&lt;/li&gt;&lt;/ul&gt;
+
+&lt;p&gt;Os requisitos para o curso são: conhecimento básico de banco de dados e programação; e Inglês.&lt;/p&gt;
+
+&lt;p&gt;A matrícula será realizada clicando &lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:7828508460154:::149:P149_EVENT_ID,P149_PREV_PAGE:5472,147" title="Página de matrícula do curso"&gt;AQUI&lt;/a&gt;.&lt;/p&gt;</description></item>
   <item>
    <title>Curso de Haskell</title>
    <link>http://mdssjc.github.io/blog/2017/08/01/curso-de-haskell?utm_source=curso&amp;utm_medium=RSS</link>
@@ -21,7 +43,7 @@
 
 &lt;p&gt;Os requisitos para o curso são: conhecimento em alguma linguagem de programação como &lt;em&gt;Python&lt;/em&gt; ou &lt;em&gt;Java&lt;/em&gt; e Inglês.&lt;/p&gt;
 
-&lt;p&gt;O curso será realizado em 18 de Setembro de 2017, com duração de 6 semanas - recomendado 4 horas de estudo semanal, com inscrição &lt;a href="https://www.futurelearn.com/courses/functional-programming-haskell/" title="Página da inscrição do curso"&gt;Aqui!&lt;/a&gt; ou na página da &lt;em&gt;Future Learn&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;O curso será realizado em 18 de Setembro de 2017, com duração de 6 semanas - recomendado 4 horas de estudo semanais, com matrícula &lt;a href="https://www.futurelearn.com/courses/functional-programming-haskell/" title="Página da matrícula do curso"&gt;Aqui!&lt;/a&gt; ou na página da &lt;em&gt;Future Learn&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Autores: &lt;em&gt;Wim Vanderbauwhede&lt;/em&gt; e &lt;em&gt;Jeremy Singer&lt;/em&gt; da &lt;em&gt;University of Glasgow&lt;/em&gt;.&lt;/p&gt;
 

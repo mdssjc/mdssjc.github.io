@@ -4,7 +4,26 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/resumo.atom.xml" />
  <link href="http://mdssjc.github.io/tags/resumo.html" />
  <id>urn:http-mdssjc-github-io:-tags-resumo-html</id>
- <updated>2017-08-04T15:00:00Z</updated>
+ <updated>2017-08-11T15:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 32</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/08/11/resumo-da-semana-32?utm_source=resumo&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2017-08-11-resumo-da-semana-32</id>
+  <published>2017-08-11T15:00:00Z</published>
+  <updated>2017-08-11T15:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 32º semana do ano de 2017&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="http://natureofcode.com" title="Nature of Code"&gt;Nature of Code&lt;/a&gt;: livro sobre programação criativa utilizando a linguagem &lt;em&gt;Processing&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:11342201462029::NO:RP,149:P149_EVENT_ID,P149_PREV_PAGE:5528,2" title="Página de matrícula do curso"&gt;Oracle MOOC: Introduction to Java Cloud Services&lt;/a&gt;: início do curso.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 31</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2017/08/04/resumo-da-semana-31?utm_source=resumo&amp;utm_medium=Atom" />
