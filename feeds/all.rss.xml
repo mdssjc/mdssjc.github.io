@@ -4,9 +4,37 @@
   <title>Página MDS: Página MDS</title>
   <description>Página MDS: Página MDS</description>
   <link>http://mdssjc.github.io/index.html</link>
-  <lastBuildDate>Fri, 15 Sep 2017 15:00:00 UT</lastBuildDate>
-  <pubDate>Fri, 15 Sep 2017 15:00:00 UT</pubDate>
+  <lastBuildDate>Fri, 22 Sep 2017 15:00:00 UT</lastBuildDate>
+  <pubDate>Fri, 22 Sep 2017 15:00:00 UT</pubDate>
   <ttl>1800</ttl>
+  <item>
+   <title>Resumo da Semana 38</title>
+   <link>http://mdssjc.github.io/blog/2017/09/22/resumo-da-semana-38?utm_source=all&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2017-09-22-resumo-da-semana-38</guid>
+   <pubDate>Fri, 22 Sep 2017 15:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;Segue o resumo da 38º semana do ano de 2017&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;Code Smells&lt;/strong&gt;: série de artigos sobre problemas em código (&lt;em&gt;code smells&lt;/em&gt;) com &lt;em&gt;Java&lt;/em&gt;, por Trisha Gee.
+  &lt;ul&gt;
+   &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2017/08/code-smells-null" title="Code Smells: Null"&gt;Null&lt;/a&gt;&lt;/li&gt;
+   &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2017/08/code-smells-deeply-nested-code" title="Code Smells: Deeply Nested Code"&gt;Deeply Nested Code&lt;/a&gt;&lt;/li&gt;
+   &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2017/08/code-smells-iteration" title="Code Smells: Iteration"&gt;Iteration&lt;/a&gt;&lt;/li&gt;
+   &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2017/08/code-smells-mutation" title="Code Smells: Mutation"&gt;Mutation&lt;/a&gt;&lt;/li&gt;
+   &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2017/09/code-smells-multi-responsibility-methods" title="Code Smells: Multi-Responsibility Methods"&gt;Multi-Responsibility Methods&lt;/a&gt;&lt;/li&gt;
+   &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2017/09/code-smells-if-statements" title="Code Smells: If Statements"&gt;If Statements&lt;/a&gt;&lt;/li&gt;
+   &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2017/09/code-smells-too-many-problems" title="Code Smells: Too Many Problems"&gt;Too Many Problems&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://www.futurelearn.com/courses/functional-programming-haskell" title="Página de matrícula do curso"&gt;Functional Programming in Haskell: Supercharge Your Coding&lt;/a&gt;: início do curso.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:105154462252565::NO:RP,149:P149_EVENT_ID:5552" title="Página de matrícula do curso"&gt;Oracle MOOC: Java Virtual Machine Troubleshooting&lt;/a&gt;: início do curso.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://github.com/emacs-mirror/emacs/commit/977cd6cb28a37744966ec62f70cf62659f6f302a" title="Increment Emacs version to 27.0.50"&gt;Increment Emacs version to 27.0.50&lt;/a&gt;: nova versão do &lt;em&gt;Emacs&lt;/em&gt; a caminho.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="http://oracle.com/javadownload" title="Java 9"&gt;Java 9&lt;/a&gt;: lançamento da versão 9 do &lt;em&gt;Java&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>Resumo da Semana 37</title>
    <link>http://mdssjc.github.io/blog/2017/09/15/resumo-da-semana-37?utm_source=all&amp;utm_medium=RSS</link>
@@ -172,7 +200,7 @@
 
 &lt;p&gt;Os requisitos para o curso são: conhecimento em alguma linguagem de programação como &lt;em&gt;Python&lt;/em&gt; ou &lt;em&gt;Java&lt;/em&gt; e Inglês.&lt;/p&gt;
 
-&lt;p&gt;O curso será realizado em 18 de Setembro de 2017, com duração de 6 semanas - recomendado 4 horas de estudo semanais, com matrícula &lt;a href="https://www.futurelearn.com/courses/functional-programming-haskell/" title="Página da matrícula do curso"&gt;Aqui!&lt;/a&gt; ou na página da &lt;em&gt;Future Learn&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;O curso será realizado em 18 de Setembro de 2017, com duração de 6 semanas - recomendado 4 horas de estudo semanais, com matrícula &lt;a href="https://www.futurelearn.com/courses/functional-programming-haskell/" title="Página de matrícula do curso"&gt;Aqui!&lt;/a&gt; ou na página da &lt;em&gt;Future Learn&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Autores: &lt;em&gt;Wim Vanderbauwhede&lt;/em&gt; e &lt;em&gt;Jeremy Singer&lt;/em&gt; da &lt;em&gt;University of Glasgow&lt;/em&gt;.&lt;/p&gt;
 

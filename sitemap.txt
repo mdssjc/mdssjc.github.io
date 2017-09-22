@@ -8,6 +8,7 @@ http://mdssjc.github.io/blog/2017/08/25/resumo-da-semana-34
 http://mdssjc.github.io/blog/2017/09/08/resumo-da-semana-36
 http://mdssjc.github.io/blog/2017/08/01/curso-de-haskell
 http://mdssjc.github.io/blog/2017/09/01/resumo-da-semana-35
+http://mdssjc.github.io/blog/2017/09/22/resumo-da-semana-38
 http://mdssjc.github.io/blog/2017/02/24/atualizac%CC%A7a%CC%83o-da-pa%CC%81gina
 http://mdssjc.github.io/blog/2017/08/04/resumo-da-semana-31
 http://mdssjc.github.io/blog/2017/09/15/resumo-da-semana-37

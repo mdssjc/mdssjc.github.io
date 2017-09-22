@@ -4,7 +4,37 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/resumo.atom.xml" />
  <link href="http://mdssjc.github.io/tags/resumo.html" />
  <id>urn:http-mdssjc-github-io:-tags-resumo-html</id>
- <updated>2017-09-15T15:00:00Z</updated>
+ <updated>2017-09-22T15:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 38</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/09/22/resumo-da-semana-38?utm_source=resumo&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2017-09-22-resumo-da-semana-38</id>
+  <published>2017-09-22T15:00:00Z</published>
+  <updated>2017-09-22T15:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 38º semana do ano de 2017&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;Code Smells&lt;/strong&gt;: série de artigos sobre problemas em código (&lt;em&gt;code smells&lt;/em&gt;) com &lt;em&gt;Java&lt;/em&gt;, por Trisha Gee.
+  &lt;ul&gt;
+   &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2017/08/code-smells-null" title="Code Smells: Null"&gt;Null&lt;/a&gt;&lt;/li&gt;
+   &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2017/08/code-smells-deeply-nested-code" title="Code Smells: Deeply Nested Code"&gt;Deeply Nested Code&lt;/a&gt;&lt;/li&gt;
+   &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2017/08/code-smells-iteration" title="Code Smells: Iteration"&gt;Iteration&lt;/a&gt;&lt;/li&gt;
+   &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2017/08/code-smells-mutation" title="Code Smells: Mutation"&gt;Mutation&lt;/a&gt;&lt;/li&gt;
+   &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2017/09/code-smells-multi-responsibility-methods" title="Code Smells: Multi-Responsibility Methods"&gt;Multi-Responsibility Methods&lt;/a&gt;&lt;/li&gt;
+   &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2017/09/code-smells-if-statements" title="Code Smells: If Statements"&gt;If Statements&lt;/a&gt;&lt;/li&gt;
+   &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2017/09/code-smells-too-many-problems" title="Code Smells: Too Many Problems"&gt;Too Many Problems&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://www.futurelearn.com/courses/functional-programming-haskell" title="Página de matrícula do curso"&gt;Functional Programming in Haskell: Supercharge Your Coding&lt;/a&gt;: início do curso.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:105154462252565::NO:RP,149:P149_EVENT_ID:5552" title="Página de matrícula do curso"&gt;Oracle MOOC: Java Virtual Machine Troubleshooting&lt;/a&gt;: início do curso.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://github.com/emacs-mirror/emacs/commit/977cd6cb28a37744966ec62f70cf62659f6f302a" title="Increment Emacs version to 27.0.50"&gt;Increment Emacs version to 27.0.50&lt;/a&gt;: nova versão do &lt;em&gt;Emacs&lt;/em&gt; a caminho.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="http://oracle.com/javadownload" title="Java 9"&gt;Java 9&lt;/a&gt;: lançamento da versão 9 do &lt;em&gt;Java&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 37</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2017/09/15/resumo-da-semana-37?utm_source=resumo&amp;utm_medium=Atom" />
