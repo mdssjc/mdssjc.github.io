@@ -4,7 +4,28 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/semana.atom.xml" />
  <link href="http://mdssjc.github.io/tags/semana.html" />
  <id>urn:http-mdssjc-github-io:-tags-semana-html</id>
- <updated>2017-09-22T15:00:00Z</updated>
+ <updated>2017-09-29T15:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 39</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/09/29/resumo-da-semana-39?utm_source=semana&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2017-09-29-resumo-da-semana-39</id>
+  <published>2017-09-29T15:00:00Z</published>
+  <updated>2017-09-29T15:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 39º semana do ano de 2017&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:123367777931100:::149:P149_EVENT_ID,P149_PREV_PAGE:5480,147" title="Página de matrícula do curso"&gt;Oracle MOOC: Introduction to NodeJS Using Oracle Cloud&lt;/a&gt;: curso básico de &lt;em&gt;NodeJS&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:123367777931100:::149:P149_EVENT_ID,P149_PREV_PAGE:5571,147" title="Página de matrícula do curso"&gt;Oracle MOOC: PL/SQL Fundamentals&lt;/a&gt;: curso básico de &lt;em&gt;PL/SQL&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:123367777931100:::149:P149_EVENT_ID,P149_PREV_PAGE:5616,147" title="Página de matrícula do curso"&gt;Oracle MOOC: Developing Chatbots with Oracle Intelligent Bots&lt;/a&gt;: curso sobre &lt;em&gt;chatbots&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:123367777931100:::149:P149_EVENT_ID,P149_PREV_PAGE:5610,147" title="Página de matrícula do curso"&gt;Oracle MOOC: Java Coding &amp;amp; Concepts with a Game (Session 2)&lt;/a&gt;: segunda turma do curso básico de &lt;em&gt;Java&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 38</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2017/09/22/resumo-da-semana-38?utm_source=semana&amp;utm_medium=Atom" />
