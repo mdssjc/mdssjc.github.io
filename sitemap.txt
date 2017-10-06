@@ -3,6 +3,7 @@ http://mdssjc.github.io/blog/2017/05/04/emacs
 http://mdssjc.github.io/blog/2017/08/18/resumo-da-semana-33
 http://mdssjc.github.io/blog/2017/08/08/curso-de-sql
 http://mdssjc.github.io/blog/2017/08/22/curso-de-jvm
+http://mdssjc.github.io/blog/2017/10/06/resumo-da-semana-40
 http://mdssjc.github.io/blog/2017/08/11/resumo-da-semana-32
 http://mdssjc.github.io/blog/2017/07/14/cursos-oracle-mooc
 http://mdssjc.github.io/blog/2017/08/25/resumo-da-semana-34

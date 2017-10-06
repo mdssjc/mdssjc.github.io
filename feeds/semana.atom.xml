@@ -4,7 +4,21 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/semana.atom.xml" />
  <link href="http://mdssjc.github.io/tags/semana.html" />
  <id>urn:http-mdssjc-github-io:-tags-semana-html</id>
- <updated>2017-09-29T15:00:00Z</updated>
+ <updated>2017-10-06T15:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 40</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/10/06/resumo-da-semana-40?utm_source=semana&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2017-10-06-resumo-da-semana-40</id>
+  <published>2017-10-06T15:00:00Z</published>
+  <updated>2017-10-06T15:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 40º semana do ano de 2017&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://con.racket-lang.org" title="Página do (seventh RacketCon)"&gt;(seventh RacketCon)&lt;/a&gt;: nos dias 7 e 8 de Outubro acontece o maior evento de &lt;em&gt;Racket&lt;/em&gt; - transmissão pelo &lt;em&gt;YouTube&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 39</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2017/09/29/resumo-da-semana-39?utm_source=semana&amp;utm_medium=Atom" />
