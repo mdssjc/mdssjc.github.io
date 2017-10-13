@@ -4,7 +4,30 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/all.atom.xml" />
  <link href="http://mdssjc.github.io/index.html" />
  <id>urn:http-mdssjc-github-io:-index-html</id>
- <updated>2017-10-06T15:00:00Z</updated>
+ <updated>2017-10-13T15:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 41</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/10/13/resumo-da-semana-41?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2017-10-13-resumo-da-semana-41</id>
+  <published>2017-10-13T15:00:00Z</published>
+  <updated>2017-10-13T15:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 41º semana do ano de 2017&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://www.youtube.com/channel/UC8uSLYDanXDnP9Yn8UrTNzQ" title="Canal do Racket Lang"&gt;Canal do Racket Lang&lt;/a&gt;: cursos e palestras sobre &lt;em&gt;Racket&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://www.youtube.com/channel/UCaLlzGqiPE2QRj6sSOawJRg" title="Canal do ClojureTV"&gt;Canal do ClojureTV&lt;/a&gt;: cursos e palestras sobre &lt;em&gt;Clojure&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g" title="Canal do Oracle Developers"&gt;Canal do Oracle Developers&lt;/a&gt;: cursos, palestras e tutoriais sobre &lt;em&gt;Java&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg" title="Canal do Android Developers"&gt;Canal do Android Developers&lt;/a&gt;: cursos, palestras e tutoriais sobre &lt;em&gt;Android&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://www.youtube.com/channel/UCCUxbxaPefOjgD14-7UbjVg" title="Canal do Eduardo Guerra"&gt;Canal do Eduardo Guerra&lt;/a&gt;: cursos e palestras sobre &lt;em&gt;Java&lt;/em&gt; e &lt;em&gt;Design Patterns&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 40</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2017/10/06/resumo-da-semana-40?utm_source=all&amp;utm_medium=Atom" />
