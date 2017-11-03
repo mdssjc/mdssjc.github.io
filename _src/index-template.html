@@ -1,9 +1,11 @@
-<article class="index">
-  <h1>
-    <a href='@|uri-path|'>@|title|</a>
-  </h1>
-  <p class="date-and-tags">
-    @(date-day date-struct)/@(date-month date-struct)/@(date-year date-struct) :: @|tags|
-  </p>
+<article class="index w3-margin-top">
+  <header>
+    <h1>
+      <a href='@|uri-path|'>&#x262F; @|title|</a>
+    </h1>
+    <p class="date-and-tags">
+      @(date-day date-struct)/@(date-month date-struct)/@(date-year date-struct) :: @|tags|
+    </p>
+  </header>
   @|content-only|
 </article>

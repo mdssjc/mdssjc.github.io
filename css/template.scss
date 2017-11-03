@@ -91,6 +91,7 @@ main {
 }
 
 .index {
+  margin-bottom: 6px;
   h1 {
     margin: 0px;
     padding: 0px;
@@ -189,11 +190,14 @@ main {
     color: #666;
     background-color: #EEE;
   }
+  footer {
+    text-align: center;
+  }
 }
 // Conteúdo
 
 // Rodapé
-body footer {
+body > footer {
   display: block;
   position: fixed;
   margin-top: 2px;
@@ -207,6 +211,7 @@ body footer {
   border-top: 5px solid $auxiliary-color-4;
   text-align: center;
   font-size: x-small;
+  z-index: 999;
   hr {
     margin: 0px auto;
     height: 1px;
