@@ -4,7 +4,21 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/all.atom.xml" />
  <link href="http://mdssjc.github.io/index.html" />
  <id>urn:http-mdssjc-github-io:-index-html</id>
- <updated>2017-11-03T14:00:00Z</updated>
+ <updated>2017-11-10T14:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 45</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/11/10/resumo-da-semana-45?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2017-11-10-resumo-da-semana-45</id>
+  <published>2017-11-10T14:00:00Z</published>
+  <updated>2017-11-10T14:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 45º semana do ano de 2017&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 44</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2017/11/03/resumo-da-semana-44?utm_source=all&amp;utm_medium=Atom" />
@@ -377,23 +391,4 @@
  &lt;li&gt;
   &lt;p&gt;&lt;a href="https://github.com/hlissner/.emacs.d"&gt;&lt;strong&gt;Doom&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
  &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://github.com/mdssjc/mds-emacs"&gt;&lt;strong&gt;MDS&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
- <entry>
-  <title type="text">Atualização da Página</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/02/24/atualizac%CC%A7a%CC%83o-da-pa%CC%81gina?utm_source=all&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2017-02-24-atualizac-CC-A7a-CC-83o-da-pa-CC-81gina</id>
-  <published>2017-02-24T18:00:00Z</published>
-  <updated>2017-02-24T18:00:00Z</updated>
-  <author>
-   <name>Marcelo dos Santos</name></author>
-  <content type="html">
-&lt;p&gt;A restruturação da Página do MDS com Racket&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;p&gt;A nova versão da Página do MDS está utilizando a aplicação &lt;a href="https://github.com/greghendershott/frog"&gt;Frog&lt;/a&gt;, um gerador de conteúdo &lt;em&gt;Web&lt;/em&gt; estático desenvolvido em &lt;em&gt;Racket&lt;/em&gt; (&lt;em&gt;Lisp&lt;/em&gt;).&lt;/p&gt;
-
-&lt;p&gt;Todo conteúdo referente ao projeto Citações está no repositório em arquivo &lt;em&gt;Orgmode&lt;/em&gt;, na página será incluída apenas a sumarização das informações - a última atualização está em &lt;a href="https://github.com/mdssjc/citacoes/blob/master/design/Projeto.org"&gt;Projeto.org&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;As listas de livros, marcações e etc&amp;hellip; serão atualizadas e convertidas para o novo sistema.&lt;/p&gt;
-
-&lt;p&gt;Todas as referências estão localizadas ao topo da página.&lt;/p&gt;</content></entry></feed>
+  &lt;p&gt;&lt;a href="https://github.com/mdssjc/mds-emacs"&gt;&lt;strong&gt;MDS&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
