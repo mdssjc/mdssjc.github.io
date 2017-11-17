@@ -4,7 +4,28 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/all.atom.xml" />
  <link href="http://mdssjc.github.io/index.html" />
  <id>urn:http-mdssjc-github-io:-index-html</id>
- <updated>2017-11-10T14:00:00Z</updated>
+ <updated>2017-11-17T14:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 46</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/11/17/resumo-da-semana-46?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2017-11-17-resumo-da-semana-46</id>
+  <published>2017-11-17T14:00:00Z</published>
+  <updated>2017-11-17T14:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 46º semana do ano de 2017&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://www.cs.umd.edu/~nau/cmsc421/norvig-lisp-style.pdf" title="Artigo sobre Lisp"&gt;Tutorial on Good Lisp Programming Style&lt;/a&gt;: artigo sobre os estilos de programação encontrados na linguagem &lt;em&gt;Lisp&lt;/em&gt; por Peter Norvig.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf" title="Artigo sobre Lambda Calculus"&gt;A Tutorial Introduction to the Lambda Calculus&lt;/a&gt;: artigo introdutório sobre &lt;em&gt;Lambda Calculus&lt;/em&gt; em PDF.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice" title="10 Papers Every Developer Should Read"&gt;10 Papers Every Developer Should Read&lt;/a&gt;: os 10 artigos que todo desenvolvedor deveria ler por Michael Feathers.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 45</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2017/11/10/resumo-da-semana-45?utm_source=all&amp;utm_medium=Atom" />
@@ -366,29 +387,4 @@
  &lt;li&gt;Aplicação &lt;em&gt;RESTful&lt;/em&gt; com &lt;em&gt;Spring Boot&lt;/em&gt;; e&lt;/li&gt;
  &lt;li&gt;&lt;em&gt;Oracle Developer Cloud Services&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;
 
-&lt;p&gt;Já em 07 de agosto de 2017 começa o curso &lt;em&gt;Introduction to Java Cloud Services&lt;/em&gt; - matrícula &lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:11342201462029::NO:RP,149:P149_EVENT_ID,P149_PREV_PAGE:5528,2" title="Clique aqui para matricular"&gt;AQUI&lt;/a&gt;, o curso possui 3 semanas e aborda um material sobre &lt;em&gt;Oracle Cloud&lt;/em&gt;.&lt;/p&gt;</content></entry>
- <entry>
-  <title type="text">Emacs</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/05/04/emacs?utm_source=all&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2017-05-04-emacs</id>
-  <published>2017-05-04T17:04:55Z</published>
-  <updated>2017-05-04T17:04:55Z</updated>
-  <author>
-   <name>Marcelo dos Santos</name></author>
-  <content type="html">
-&lt;p&gt;Lançado dia 21 de abril de 2017, a versão 25.2 do &lt;em&gt;Emacs&lt;/em&gt;&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;p&gt;A versão 25.2 do &lt;em&gt;Emacs&lt;/em&gt; é principalmente voltado para correções de problemas (&lt;em&gt;bug-fix&lt;/em&gt;).&lt;/p&gt;
-
-&lt;p&gt;Acompanhe em &lt;a href="https://www.gnu.org/software/emacs"&gt;www.gnu.org/software/emacs&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Dentre os &lt;em&gt;starter kits&lt;/em&gt;, recomendo:&lt;/p&gt;
-
-&lt;ul&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://github.com/syl20bnr/spacemacs"&gt;&lt;strong&gt;Spacemacs&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://github.com/hlissner/.emacs.d"&gt;&lt;strong&gt;Doom&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://github.com/mdssjc/mds-emacs"&gt;&lt;strong&gt;MDS&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
+&lt;p&gt;Já em 07 de agosto de 2017 começa o curso &lt;em&gt;Introduction to Java Cloud Services&lt;/em&gt; - matrícula &lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:11342201462029::NO:RP,149:P149_EVENT_ID,P149_PREV_PAGE:5528,2" title="Clique aqui para matricular"&gt;AQUI&lt;/a&gt;, o curso possui 3 semanas e aborda um material sobre &lt;em&gt;Oracle Cloud&lt;/em&gt;.&lt;/p&gt;</content></entry></feed>
