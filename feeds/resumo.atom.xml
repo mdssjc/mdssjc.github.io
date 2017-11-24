@@ -4,7 +4,21 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/resumo.atom.xml" />
  <link href="http://mdssjc.github.io/tags/resumo.html" />
  <id>urn:http-mdssjc-github-io:-tags-resumo-html</id>
- <updated>2017-11-17T14:00:00Z</updated>
+ <updated>2017-11-24T14:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 47</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/11/24/resumo-da-semana-47?utm_source=resumo&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2017-11-24-resumo-da-semana-47</id>
+  <published>2017-11-24T14:00:00Z</published>
+  <updated>2017-11-24T14:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 47º semana do ano de 2017&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 46</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2017/11/17/resumo-da-semana-46?utm_source=resumo&amp;utm_medium=Atom" />
