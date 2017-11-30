@@ -50,7 +50,7 @@
       </nav>
       <div class="w3-row">
         <p class="w3-twothird">Bem-vindo a Página do MDS</p>
-        <p class="w3-third">Atualizado em: 24/11/2017</p>
+        <p class="w3-third">Atualizado em: 30/11/2017</p>
       </div>
     </header>
     <!-- Cabeçalho -->
@@ -61,7 +61,16 @@
 
       @(when (string-ci=? uri-path (string-append uri-prefix "/index.html"))
       @list{
-      <p class="w3-container w3-padding-16">A página traz materiais com aspecto temporal sobre o objeto de estudo do sistema MDS (ver em <a href="@|uri-prefix|/pages/sobre.html">Sobre...</a>) com artigos, notícias e resumos da semana.</p>})
+      <p class="w3-container w3-padding-16">
+        A página traz materiais com aspecto temporal sobre o objeto de estudo do sistema MDS (ver em <a href="@|uri-prefix|/pages/sobre.html">Sobre...</a>) com artigos, notícias e resumos da semana.
+        <br /><br />
+        O sistema MDS entra em férias até Janeiro de 2018.
+        <br />
+        Boas festas e Feliz Ano Novo!!!
+        <br /><br />
+        O <a href="https://goo.gl/FvxXNM"><strong>repositório</strong></a> ainda continua com atualizações ao projeto <em>Emacs</em>.
+      </p>
+      })
 
       @(when tag
       @list{<h1>Posts tagged <em>@|tag|</em></h1>})
