@@ -4,7 +4,21 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/all.atom.xml" />
  <link href="http://mdssjc.github.io/index.html" />
  <id>urn:http-mdssjc-github-io:-index-html</id>
- <updated>2017-11-24T14:00:00Z</updated>
+ <updated>2017-11-30T14:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 48</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/11/30/resumo-da-semana-48?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2017-11-30-resumo-da-semana-48</id>
+  <published>2017-11-30T14:00:00Z</published>
+  <updated>2017-11-30T14:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 48º semana do ano de 2017&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 47</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2017/11/24/resumo-da-semana-47?utm_source=all&amp;utm_medium=Atom" />
@@ -355,30 +369,4 @@
  &lt;li&gt;
   &lt;p&gt;&lt;a href="https://12factor.net/" title="The Twelve-Factor App"&gt;The Twelve-Factor App&lt;/a&gt;: princípios para o desenvolvimento de aplicações na arquitetura &lt;em&gt;microservices&lt;/em&gt;, em vários idiomas.&lt;/p&gt;&lt;/li&gt;
  &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://blog.racket-lang.org/2017/07/racket-v6-10.html" title="Racket"&gt;Racket&lt;/a&gt;: lançada a versão 6.10 da linguagem &lt;em&gt;Racket&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
- <entry>
-  <title type="text">Curso de Haskell</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/08/01/curso-de-haskell?utm_source=all&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2017-08-01-curso-de-haskell</id>
-  <published>2017-08-01T14:00:00Z</published>
-  <updated>2017-08-01T14:00:00Z</updated>
-  <author>
-   <name>Marcelo dos Santos</name></author>
-  <content type="html">
-&lt;p&gt;A &lt;em&gt;Future Learn&lt;/em&gt; está oferecendo o curso &lt;em&gt;Functional Programming in Haskell: Supercharge Your Coding&lt;/em&gt;, uma visão introdutória sobre a programação funcional com a linguagem de programação &lt;em&gt;Haskell&lt;/em&gt; - dos mesmos pesquisadores e desenvolvedores do compilador &lt;em&gt;Glasgow Haskell Compiler&lt;/em&gt; (GHC).&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;p&gt;&lt;em&gt;Haskell&lt;/em&gt; é uma linguagem de programação no paradigma funcional (base em princípios matemáticos) com eficiência em máquinas multicores, o curso aborda a sintaxe, semântica e expressões idiomáticas da linguagem através de estruturas de dados imutáveis, funções de primeira ordem e lambdas - como também automação de testes, cálculo &lt;em&gt;Lambda&lt;/em&gt; e &lt;em&gt;Monads&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Os requisitos para o curso são: conhecimento em alguma linguagem de programação como &lt;em&gt;Python&lt;/em&gt; ou &lt;em&gt;Java&lt;/em&gt; e Inglês.&lt;/p&gt;
-
-&lt;p&gt;O curso será realizado em 18 de Setembro de 2017, com duração de 6 semanas - recomendado 4 horas de estudo semanais, com matrícula &lt;a href="https://www.futurelearn.com/courses/functional-programming-haskell/" title="Página de matrícula do curso"&gt;Aqui!&lt;/a&gt; ou na página da &lt;em&gt;Future Learn&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Autores: &lt;em&gt;Wim Vanderbauwhede&lt;/em&gt; e &lt;em&gt;Jeremy Singer&lt;/em&gt; da &lt;em&gt;University of Glasgow&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Segue algumas dicas para complementar os estudos no curso:&lt;/p&gt;
-
-&lt;ul&gt;
- &lt;li&gt;as vídeos aulas de &lt;a href="https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-1/" title="C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals"&gt;C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals&lt;/a&gt;;&lt;/li&gt;
- &lt;li&gt;o livro &lt;a href="http://learnyouahaskell.com/" title="Learn You a Haskell for Great Good!"&gt;Learn You a Haskell for Great Good!&lt;/a&gt; ou sua versão em português &lt;a href="http://haskell.tailorfontela.com.br/" title="Aprender Haskell será um grande bem para você!"&gt;Aprender Haskell será um grande bem para você!&lt;/a&gt;; e&lt;/li&gt;
- &lt;li&gt;os artigos do &lt;em&gt;blog&lt;/em&gt; &lt;a href="http://www.adit.io/" title="Adit"&gt;Adit&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
+  &lt;p&gt;&lt;a href="https://blog.racket-lang.org/2017/07/racket-v6-10.html" title="Racket"&gt;Racket&lt;/a&gt;: lançada a versão 6.10 da linguagem &lt;em&gt;Racket&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
