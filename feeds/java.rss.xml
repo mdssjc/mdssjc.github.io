@@ -4,9 +4,51 @@
   <title>Página MDS: Posts tagged 'java'</title>
   <description>Página MDS: Posts tagged 'java'</description>
   <link>http://mdssjc.github.io/tags/java.html</link>
-  <lastBuildDate>Fri, 14 Jul 2017 15:19:37 UT</lastBuildDate>
-  <pubDate>Fri, 14 Jul 2017 15:19:37 UT</pubDate>
+  <lastBuildDate>Sun, 07 Jan 2018 14:00:00 UT</lastBuildDate>
+  <pubDate>Sun, 07 Jan 2018 14:00:00 UT</pubDate>
   <ttl>1800</ttl>
+  <item>
+   <title>Cursos da Oracle MOOC</title>
+   <link>http://mdssjc.github.io/blog/2018/01/07/cursos-da-oracle-mooc?utm_source=java&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-01-07-cursos-da-oracle-mooc</guid>
+   <pubDate>Sun, 07 Jan 2018 14:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;A &lt;em&gt;Oracle&lt;/em&gt; inicia 2018 com diversos cursos em sua plataforma MOOC, acompanhe aqui o calendário&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;pre&gt;&lt;code&gt;| Data       | Curso/Descrição                                                                 |
+|------------|---------------------------------------------------------------------------------|
+| 08/01/2018 | Oracle MOOC: SQL Fundamentals (2018)                                            |
+|            | Aprenda os fundamentos do SQL usando Oracle Database 12c                        |
+| 15/01/2018 | Oracle MOOC: PL/SQL Fundamentals (2018)                                         |
+|            | Aprenda a escrever simples instruções PL/SQL usando Oracle Database 12c         |
+| 15/01/2018 | Oracle MOOC: Developing Chatbots with Oracle Intelligent Bots                   |
+|            | Aprenda como criar um chatbot inteligente que funciona no Facebook Messenger    |
+| 22/01/2018 | Oracle MOOC: Java Virtual Machine Troubleshooting (2018)                        |
+|            | Entenda os sintomas e as ferramentas de diagnóstico para solucionar problemas e |
+|            | otimizar o desempenho do seu aplicativo Java                                    |
+| 05/02/2018 | Oracle MOOC: Introduction to NodeJS Using Oracle Cloud (2018)                   |
+|            | Introdução ao desenvolvimento de aplicativos microservice NodeJS com o          |
+|            | Oracle Cloud                                                                    |&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://www.oracle.com/goto/SQLfun" title="Oracle MOOC: SQL Fundamentals (2018)"&gt;SQL Fundamentals&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://www.oracle.com/goto/PLSQL" title="Oracle MOOC: PL/SQL Fundamentals (2018)"&gt;PL/SQL Fundamentals&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://www.oracle.com/goto/chatbot" title="Oracle MOOC: Developing Chatbots with Oracle Intelligent Bots"&gt;Developing Chatbots with Oracle Intelligent Bots&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://www.oracle.com/goto/jvm" title="Oracle MOOC: Java Virtual Machine Troubleshooting (2018)"&gt;Java Virtual Machine Troubleshooting&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.oracle.com/goto/node" title="Oracle MOOC: Introduction to NodeJS Using Oracle Cloud (2018)"&gt;Introduction to NodeJS Using Oracle Cloud&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="próximos-moocs"&gt;Próximos MOOCs&lt;/h2&gt;
+
+&lt;p&gt;Está por vir em fevereiro - março&amp;hellip;&lt;/p&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;Managing Java Cloud Service using REST&lt;/strong&gt; (19/02/2018)&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;PL/SQL Program Units&lt;/strong&gt; (26/02/2018)&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Developing Database Web Applications using Application Express&lt;/strong&gt; (05/03/2018)&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;JVM Crashes&lt;/strong&gt; (19/03/2018)&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;DevOps for Node.JS Microservices&lt;/strong&gt; (26/03/2018)&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>Cursos Oracle MOOC</title>
    <link>http://mdssjc.github.io/blog/2017/07/14/cursos-oracle-mooc?utm_source=java&amp;utm_medium=RSS</link>

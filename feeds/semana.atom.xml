@@ -4,7 +4,28 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/semana.atom.xml" />
  <link href="http://mdssjc.github.io/tags/semana.html" />
  <id>urn:http-mdssjc-github-io:-tags-semana-html</id>
- <updated>2017-11-30T14:00:00Z</updated>
+ <updated>2018-01-07T14:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 1</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/01/07/resumo-da-semana-1?utm_source=semana&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2018-01-07-resumo-da-semana-1</id>
+  <published>2018-01-07T14:00:00Z</published>
+  <updated>2018-01-07T14:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 1º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://github.com/hlissner/doom-emacs/issues/310" title="Why is doom emacs so fast?"&gt;Why is doom emacs so fast?&lt;/a&gt;: em uma discussão no repositório &lt;a href="https://github.com/hlissner/doom-emacs/issues/310" title="repositório doom-emacs"&gt;doom-emacs&lt;/a&gt; foi apresentada diversas técnicas para a otimização no tempo de inicialização do &lt;em&gt;Emacs&lt;/em&gt;, as informações completas estão em seu &lt;a href="https://github.com/hlissner/doom-emacs/wiki/FAQ#how-is-dooms-startup-so-fast" title="FAQ"&gt;FAQ&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://blog.racket-lang.org/2018/01/racket-on-chez-status.html" title="Nova postagem do blog Racket"&gt;Racket-on-Chez Status: January 2018&lt;/a&gt;: nova postagem do &lt;em&gt;blog&lt;/em&gt; &lt;em&gt;Racket&lt;/em&gt;, comentando o projeto e os &lt;em&gt;benchmarks&lt;/em&gt; da utilização da plataforma &lt;em&gt;Chez&lt;/em&gt; no &lt;em&gt;Racket&lt;/em&gt; - uma versão extendida da postagem em &lt;a href="http://www.cs.utah.edu/~mflatt/racket-on-chez-jan-2018" title="Racket-on-Chez Status: January 2018 [extended version]"&gt;Racket-on-Chez Status: January 2018 - extended version&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://github.com/emacs-tw/awesome-emacs" title="Listagem do Emacs"&gt;Listagem do Emacs&lt;/a&gt;: coleção de &lt;em&gt;links&lt;/em&gt; da comunidade &lt;em&gt;Emacs&lt;/em&gt; com diversos pacotes, bibliotecas, &lt;em&gt;starter kit&lt;/em&gt;, dentre outros&amp;hellip;&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 48</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2017/11/30/resumo-da-semana-48?utm_source=semana&amp;utm_medium=Atom" />
