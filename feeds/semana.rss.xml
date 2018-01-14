@@ -4,9 +4,26 @@
   <title>Página MDS: Posts tagged 'semana'</title>
   <description>Página MDS: Posts tagged 'semana'</description>
   <link>http://mdssjc.github.io/tags/semana.html</link>
-  <lastBuildDate>Sun, 07 Jan 2018 14:00:00 UT</lastBuildDate>
-  <pubDate>Sun, 07 Jan 2018 14:00:00 UT</pubDate>
+  <lastBuildDate>Sun, 14 Jan 2018 14:00:00 UT</lastBuildDate>
+  <pubDate>Sun, 14 Jan 2018 14:00:00 UT</pubDate>
   <ttl>1800</ttl>
+  <item>
+   <title>Resumo da Semana 2</title>
+   <link>http://mdssjc.github.io/blog/2018/01/14/resumo-da-semana-2?utm_source=semana&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-01-14-resumo-da-semana-2</guid>
+   <pubDate>Sun, 14 Jan 2018 14:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;Segue o resumo da 2º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://github.com/hlissner/doom-emacs" title="Github do Doom Emacs"&gt;Uso do Doom Emacs&lt;/a&gt;: repositório do &lt;em&gt;Doom Emacs&lt;/em&gt;, o &lt;em&gt;MDS Emacs&lt;/em&gt; será um módulo &lt;em&gt;private&lt;/em&gt; no mesmo.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="http://tuhdo.github.io" title="Tutorial de Emacs"&gt;Tutorial de Emacs&lt;/a&gt;: mini manual de &lt;em&gt;Emacs&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>Resumo da Semana 1</title>
    <link>http://mdssjc.github.io/blog/2018/01/07/resumo-da-semana-1?utm_source=semana&amp;utm_medium=RSS</link>

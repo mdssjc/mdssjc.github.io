@@ -6,6 +6,7 @@ http://mdssjc.github.io/blog/2018/01/07/cursos-da-oracle-mooc
 http://mdssjc.github.io/blog/2017/09/01/resumo-da-semana-35
 http://mdssjc.github.io/blog/2017/10/20/resumo-da-semana-42
 http://mdssjc.github.io/blog/2017/08/11/resumo-da-semana-32
+http://mdssjc.github.io/blog/2018/01/14/resumo-da-semana-2
 http://mdssjc.github.io/blog/2017/11/24/resumo-da-semana-47
 http://mdssjc.github.io/blog/2017/07/14/cursos-oracle-mooc
 http://mdssjc.github.io/blog/2017/08/01/curso-de-haskell
