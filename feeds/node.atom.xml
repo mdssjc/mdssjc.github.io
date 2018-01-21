@@ -4,40 +4,43 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/node.atom.xml" />
  <link href="http://mdssjc.github.io/tags/node.html" />
  <id>urn:http-mdssjc-github-io:-tags-node-html</id>
- <updated>2018-01-07T14:00:00Z</updated>
+ <updated>2018-01-21T14:00:00Z</updated>
  <entry>
   <title type="text">Cursos da Oracle MOOC</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/01/07/cursos-da-oracle-mooc?utm_source=node&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2018-01-07-cursos-da-oracle-mooc</id>
-  <published>2018-01-07T14:00:00Z</published>
-  <updated>2018-01-07T14:00:00Z</updated>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/01/21/cursos-da-oracle-mooc?utm_source=node&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2018-01-21-cursos-da-oracle-mooc</id>
+  <published>2018-01-21T14:00:00Z</published>
+  <updated>2018-01-21T14:00:00Z</updated>
   <author>
    <name>Marcelo dos Santos</name></author>
   <content type="html">
-&lt;p&gt;A &lt;em&gt;Oracle&lt;/em&gt; inicia 2018 com diversos cursos em sua plataforma MOOC, acompanhe aqui o calendário&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Atualizado a lista de cursos &lt;em&gt;Oracle MOOC&lt;/em&gt;, acompanhe aqui o calendário&amp;hellip;&lt;/p&gt;
 &lt;!-- more--&gt;
 
 &lt;pre&gt;&lt;code&gt;| Data       | Curso/Descrição                                                                 |
 |------------|---------------------------------------------------------------------------------|
-| 08/01/2018 | Oracle MOOC: SQL Fundamentals (2018)                                            |
+| 08/01/2018 | _SQL Fundamentals (2018)_                                                        |
 |            | Aprenda os fundamentos do SQL usando Oracle Database 12c                        |
-| 15/01/2018 | Oracle MOOC: PL/SQL Fundamentals (2018)                                         |
+| 15/01/2018 | PL/SQL Fundamentals (2018)                                                      |
 |            | Aprenda a escrever simples instruções PL/SQL usando Oracle Database 12c         |
-| 15/01/2018 | Oracle MOOC: Developing Chatbots with Oracle Intelligent Bots                   |
+| 15/01/2018 | Developing Chatbots with Oracle Intelligent Bots                                |
 |            | Aprenda como criar um chatbot inteligente que funciona no Facebook Messenger    |
-| 22/01/2018 | Oracle MOOC: Java Virtual Machine Troubleshooting (2018)                        |
+| 22/01/2018 | Java Virtual Machine Troubleshooting (2018)                                     |
 |            | Entenda os sintomas e as ferramentas de diagnóstico para solucionar problemas e |
 |            | otimizar o desempenho do seu aplicativo Java                                    |
-| 05/02/2018 | Oracle MOOC: Introduction to NodeJS Using Oracle Cloud (2018)                   |
+| 05/02/2018 | Introduction to NodeJS Using Oracle Cloud (2018)                                |
 |            | Introdução ao desenvolvimento de aplicativos microservice NodeJS com o          |
-|            | Oracle Cloud                                                                    |&lt;/code&gt;&lt;/pre&gt;
+|            | Oracle Cloud                                                                    |
+| 26/02/2018 | Soar higher with Oracle JavaScript Extension Toolkit (JET) 4.0 (2018)           |
+|            | Curso de JET                                                                    |&lt;/code&gt;&lt;/pre&gt;
 
 &lt;ul&gt;
  &lt;li&gt;&lt;a href="https://www.oracle.com/goto/SQLfun" title="Oracle MOOC: SQL Fundamentals (2018)"&gt;SQL Fundamentals&lt;/a&gt;&lt;/li&gt;
  &lt;li&gt;&lt;a href="http://www.oracle.com/goto/PLSQL" title="Oracle MOOC: PL/SQL Fundamentals (2018)"&gt;PL/SQL Fundamentals&lt;/a&gt;&lt;/li&gt;
  &lt;li&gt;&lt;a href="http://www.oracle.com/goto/chatbot" title="Oracle MOOC: Developing Chatbots with Oracle Intelligent Bots"&gt;Developing Chatbots with Oracle Intelligent Bots&lt;/a&gt;&lt;/li&gt;
  &lt;li&gt;&lt;a href="http://www.oracle.com/goto/jvm" title="Oracle MOOC: Java Virtual Machine Troubleshooting (2018)"&gt;Java Virtual Machine Troubleshooting&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://www.oracle.com/goto/node" title="Oracle MOOC: Introduction to NodeJS Using Oracle Cloud (2018)"&gt;Introduction to NodeJS Using Oracle Cloud&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+ &lt;li&gt;&lt;a href="https://www.oracle.com/goto/node" title="Oracle MOOC: Introduction to NodeJS Using Oracle Cloud (2018)"&gt;Introduction to NodeJS Using Oracle Cloud&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.oracle.com/goto/jet" title="Oracle MOOC: Soar higher with Oracle JavaScript Extension Toolkit (JET) 4.0 (2018)"&gt;Soar higher with Oracle JavaScript Extension Toolkit (JET) 4.0&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 
 &lt;h2 id="próximos-moocs"&gt;Próximos MOOCs&lt;/h2&gt;
 

@@ -4,7 +4,26 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/resumo.atom.xml" />
  <link href="http://mdssjc.github.io/tags/resumo.html" />
  <id>urn:http-mdssjc-github-io:-tags-resumo-html</id>
- <updated>2018-01-14T14:00:00Z</updated>
+ <updated>2018-01-21T14:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 3</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/01/21/resumo-da-semana-3?utm_source=resumo&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2018-01-21-resumo-da-semana-3</id>
+  <published>2018-01-21T14:00:00Z</published>
+  <updated>2018-01-21T14:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 3º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://www.tiobe.com/tiobe-index" title="Página do Tiobe"&gt;Vencedor de 2017 do Tiobe&lt;/a&gt;: a linguagem do ano de 2017 foi a &lt;strong&gt;C&lt;/strong&gt; com um crescimento de 1.69% - a base de cálculo deve-se a procura da mesma durante todo ano, em 2008 a linguagem também entrou para o &lt;em&gt;Hall&lt;/em&gt; da Fama.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="http://www.htdp.org" title="Livro HtDP/2e"&gt;Finalizado o livro HtDP/2e&lt;/a&gt;: lançamento da segunda versão do livro &lt;em&gt;How to Design Programs - An Introduction to Programming and Computing&lt;/em&gt; dos autores &lt;em&gt;Matthias Felleisen&lt;/em&gt;, &lt;em&gt;Robert Bruce Findler&lt;/em&gt;, &lt;em&gt;Matthew Flatt&lt;/em&gt; e &lt;em&gt;Shriram Krishnamurthi&lt;/em&gt;. Ainda na página de &lt;em&gt;Felleisen&lt;/em&gt;, consta um &lt;a href="http://felleisen.org/matthias" title="Página de Matthias Felleisen"&gt;link&lt;/a&gt; para a descrição de HtDP3e.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 2</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2018/01/14/resumo-da-semana-2?utm_source=resumo&amp;utm_medium=Atom" />
@@ -344,21 +363,4 @@
  &lt;li&gt;
   &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;
  &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:11342201462029::NO:RP,149:P149_EVENT_ID,P149_PREV_PAGE:5528,2" title="Página de matrícula do curso"&gt;Oracle MOOC: Introduction to Java Cloud Services&lt;/a&gt;: início do curso.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
- <entry>
-  <title type="text">Resumo da Semana 31</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/08/04/resumo-da-semana-31?utm_source=resumo&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2017-08-04-resumo-da-semana-31</id>
-  <published>2017-08-04T15:00:00Z</published>
-  <updated>2017-08-04T15:00:00Z</updated>
-  <author>
-   <name>Marcelo dos Santos</name></author>
-  <content type="html">
-&lt;p&gt;Segue o resumo da 31º semana do ano de 2017&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;ul&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://12factor.net/" title="The Twelve-Factor App"&gt;The Twelve-Factor App&lt;/a&gt;: princípios para o desenvolvimento de aplicações na arquitetura &lt;em&gt;microservices&lt;/em&gt;, em vários idiomas.&lt;/p&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://blog.racket-lang.org/2017/07/racket-v6-10.html" title="Racket"&gt;Racket&lt;/a&gt;: lançada a versão 6.10 da linguagem &lt;em&gt;Racket&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
+  &lt;p&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:11342201462029::NO:RP,149:P149_EVENT_ID,P149_PREV_PAGE:5528,2" title="Página de matrícula do curso"&gt;Oracle MOOC: Introduction to Java Cloud Services&lt;/a&gt;: início do curso.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>

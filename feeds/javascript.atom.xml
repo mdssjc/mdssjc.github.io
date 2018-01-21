@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
- <title type="text">Página MDS: Posts tagged 'sql'</title>
- <link rel="self" href="http://mdssjc.github.io/feeds/sql.atom.xml" />
- <link href="http://mdssjc.github.io/tags/sql.html" />
- <id>urn:http-mdssjc-github-io:-tags-sql-html</id>
+ <title type="text">Página MDS: Posts tagged 'javascript'</title>
+ <link rel="self" href="http://mdssjc.github.io/feeds/javascript.atom.xml" />
+ <link href="http://mdssjc.github.io/tags/javascript.html" />
+ <id>urn:http-mdssjc-github-io:-tags-javascript-html</id>
  <updated>2018-01-21T14:00:00Z</updated>
  <entry>
   <title type="text">Cursos da Oracle MOOC</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/01/21/cursos-da-oracle-mooc?utm_source=sql&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/01/21/cursos-da-oracle-mooc?utm_source=javascript&amp;utm_medium=Atom" />
   <id>urn:http-mdssjc-github-io:-blog-2018-01-21-cursos-da-oracle-mooc</id>
   <published>2018-01-21T14:00:00Z</published>
   <updated>2018-01-21T14:00:00Z</updated>
@@ -51,28 +51,4 @@
  &lt;li&gt;&lt;strong&gt;PL/SQL Program Units&lt;/strong&gt; (26/02/2018)&lt;/li&gt;
  &lt;li&gt;&lt;strong&gt;Developing Database Web Applications using Application Express&lt;/strong&gt; (05/03/2018)&lt;/li&gt;
  &lt;li&gt;&lt;strong&gt;JVM Crashes&lt;/strong&gt; (19/03/2018)&lt;/li&gt;
- &lt;li&gt;&lt;strong&gt;DevOps for Node.JS Microservices&lt;/strong&gt; (26/03/2018)&lt;/li&gt;&lt;/ul&gt;</content></entry>
- <entry>
-  <title type="text">Curso de SQL</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/08/08/curso-de-sql?utm_source=sql&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2017-08-08-curso-de-sql</id>
-  <published>2017-08-08T15:10:52Z</published>
-  <updated>2017-08-08T15:10:52Z</updated>
-  <author>
-   <name>Marcelo dos Santos</name></author>
-  <content type="html">
-&lt;p&gt;A &lt;em&gt;Oracle&lt;/em&gt; está oferecendo um curso sobre SQL&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;p&gt;O curso &lt;em&gt;Oracle MOOC: SQL Fundamentals&lt;/em&gt; é uma introdução aos conceitos de banco de dados relacional e a Linguagem de Consulta Estruturada - &lt;em&gt;Structured Query Language&lt;/em&gt; (SQL), utilizando o &lt;em&gt;Oracle Database 12c&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;A data de início será em 21 de agosto de 2017, com duração de 4 semanas - recomendado de 3 a 5 horas de estudo semanais, os conteúdos abordados são:&lt;/p&gt;
-
-&lt;ul&gt;
- &lt;li&gt;as formas para manipulação de dados em tabelas;&lt;/li&gt;
- &lt;li&gt;a criação de relatórios personalizados; e&lt;/li&gt;
- &lt;li&gt;o gerenciamento de permissões dos privilégios aos usuários do banco de dados.&lt;/li&gt;&lt;/ul&gt;
-
-&lt;p&gt;Os requisitos para o curso são: conhecimento básico de banco de dados e programação; e Inglês.&lt;/p&gt;
-
-&lt;p&gt;A matrícula será realizada clicando &lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:7828508460154:::149:P149_EVENT_ID,P149_PREV_PAGE:5472,147" title="Página de matrícula do curso"&gt;AQUI&lt;/a&gt;.&lt;/p&gt;</content></entry></feed>
+ &lt;li&gt;&lt;strong&gt;DevOps for Node.JS Microservices&lt;/strong&gt; (26/03/2018)&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>

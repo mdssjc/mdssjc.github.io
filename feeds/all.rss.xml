@@ -4,9 +4,71 @@
   <title>Página MDS: Página MDS</title>
   <description>Página MDS: Página MDS</description>
   <link>http://mdssjc.github.io/index.html</link>
-  <lastBuildDate>Sun, 14 Jan 2018 14:00:00 UT</lastBuildDate>
-  <pubDate>Sun, 14 Jan 2018 14:00:00 UT</pubDate>
+  <lastBuildDate>Sun, 21 Jan 2018 14:00:00 UT</lastBuildDate>
+  <pubDate>Sun, 21 Jan 2018 14:00:00 UT</pubDate>
   <ttl>1800</ttl>
+  <item>
+   <title>Cursos da Oracle MOOC</title>
+   <link>http://mdssjc.github.io/blog/2018/01/21/cursos-da-oracle-mooc?utm_source=all&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-01-21-cursos-da-oracle-mooc</guid>
+   <pubDate>Sun, 21 Jan 2018 14:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;Atualizado a lista de cursos &lt;em&gt;Oracle MOOC&lt;/em&gt;, acompanhe aqui o calendário&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;pre&gt;&lt;code&gt;| Data       | Curso/Descrição                                                                 |
+|------------|---------------------------------------------------------------------------------|
+| 08/01/2018 | _SQL Fundamentals (2018)_                                                        |
+|            | Aprenda os fundamentos do SQL usando Oracle Database 12c                        |
+| 15/01/2018 | PL/SQL Fundamentals (2018)                                                      |
+|            | Aprenda a escrever simples instruções PL/SQL usando Oracle Database 12c         |
+| 15/01/2018 | Developing Chatbots with Oracle Intelligent Bots                                |
+|            | Aprenda como criar um chatbot inteligente que funciona no Facebook Messenger    |
+| 22/01/2018 | Java Virtual Machine Troubleshooting (2018)                                     |
+|            | Entenda os sintomas e as ferramentas de diagnóstico para solucionar problemas e |
+|            | otimizar o desempenho do seu aplicativo Java                                    |
+| 05/02/2018 | Introduction to NodeJS Using Oracle Cloud (2018)                                |
+|            | Introdução ao desenvolvimento de aplicativos microservice NodeJS com o          |
+|            | Oracle Cloud                                                                    |
+| 26/02/2018 | Soar higher with Oracle JavaScript Extension Toolkit (JET) 4.0 (2018)           |
+|            | Curso de JET                                                                    |&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://www.oracle.com/goto/SQLfun" title="Oracle MOOC: SQL Fundamentals (2018)"&gt;SQL Fundamentals&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://www.oracle.com/goto/PLSQL" title="Oracle MOOC: PL/SQL Fundamentals (2018)"&gt;PL/SQL Fundamentals&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://www.oracle.com/goto/chatbot" title="Oracle MOOC: Developing Chatbots with Oracle Intelligent Bots"&gt;Developing Chatbots with Oracle Intelligent Bots&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://www.oracle.com/goto/jvm" title="Oracle MOOC: Java Virtual Machine Troubleshooting (2018)"&gt;Java Virtual Machine Troubleshooting&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.oracle.com/goto/node" title="Oracle MOOC: Introduction to NodeJS Using Oracle Cloud (2018)"&gt;Introduction to NodeJS Using Oracle Cloud&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.oracle.com/goto/jet" title="Oracle MOOC: Soar higher with Oracle JavaScript Extension Toolkit (JET) 4.0 (2018)"&gt;Soar higher with Oracle JavaScript Extension Toolkit (JET) 4.0&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="próximos-moocs"&gt;Próximos MOOCs&lt;/h2&gt;
+
+&lt;p&gt;Está por vir em fevereiro - março&amp;hellip;&lt;/p&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;Managing Java Cloud Service using REST&lt;/strong&gt; (19/02/2018)&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;PL/SQL Program Units&lt;/strong&gt; (26/02/2018)&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Developing Database Web Applications using Application Express&lt;/strong&gt; (05/03/2018)&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;JVM Crashes&lt;/strong&gt; (19/03/2018)&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;DevOps for Node.JS Microservices&lt;/strong&gt; (26/03/2018)&lt;/li&gt;&lt;/ul&gt;</description></item>
+  <item>
+   <title>Resumo da Semana 3</title>
+   <link>http://mdssjc.github.io/blog/2018/01/21/resumo-da-semana-3?utm_source=all&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-01-21-resumo-da-semana-3</guid>
+   <pubDate>Sun, 21 Jan 2018 14:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;Segue o resumo da 3º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://www.tiobe.com/tiobe-index" title="Página do Tiobe"&gt;Vencedor de 2017 do Tiobe&lt;/a&gt;: a linguagem do ano de 2017 foi a &lt;strong&gt;C&lt;/strong&gt; com um crescimento de 1.69% - a base de cálculo deve-se a procura da mesma durante todo ano, em 2008 a linguagem também entrou para o &lt;em&gt;Hall&lt;/em&gt; da Fama.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="http://www.htdp.org" title="Livro HtDP/2e"&gt;Finalizado o livro HtDP/2e&lt;/a&gt;: lançamento da segunda versão do livro &lt;em&gt;How to Design Programs - An Introduction to Programming and Computing&lt;/em&gt; dos autores &lt;em&gt;Matthias Felleisen&lt;/em&gt;, &lt;em&gt;Robert Bruce Findler&lt;/em&gt;, &lt;em&gt;Matthew Flatt&lt;/em&gt; e &lt;em&gt;Shriram Krishnamurthi&lt;/em&gt;. Ainda na página de &lt;em&gt;Felleisen&lt;/em&gt;, consta um &lt;a href="http://felleisen.org/matthias" title="Página de Matthias Felleisen"&gt;link&lt;/a&gt; para a descrição de HtDP3e.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>Resumo da Semana 2</title>
    <link>http://mdssjc.github.io/blog/2018/01/14/resumo-da-semana-2?utm_source=all&amp;utm_medium=RSS</link>
@@ -24,48 +86,6 @@
   &lt;p&gt;&lt;a href="http://tuhdo.github.io" title="Tutorial de Emacs"&gt;Tutorial de Emacs&lt;/a&gt;: mini manual de &lt;em&gt;Emacs&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
  &lt;li&gt;
   &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
-  <item>
-   <title>Cursos da Oracle MOOC</title>
-   <link>http://mdssjc.github.io/blog/2018/01/07/cursos-da-oracle-mooc?utm_source=all&amp;utm_medium=RSS</link>
-   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-01-07-cursos-da-oracle-mooc</guid>
-   <pubDate>Sun, 07 Jan 2018 14:00:00 UT</pubDate>
-   <author>Marcelo dos Santos</author>
-   <description>
-&lt;p&gt;A &lt;em&gt;Oracle&lt;/em&gt; inicia 2018 com diversos cursos em sua plataforma MOOC, acompanhe aqui o calendário&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;pre&gt;&lt;code&gt;| Data       | Curso/Descrição                                                                 |
-|------------|---------------------------------------------------------------------------------|
-| 08/01/2018 | Oracle MOOC: SQL Fundamentals (2018)                                            |
-|            | Aprenda os fundamentos do SQL usando Oracle Database 12c                        |
-| 15/01/2018 | Oracle MOOC: PL/SQL Fundamentals (2018)                                         |
-|            | Aprenda a escrever simples instruções PL/SQL usando Oracle Database 12c         |
-| 15/01/2018 | Oracle MOOC: Developing Chatbots with Oracle Intelligent Bots                   |
-|            | Aprenda como criar um chatbot inteligente que funciona no Facebook Messenger    |
-| 22/01/2018 | Oracle MOOC: Java Virtual Machine Troubleshooting (2018)                        |
-|            | Entenda os sintomas e as ferramentas de diagnóstico para solucionar problemas e |
-|            | otimizar o desempenho do seu aplicativo Java                                    |
-| 05/02/2018 | Oracle MOOC: Introduction to NodeJS Using Oracle Cloud (2018)                   |
-|            | Introdução ao desenvolvimento de aplicativos microservice NodeJS com o          |
-|            | Oracle Cloud                                                                    |&lt;/code&gt;&lt;/pre&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://www.oracle.com/goto/SQLfun" title="Oracle MOOC: SQL Fundamentals (2018)"&gt;SQL Fundamentals&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://www.oracle.com/goto/PLSQL" title="Oracle MOOC: PL/SQL Fundamentals (2018)"&gt;PL/SQL Fundamentals&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://www.oracle.com/goto/chatbot" title="Oracle MOOC: Developing Chatbots with Oracle Intelligent Bots"&gt;Developing Chatbots with Oracle Intelligent Bots&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://www.oracle.com/goto/jvm" title="Oracle MOOC: Java Virtual Machine Troubleshooting (2018)"&gt;Java Virtual Machine Troubleshooting&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://www.oracle.com/goto/node" title="Oracle MOOC: Introduction to NodeJS Using Oracle Cloud (2018)"&gt;Introduction to NodeJS Using Oracle Cloud&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h2 id="próximos-moocs"&gt;Próximos MOOCs&lt;/h2&gt;
-
-&lt;p&gt;Está por vir em fevereiro - março&amp;hellip;&lt;/p&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;strong&gt;Managing Java Cloud Service using REST&lt;/strong&gt; (19/02/2018)&lt;/li&gt;
- &lt;li&gt;&lt;strong&gt;PL/SQL Program Units&lt;/strong&gt; (26/02/2018)&lt;/li&gt;
- &lt;li&gt;&lt;strong&gt;Developing Database Web Applications using Application Express&lt;/strong&gt; (05/03/2018)&lt;/li&gt;
- &lt;li&gt;&lt;strong&gt;JVM Crashes&lt;/strong&gt; (19/03/2018)&lt;/li&gt;
- &lt;li&gt;&lt;strong&gt;DevOps for Node.JS Microservices&lt;/strong&gt; (26/03/2018)&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>Resumo da Semana 1</title>
    <link>http://mdssjc.github.io/blog/2018/01/07/resumo-da-semana-1?utm_source=all&amp;utm_medium=RSS</link>
@@ -340,19 +360,4 @@
 
 &lt;p&gt;Os requisitos para o curso são: 1 ano de experiência na linguagem de programação &lt;em&gt;Java&lt;/em&gt; e habilidade na IDE &lt;em&gt;NetBeans&lt;/em&gt;; e Inglês.&lt;/p&gt;
 
-&lt;p&gt;A matrícula será realizada clicando &lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:105154462252565::NO:RP,149:P149_EVENT_ID:5552" title="Página de matrícula do curso"&gt;AQUI&lt;/a&gt;.&lt;/p&gt;</description></item>
-  <item>
-   <title>Resumo da Semana 33</title>
-   <link>http://mdssjc.github.io/blog/2017/08/18/resumo-da-semana-33?utm_source=all&amp;utm_medium=RSS</link>
-   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2017-08-18-resumo-da-semana-33</guid>
-   <pubDate>Fri, 18 Aug 2017 15:00:00 UT</pubDate>
-   <author>Marcelo dos Santos</author>
-   <description>
-&lt;p&gt;Segue o resumo da 33º semana do ano de 2017&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;ul&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://www.code-maze.com/http-series" title="The HTTP Series"&gt;The HTTP Series&lt;/a&gt;: série de artigos sobre o protocolo HTTP.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
+&lt;p&gt;A matrícula será realizada clicando &lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:105154462252565::NO:RP,149:P149_EVENT_ID:5552" title="Página de matrícula do curso"&gt;AQUI&lt;/a&gt;.&lt;/p&gt;</description></item></channel></rss>
