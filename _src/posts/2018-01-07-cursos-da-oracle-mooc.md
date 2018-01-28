@@ -8,7 +8,7 @@ Atualizado a lista de cursos _Oracle MOOC_, acompanhe aqui o calendário...
 
     | Data       | Curso/Descrição                                                                 |
     |------------|---------------------------------------------------------------------------------|
-    | 08/01/2018 | _SQL Fundamentals (2018)_                                                        |
+    | 08/01/2018 | SQL Fundamentals (2018)                                                         |
     |            | Aprenda os fundamentos do SQL usando Oracle Database 12c                        |
     | 15/01/2018 | PL/SQL Fundamentals (2018)                                                      |
     |            | Aprenda a escrever simples instruções PL/SQL usando Oracle Database 12c         |
