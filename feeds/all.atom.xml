@@ -4,7 +4,34 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/all.atom.xml" />
  <link href="http://mdssjc.github.io/index.html" />
  <id>urn:http-mdssjc-github-io:-index-html</id>
- <updated>2018-01-21T14:00:00Z</updated>
+ <updated>2018-01-28T14:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 4</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/01/28/resumo-da-semana-4?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2018-01-28-resumo-da-semana-4</id>
+  <published>2018-01-28T14:00:00Z</published>
+  <updated>2018-01-28T14:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 4º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="http://blog.racket-lang.org/2018/01/racket-v6-12.html" title="Post sobre o Racket v6.12"&gt;Racket v6.12&lt;/a&gt;: lançamento da versão 6.12 da linguagem &lt;em&gt;Racket&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="http://www.luna-lang.org" title="Página da linguagem Luna"&gt;Luna Lang&lt;/a&gt;: liberado para testes a linguagem &lt;em&gt;Luna&lt;/em&gt; - inicialmente voltado para o processamento de dados, destaque para seu ambiente de desenvolvimento visual &lt;em&gt;Luna Studio&lt;/em&gt; - utilizando como base o &lt;em&gt;Atom&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://emacs.stackexchange.com/questions/38368/how-can-i-improve-startup-time-despite-many-packages" title="Post sobre How can I improve startup time despite many packages?"&gt;How can I improve startup time despite many packages?&lt;/a&gt;: discussão sobre melhorias na inicialização do &lt;em&gt;Emacs&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://www.nubank.com.br/nuconta" title="Página do Nubank"&gt;Nubank - um novo banco&lt;/a&gt;: A empresa &lt;em&gt;Nubank&lt;/em&gt; consegue a permissão para ser banco através do &lt;em&gt;NuConta&lt;/em&gt; - sendo uma modalidade de conta de pagamento, o que implica em aplicação de baixo risco.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://github.com/syl20bnr/spacemacs" title="Repositório do Spacemacs - 0.200.13"&gt;Spacemacs &amp;ndash; 0.200.13&lt;/a&gt;: nova versão do &lt;em&gt;Spacemacs&lt;/em&gt;, um &lt;em&gt;starter kit&lt;/em&gt; para o &lt;em&gt;Emacs&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="http://bobkonf.de/2018/en" title="Página do fórum BOB 2018"&gt;Fórum BOB 2018&lt;/a&gt;: evento com diversas palestras sobre tecnologias além do &lt;em&gt;mainstream&lt;/em&gt;. No aguardo sobre alguma confirmação de transmissão ao vivo. Na própria página possui &lt;em&gt;links&lt;/em&gt; das edições passadas com &lt;em&gt;slides&lt;/em&gt; e vídeos.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Cursos da Oracle MOOC</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2018/01/21/cursos-da-oracle-mooc?utm_source=all&amp;utm_medium=Atom" />
@@ -374,28 +401,4 @@
  &lt;li&gt;
   &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;
  &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:7828508460154:::149:P149_EVENT_ID,P149_PREV_PAGE:5472,147" title="Página de matrícula do curso"&gt;Oracle MOOC: SQL Fundamentals&lt;/a&gt;: início do curso.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
- <entry>
-  <title type="text">Curso de JVM</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/08/22/curso-de-jvm?utm_source=all&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2017-08-22-curso-de-jvm</id>
-  <published>2017-08-22T15:08:55Z</published>
-  <updated>2017-08-22T15:08:55Z</updated>
-  <author>
-   <name>Marcelo dos Santos</name></author>
-  <content type="html">
-&lt;p&gt;A &lt;em&gt;Oracle&lt;/em&gt; está oferecendo um curso sobre JVM&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;p&gt;O curso &lt;em&gt;Oracle MOOC: Java Virtual Machine Troubleshooting&lt;/em&gt; aborda o mecanismo de análise de problemas na Máquina Virtual Java - &lt;em&gt;Java Virtual Machine&lt;/em&gt; (JVM).&lt;/p&gt;
-
-&lt;p&gt;A data de início será em 20 de setembro de 2017, com duração de 3 semanas - recomendado de 3 a 5 horas de estudo semanais, os conteúdos abordados são:&lt;/p&gt;
-
-&lt;ul&gt;
- &lt;li&gt;entender o gerenciamento de memória e o &lt;em&gt;Garbage Collection&lt;/em&gt;;&lt;/li&gt;
- &lt;li&gt;reconhecer os sintomas dos problemas de memória; e&lt;/li&gt;
- &lt;li&gt;utilizar ferramentas para diagnóstico e análise de dados.&lt;/li&gt;&lt;/ul&gt;
-
-&lt;p&gt;Os requisitos para o curso são: 1 ano de experiência na linguagem de programação &lt;em&gt;Java&lt;/em&gt; e habilidade na IDE &lt;em&gt;NetBeans&lt;/em&gt;; e Inglês.&lt;/p&gt;
-
-&lt;p&gt;A matrícula será realizada clicando &lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:105154462252565::NO:RP,149:P149_EVENT_ID:5552" title="Página de matrícula do curso"&gt;AQUI&lt;/a&gt;.&lt;/p&gt;</content></entry></feed>
+  &lt;p&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:7828508460154:::149:P149_EVENT_ID,P149_PREV_PAGE:5472,147" title="Página de matrícula do curso"&gt;Oracle MOOC: SQL Fundamentals&lt;/a&gt;: início do curso.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>

@@ -4,7 +4,34 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/resumo.atom.xml" />
  <link href="http://mdssjc.github.io/tags/resumo.html" />
  <id>urn:http-mdssjc-github-io:-tags-resumo-html</id>
- <updated>2018-01-21T14:00:00Z</updated>
+ <updated>2018-01-28T14:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 4</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/01/28/resumo-da-semana-4?utm_source=resumo&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2018-01-28-resumo-da-semana-4</id>
+  <published>2018-01-28T14:00:00Z</published>
+  <updated>2018-01-28T14:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 4º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="http://blog.racket-lang.org/2018/01/racket-v6-12.html" title="Post sobre o Racket v6.12"&gt;Racket v6.12&lt;/a&gt;: lançamento da versão 6.12 da linguagem &lt;em&gt;Racket&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="http://www.luna-lang.org" title="Página da linguagem Luna"&gt;Luna Lang&lt;/a&gt;: liberado para testes a linguagem &lt;em&gt;Luna&lt;/em&gt; - inicialmente voltado para o processamento de dados, destaque para seu ambiente de desenvolvimento visual &lt;em&gt;Luna Studio&lt;/em&gt; - utilizando como base o &lt;em&gt;Atom&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://emacs.stackexchange.com/questions/38368/how-can-i-improve-startup-time-despite-many-packages" title="Post sobre How can I improve startup time despite many packages?"&gt;How can I improve startup time despite many packages?&lt;/a&gt;: discussão sobre melhorias na inicialização do &lt;em&gt;Emacs&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://www.nubank.com.br/nuconta" title="Página do Nubank"&gt;Nubank - um novo banco&lt;/a&gt;: A empresa &lt;em&gt;Nubank&lt;/em&gt; consegue a permissão para ser banco através do &lt;em&gt;NuConta&lt;/em&gt; - sendo uma modalidade de conta de pagamento, o que implica em aplicação de baixo risco.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://github.com/syl20bnr/spacemacs" title="Repositório do Spacemacs - 0.200.13"&gt;Spacemacs &amp;ndash; 0.200.13&lt;/a&gt;: nova versão do &lt;em&gt;Spacemacs&lt;/em&gt;, um &lt;em&gt;starter kit&lt;/em&gt; para o &lt;em&gt;Emacs&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="http://bobkonf.de/2018/en" title="Página do fórum BOB 2018"&gt;Fórum BOB 2018&lt;/a&gt;: evento com diversas palestras sobre tecnologias além do &lt;em&gt;mainstream&lt;/em&gt;. No aguardo sobre alguma confirmação de transmissão ao vivo. Na própria página possui &lt;em&gt;links&lt;/em&gt; das edições passadas com &lt;em&gt;slides&lt;/em&gt; e vídeos.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 3</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2018/01/21/resumo-da-semana-3?utm_source=resumo&amp;utm_medium=Atom" />
@@ -344,23 +371,4 @@
  &lt;li&gt;
   &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;
  &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://www.code-maze.com/http-series" title="The HTTP Series"&gt;The HTTP Series&lt;/a&gt;: série de artigos sobre o protocolo HTTP.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
- <entry>
-  <title type="text">Resumo da Semana 32</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/08/11/resumo-da-semana-32?utm_source=resumo&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2017-08-11-resumo-da-semana-32</id>
-  <published>2017-08-11T15:00:00Z</published>
-  <updated>2017-08-11T15:00:00Z</updated>
-  <author>
-   <name>Marcelo dos Santos</name></author>
-  <content type="html">
-&lt;p&gt;Segue o resumo da 32º semana do ano de 2017&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;ul&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://natureofcode.com" title="Nature of Code"&gt;Nature of Code&lt;/a&gt;: livro sobre programação criativa utilizando a linguagem &lt;em&gt;Processing&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:11342201462029::NO:RP,149:P149_EVENT_ID,P149_PREV_PAGE:5528,2" title="Página de matrícula do curso"&gt;Oracle MOOC: Introduction to Java Cloud Services&lt;/a&gt;: início do curso.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
+  &lt;p&gt;&lt;a href="https://www.code-maze.com/http-series" title="The HTTP Series"&gt;The HTTP Series&lt;/a&gt;: série de artigos sobre o protocolo HTTP.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
