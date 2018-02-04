@@ -4,7 +4,30 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/all.atom.xml" />
  <link href="http://mdssjc.github.io/index.html" />
  <id>urn:http-mdssjc-github-io:-index-html</id>
- <updated>2018-01-28T14:00:00Z</updated>
+ <updated>2018-02-04T14:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 5</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/02/04/resumo-da-semana-5?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2018-02-04-resumo-da-semana-5</id>
+  <published>2018-02-04T14:00:00Z</published>
+  <updated>2018-02-04T14:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 5º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://drive.google.com/file/d/1Wke3lOHFnPTJhT5GO3gSHo_3TJ0o0TY2/view" title="Slides do livro Effective Java, 3rd"&gt;Slides do livro Effective Java, 3rd&lt;/a&gt;: Joshua Bloch compartilhou os &lt;em&gt;slides&lt;/em&gt; de seu novo livro para a comunidade.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="http://www.javamagazine.mozaicreader.com/JanFeb2018" title="Página da revista Java Magazine"&gt;Java Magazine&lt;/a&gt;: edição de Fevereiro da revista &lt;em&gt;Java Magazine&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://blogs.msdn.microsoft.com/typescript/2018/01/31/announcing-typescript-2-7" title="Post sobre o TypeScript 2.7"&gt;TypeScript 2.7&lt;/a&gt;: anúncio da nova versão do &lt;em&gt;TypeScript&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+ &lt;li&gt;
+  &lt;p&gt;&lt;a href="https://spring.io/blog/2018/01/31/spring-boot-2-0-0-rc1-available-now" title="Post sobre o Spring Boot 2"&gt;Spring Boot 2.0.0 RC1&lt;/a&gt;: anúncio da nova versão do &lt;em&gt;Spring Boot 2&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 4</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2018/01/28/resumo-da-semana-4?utm_source=all&amp;utm_medium=Atom" />
@@ -384,21 +407,4 @@
 &lt;!-- more--&gt;
 
 &lt;ul&gt;
- &lt;li&gt;&lt;a href="https://www.casadocodigo.com.br/products/livro-cangaceiro-javascript" title="Livro Cangaceiro JavaScript - Uma aventura no sertão da programação"&gt;Livro Cangaceiro JavaScript&lt;/a&gt;: lançamento do livro Cangaceiro &lt;em&gt;JavaScript&lt;/em&gt; - Uma aventura no sertão da programação do autor Flávio Almeida pela Casa do Código.&lt;/li&gt;&lt;/ul&gt;</content></entry>
- <entry>
-  <title type="text">Resumo da Semana 34</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/08/25/resumo-da-semana-34?utm_source=all&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2017-08-25-resumo-da-semana-34</id>
-  <published>2017-08-25T15:00:00Z</published>
-  <updated>2017-08-25T15:00:00Z</updated>
-  <author>
-   <name>Marcelo dos Santos</name></author>
-  <content type="html">
-&lt;p&gt;Segue o resumo da 34º semana do ano de 2017&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;ul&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:7828508460154:::149:P149_EVENT_ID,P149_PREV_PAGE:5472,147" title="Página de matrícula do curso"&gt;Oracle MOOC: SQL Fundamentals&lt;/a&gt;: início do curso.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
+ &lt;li&gt;&lt;a href="https://www.casadocodigo.com.br/products/livro-cangaceiro-javascript" title="Livro Cangaceiro JavaScript - Uma aventura no sertão da programação"&gt;Livro Cangaceiro JavaScript&lt;/a&gt;: lançamento do livro Cangaceiro &lt;em&gt;JavaScript&lt;/em&gt; - Uma aventura no sertão da programação do autor Flávio Almeida pela Casa do Código.&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
