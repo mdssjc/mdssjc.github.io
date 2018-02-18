@@ -4,7 +4,23 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/all.atom.xml" />
  <link href="http://mdssjc.github.io/index.html" />
  <id>urn:http-mdssjc-github-io:-index-html</id>
- <updated>2018-02-11T14:00:00Z</updated>
+ <updated>2018-02-18T15:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 7</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/02/18/resumo-da-semana-7?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2018-02-18-resumo-da-semana-7</id>
+  <published>2018-02-18T15:00:00Z</published>
+  <updated>2018-02-18T15:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 7º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://blog.atom.io/2018/02/13/atom-1-24.html" title="Post sobre a nova versão do Atom"&gt;Atom 1.24 e Atom Beta 1.25&lt;/a&gt;: lançamento da nova versão do ambiente &lt;em&gt;Atom&lt;/em&gt;.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/kotlin/2018/02/kotlinnative-v0-6-is-here" title="Post sobre a nova versão do Kotlin/Native"&gt;Kotlin/Native v0.6&lt;/a&gt;: lançamento da nova versão do &lt;em&gt;Kotlin/Native&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 6</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2018/02/11/resumo-da-semana-6?utm_source=all&amp;utm_medium=Atom" />
@@ -393,18 +409,4 @@
  &lt;li&gt;
   &lt;p&gt;&lt;a href="http://blog.racket-lang.org/2017/09/racket-v6-10-1.html" title="Racket v6.10.1 has been released!"&gt;Racket v6.10.1 has been released!&lt;/a&gt;: versão de correção do &lt;em&gt;Racket&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
  &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://blog.atom.io/2017/09/12/atom-1-20.html" title="Atom 1.20"&gt;Atom 1.20 e 1.21 Beta&lt;/a&gt;: nova versão do &lt;em&gt;Atom&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
- <entry>
-  <title type="text">Resumo da Semana 36</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/09/08/resumo-da-semana-36?utm_source=all&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2017-09-08-resumo-da-semana-36</id>
-  <published>2017-09-08T15:00:00Z</published>
-  <updated>2017-09-08T15:00:00Z</updated>
-  <author>
-   <name>Marcelo dos Santos</name></author>
-  <content type="html">
-&lt;p&gt;Segue o resumo da 36º semana do ano de 2017&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto" title="Desenvolvimento Ágil com Padrões de Projeto"&gt;Desenvolvimento Ágil com Padrões de Projeto&lt;/a&gt;: início do 5º curso da série Programação Java e Modelagem Ágil por Clovis Fernandes e Eduardo Guerra.&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
+  &lt;p&gt;&lt;a href="http://blog.atom.io/2017/09/12/atom-1-20.html" title="Atom 1.20"&gt;Atom 1.20 e 1.21 Beta&lt;/a&gt;: nova versão do &lt;em&gt;Atom&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
