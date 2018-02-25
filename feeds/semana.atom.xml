@@ -4,7 +4,25 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/semana.atom.xml" />
  <link href="http://mdssjc.github.io/tags/semana.html" />
  <id>urn:http-mdssjc-github-io:-tags-semana-html</id>
- <updated>2018-02-18T15:00:00Z</updated>
+ <updated>2018-02-25T15:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 8</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/02/25/resumo-da-semana-8?utm_source=semana&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2018-02-25-resumo-da-semana-8</id>
+  <published>2018-02-25T15:00:00Z</published>
+  <updated>2018-02-25T15:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 8º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://gitter.im/syl20bnr/spacemacs?at=5a8a5dde0202dc012e537998" title="Post sobre o LSP no Spacemacs"&gt;Spacemacs adiciona suporte para o LSP&lt;/a&gt;: o &lt;em&gt;starter kit&lt;/em&gt; &lt;em&gt;Spacemacs&lt;/em&gt; adicionou suporte ao &lt;em&gt;Language Server Protocol&lt;/em&gt;, inicialmente, para a camada &lt;em&gt;Python&lt;/em&gt;.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://pragprog.com/book/shcloj3/programming-clojure-third-edition" title="Post sobre o lançamento do livro Programming Clojure"&gt;Lançamento da 3a Edição do livro Programming Clojure&lt;/a&gt;: nova edição do livro &lt;em&gt;Programming Clojure&lt;/em&gt; dos autores &lt;em&gt;Alex Miller&lt;/em&gt; com &lt;em&gt;Stuart Halloway&lt;/em&gt; e &lt;em&gt;Aaron Bedra&lt;/em&gt;.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="books.goalkicker.com/JavaBook" title="Página de download do livro Java Notes for Professionals"&gt;Java Notes for Professionals&lt;/a&gt;: compilado em 181 capítulos as notas de desenvolvimento para projetos &lt;em&gt;Java&lt;/em&gt;, gratuito para &lt;em&gt;download&lt;/em&gt;.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://groovy-lang.org/download.html" title="Página de download do Groovy"&gt;Groovy 2.5.0-beta&amp;ndash;3&lt;/a&gt;: nova versão do &lt;em&gt;branch&lt;/em&gt; 2.5 da linguagem de programação &lt;em&gt;Groovy&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 7</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2018/02/18/resumo-da-semana-7?utm_source=semana&amp;utm_medium=Atom" />
@@ -362,18 +380,4 @@
  &lt;li&gt;
   &lt;p&gt;&lt;a href="http://blog.racket-lang.org/2017/09/racket-v6-10-1.html" title="Racket v6.10.1 has been released!"&gt;Racket v6.10.1 has been released!&lt;/a&gt;: versão de correção do &lt;em&gt;Racket&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
  &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://blog.atom.io/2017/09/12/atom-1-20.html" title="Atom 1.20"&gt;Atom 1.20 e 1.21 Beta&lt;/a&gt;: nova versão do &lt;em&gt;Atom&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
- <entry>
-  <title type="text">Resumo da Semana 36</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/09/08/resumo-da-semana-36?utm_source=semana&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2017-09-08-resumo-da-semana-36</id>
-  <published>2017-09-08T15:00:00Z</published>
-  <updated>2017-09-08T15:00:00Z</updated>
-  <author>
-   <name>Marcelo dos Santos</name></author>
-  <content type="html">
-&lt;p&gt;Segue o resumo da 36º semana do ano de 2017&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto" title="Desenvolvimento Ágil com Padrões de Projeto"&gt;Desenvolvimento Ágil com Padrões de Projeto&lt;/a&gt;: início do 5º curso da série Programação Java e Modelagem Ágil por Clovis Fernandes e Eduardo Guerra.&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
+  &lt;p&gt;&lt;a href="http://blog.atom.io/2017/09/12/atom-1-20.html" title="Atom 1.20"&gt;Atom 1.20 e 1.21 Beta&lt;/a&gt;: nova versão do &lt;em&gt;Atom&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>

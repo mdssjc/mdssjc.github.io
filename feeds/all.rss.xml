@@ -4,9 +4,75 @@
   <title>Página MDS: Página MDS</title>
   <description>Página MDS: Página MDS</description>
   <link>http://mdssjc.github.io/index.html</link>
-  <lastBuildDate>Sun, 18 Feb 2018 15:00:00 UT</lastBuildDate>
-  <pubDate>Sun, 18 Feb 2018 15:00:00 UT</pubDate>
+  <lastBuildDate>Sun, 25 Feb 2018 15:00:00 UT</lastBuildDate>
+  <pubDate>Sun, 25 Feb 2018 15:00:00 UT</pubDate>
   <ttl>1800</ttl>
+  <item>
+   <title>Cursos da Oracle MOOC</title>
+   <link>http://mdssjc.github.io/blog/2018/02/25/cursos-da-oracle-mooc?utm_source=all&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-02-25-cursos-da-oracle-mooc</guid>
+   <pubDate>Sun, 25 Feb 2018 15:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;Atualizado a lista de cursos &lt;em&gt;Oracle MOOC&lt;/em&gt;, acompanhe aqui o calendário&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;pre&gt;&lt;code&gt;| Data       | Curso/Descrição                                                                 |
+|------------|---------------------------------------------------------------------------------|
+| 08/01/2018 | SQL Fundamentals (2018)                                                         |
+|            | Aprenda os fundamentos do SQL usando Oracle Database 12c                        |
+| 15/01/2018 | PL/SQL Fundamentals (2018)                                                      |
+|            | Aprenda a escrever simples instruções PL/SQL usando Oracle Database 12c         |
+| 15/01/2018 | Developing Chatbots with Oracle Intelligent Bots                                |
+|            | Aprenda como criar um chatbot inteligente que funciona no Facebook Messenger    |
+| 22/01/2018 | Java Virtual Machine Troubleshooting (2018)                                     |
+|            | Entenda os sintomas e as ferramentas de diagnóstico para solucionar problemas e |
+|            | otimizar o desempenho do seu aplicativo Java                                    |
+| 05/02/2018 | Introduction to NodeJS Using Oracle Cloud (2018)                                |
+|            | Introdução ao desenvolvimento de aplicativos microservice NodeJS com o          |
+|            | Oracle Cloud                                                                    |
+| 26/02/2018 | Soar higher with Oracle JavaScript Extension Toolkit (JET) 4.0 (2018)           |
+|            | Curso de JET                                                                    |
+| 06/03/2018 | Introduction to PL/SQL Program Units                                            |
+|            | Desenvolva, execute e gerencie program units em PL/SQL e também como manipular  |
+|            | exceções                                                                        |
+| 04/04/2018 | Managing Java Cloud Services Using REST                                         |
+|            | Aprenda sobre provisionamento, administração e gerenciamento do Java Cloud      |
+|            | Services usando REST                                                            |&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://www.oracle.com/goto/SQLfun" title="Oracle MOOC: SQL Fundamentals (2018)"&gt;SQL Fundamentals&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://www.oracle.com/goto/PLSQL" title="Oracle MOOC: PL/SQL Fundamentals (2018)"&gt;PL/SQL Fundamentals&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://www.oracle.com/goto/chatbot" title="Oracle MOOC: Developing Chatbots with Oracle Intelligent Bots"&gt;Developing Chatbots with Oracle Intelligent Bots&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://www.oracle.com/goto/jvm" title="Oracle MOOC: Java Virtual Machine Troubleshooting (2018)"&gt;Java Virtual Machine Troubleshooting&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.oracle.com/goto/node" title="Oracle MOOC: Introduction to NodeJS Using Oracle Cloud (2018)"&gt;Introduction to NodeJS Using Oracle Cloud&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.oracle.com/goto/jet" title="Oracle MOOC: Soar higher with Oracle JavaScript Extension Toolkit (JET) 4.0 (2018)"&gt;Soar higher with Oracle JavaScript Extension Toolkit (JET) 4.0&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:6199928021097:::149:P149_EVENT_ID,P149_PREV_PAGE:5713,147" title="Oracle MOOC: Introduction to PL/SQL Program Units"&gt;Introduction to PL/SQL Program Units&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://www.oracle.com/goto/JCSRest" title="Oracle MOOC: Managing Java Cloud Services Using REST"&gt;Managing Java Cloud Services Using REST&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="próximos-moocs"&gt;Próximos MOOCs&lt;/h2&gt;
+
+&lt;p&gt;Está por vir em março - abril&amp;hellip;&lt;/p&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;JVM Crashes&lt;/strong&gt; (sem data definida)&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;DevOps for Node.JS Microservices&lt;/strong&gt; (sem data definida)&lt;/li&gt;&lt;/ul&gt;</description></item>
+  <item>
+   <title>Resumo da Semana 8</title>
+   <link>http://mdssjc.github.io/blog/2018/02/25/resumo-da-semana-8?utm_source=all&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-02-25-resumo-da-semana-8</guid>
+   <pubDate>Sun, 25 Feb 2018 15:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;Segue o resumo da 8º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://gitter.im/syl20bnr/spacemacs?at=5a8a5dde0202dc012e537998" title="Post sobre o LSP no Spacemacs"&gt;Spacemacs adiciona suporte para o LSP&lt;/a&gt;: o &lt;em&gt;starter kit&lt;/em&gt; &lt;em&gt;Spacemacs&lt;/em&gt; adicionou suporte ao &lt;em&gt;Language Server Protocol&lt;/em&gt;, inicialmente, para a camada &lt;em&gt;Python&lt;/em&gt;.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://pragprog.com/book/shcloj3/programming-clojure-third-edition" title="Post sobre o lançamento do livro Programming Clojure"&gt;Lançamento da 3a Edição do livro Programming Clojure&lt;/a&gt;: nova edição do livro &lt;em&gt;Programming Clojure&lt;/em&gt; dos autores &lt;em&gt;Alex Miller&lt;/em&gt; com &lt;em&gt;Stuart Halloway&lt;/em&gt; e &lt;em&gt;Aaron Bedra&lt;/em&gt;.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="books.goalkicker.com/JavaBook" title="Página de download do livro Java Notes for Professionals"&gt;Java Notes for Professionals&lt;/a&gt;: compilado em 181 capítulos as notas de desenvolvimento para projetos &lt;em&gt;Java&lt;/em&gt;, gratuito para &lt;em&gt;download&lt;/em&gt;.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://groovy-lang.org/download.html" title="Página de download do Groovy"&gt;Groovy 2.5.0-beta&amp;ndash;3&lt;/a&gt;: nova versão do &lt;em&gt;branch&lt;/em&gt; 2.5 da linguagem de programação &lt;em&gt;Groovy&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>Resumo da Semana 7</title>
    <link>http://mdssjc.github.io/blog/2018/02/18/resumo-da-semana-7?utm_source=all&amp;utm_medium=RSS</link>
@@ -79,51 +145,6 @@
   &lt;p&gt;&lt;a href="http://bobkonf.de/2018/en" title="Página do fórum BOB 2018"&gt;Fórum BOB 2018&lt;/a&gt;: evento com diversas palestras sobre tecnologias além do &lt;em&gt;mainstream&lt;/em&gt;. No aguardo sobre alguma confirmação de transmissão ao vivo. Na própria página possui &lt;em&gt;links&lt;/em&gt; das edições passadas com &lt;em&gt;slides&lt;/em&gt; e vídeos.&lt;/p&gt;&lt;/li&gt;
  &lt;li&gt;
   &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
-  <item>
-   <title>Cursos da Oracle MOOC</title>
-   <link>http://mdssjc.github.io/blog/2018/01/21/cursos-da-oracle-mooc?utm_source=all&amp;utm_medium=RSS</link>
-   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-01-21-cursos-da-oracle-mooc</guid>
-   <pubDate>Sun, 21 Jan 2018 14:00:00 UT</pubDate>
-   <author>Marcelo dos Santos</author>
-   <description>
-&lt;p&gt;Atualizado a lista de cursos &lt;em&gt;Oracle MOOC&lt;/em&gt;, acompanhe aqui o calendário&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;pre&gt;&lt;code&gt;| Data       | Curso/Descrição                                                                 |
-|------------|---------------------------------------------------------------------------------|
-| 08/01/2018 | SQL Fundamentals (2018)                                                         |
-|            | Aprenda os fundamentos do SQL usando Oracle Database 12c                        |
-| 15/01/2018 | PL/SQL Fundamentals (2018)                                                      |
-|            | Aprenda a escrever simples instruções PL/SQL usando Oracle Database 12c         |
-| 15/01/2018 | Developing Chatbots with Oracle Intelligent Bots                                |
-|            | Aprenda como criar um chatbot inteligente que funciona no Facebook Messenger    |
-| 22/01/2018 | Java Virtual Machine Troubleshooting (2018)                                     |
-|            | Entenda os sintomas e as ferramentas de diagnóstico para solucionar problemas e |
-|            | otimizar o desempenho do seu aplicativo Java                                    |
-| 05/02/2018 | Introduction to NodeJS Using Oracle Cloud (2018)                                |
-|            | Introdução ao desenvolvimento de aplicativos microservice NodeJS com o          |
-|            | Oracle Cloud                                                                    |
-| 26/02/2018 | Soar higher with Oracle JavaScript Extension Toolkit (JET) 4.0 (2018)           |
-|            | Curso de JET                                                                    |&lt;/code&gt;&lt;/pre&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://www.oracle.com/goto/SQLfun" title="Oracle MOOC: SQL Fundamentals (2018)"&gt;SQL Fundamentals&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://www.oracle.com/goto/PLSQL" title="Oracle MOOC: PL/SQL Fundamentals (2018)"&gt;PL/SQL Fundamentals&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://www.oracle.com/goto/chatbot" title="Oracle MOOC: Developing Chatbots with Oracle Intelligent Bots"&gt;Developing Chatbots with Oracle Intelligent Bots&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://www.oracle.com/goto/jvm" title="Oracle MOOC: Java Virtual Machine Troubleshooting (2018)"&gt;Java Virtual Machine Troubleshooting&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://www.oracle.com/goto/node" title="Oracle MOOC: Introduction to NodeJS Using Oracle Cloud (2018)"&gt;Introduction to NodeJS Using Oracle Cloud&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://www.oracle.com/goto/jet" title="Oracle MOOC: Soar higher with Oracle JavaScript Extension Toolkit (JET) 4.0 (2018)"&gt;Soar higher with Oracle JavaScript Extension Toolkit (JET) 4.0&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h2 id="próximos-moocs"&gt;Próximos MOOCs&lt;/h2&gt;
-
-&lt;p&gt;Está por vir em fevereiro - março&amp;hellip;&lt;/p&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;strong&gt;Managing Java Cloud Service using REST&lt;/strong&gt; (19/02/2018)&lt;/li&gt;
- &lt;li&gt;&lt;strong&gt;PL/SQL Program Units&lt;/strong&gt; (26/02/2018)&lt;/li&gt;
- &lt;li&gt;&lt;strong&gt;Developing Database Web Applications using Application Express&lt;/strong&gt; (05/03/2018)&lt;/li&gt;
- &lt;li&gt;&lt;strong&gt;JVM Crashes&lt;/strong&gt; (19/03/2018)&lt;/li&gt;
- &lt;li&gt;&lt;strong&gt;DevOps for Node.JS Microservices&lt;/strong&gt; (26/03/2018)&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>Resumo da Semana 3</title>
    <link>http://mdssjc.github.io/blog/2018/01/21/resumo-da-semana-3?utm_source=all&amp;utm_medium=RSS</link>
@@ -350,25 +371,4 @@
  &lt;li&gt;
   &lt;p&gt;&lt;a href="https://github.com/emacs-mirror/emacs/commit/977cd6cb28a37744966ec62f70cf62659f6f302a" title="Increment Emacs version to 27.0.50"&gt;Increment Emacs version to 27.0.50&lt;/a&gt;: nova versão do &lt;em&gt;Emacs&lt;/em&gt; a caminho.&lt;/p&gt;&lt;/li&gt;
  &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://oracle.com/javadownload" title="Java 9"&gt;Java 9&lt;/a&gt;: lançamento da versão 9 do &lt;em&gt;Java&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
-  <item>
-   <title>Resumo da Semana 37</title>
-   <link>http://mdssjc.github.io/blog/2017/09/15/resumo-da-semana-37?utm_source=all&amp;utm_medium=RSS</link>
-   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2017-09-15-resumo-da-semana-37</guid>
-   <pubDate>Fri, 15 Sep 2017 15:00:00 UT</pubDate>
-   <author>Marcelo dos Santos</author>
-   <description>
-&lt;p&gt;Segue o resumo da 37º semana do ano de 2017&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;strong&gt;Understanding Classes in Java&lt;/strong&gt;: série de artigos sobre o funcionamento semântico das classes para o paradigma orientado a objetos com &lt;em&gt;Java&lt;/em&gt;, por Justin Albano.
-  &lt;ul&gt;
-   &lt;li&gt;&lt;a href="https://dzone.com/articles/understanding-classes-in-java-part-1" title="Parte 1"&gt;Parte 1&lt;/a&gt;&lt;/li&gt;
-   &lt;li&gt;&lt;a href="https://dzone.com/articles/understanding-classes-in-java-part-2" title="Parte 2"&gt;Parte 2&lt;/a&gt;&lt;/li&gt;
-   &lt;li&gt;&lt;a href="https://dzone.com/articles/understanding-classes-in-java-part-3" title="Parte 3"&gt;Parte 3&lt;/a&gt;&lt;/li&gt;
-   &lt;li&gt;&lt;a href="https://dzone.com/articles/understanding-classes-in-java-part-4" title="Parte 4"&gt;Parte 4&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://blog.racket-lang.org/2017/09/racket-v6-10-1.html" title="Racket v6.10.1 has been released!"&gt;Racket v6.10.1 has been released!&lt;/a&gt;: versão de correção do &lt;em&gt;Racket&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://blog.atom.io/2017/09/12/atom-1-20.html" title="Atom 1.20"&gt;Atom 1.20 e 1.21 Beta&lt;/a&gt;: nova versão do &lt;em&gt;Atom&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
+  &lt;p&gt;&lt;a href="http://oracle.com/javadownload" title="Java 9"&gt;Java 9&lt;/a&gt;: lançamento da versão 9 do &lt;em&gt;Java&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>

@@ -4,13 +4,13 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/sql.atom.xml" />
  <link href="http://mdssjc.github.io/tags/sql.html" />
  <id>urn:http-mdssjc-github-io:-tags-sql-html</id>
- <updated>2018-01-21T14:00:00Z</updated>
+ <updated>2018-02-25T15:00:00Z</updated>
  <entry>
   <title type="text">Cursos da Oracle MOOC</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/01/21/cursos-da-oracle-mooc?utm_source=sql&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2018-01-21-cursos-da-oracle-mooc</id>
-  <published>2018-01-21T14:00:00Z</published>
-  <updated>2018-01-21T14:00:00Z</updated>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/02/25/cursos-da-oracle-mooc?utm_source=sql&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2018-02-25-cursos-da-oracle-mooc</id>
+  <published>2018-02-25T15:00:00Z</published>
+  <updated>2018-02-25T15:00:00Z</updated>
   <author>
    <name>Marcelo dos Santos</name></author>
   <content type="html">
@@ -32,7 +32,13 @@
 |            | Introdução ao desenvolvimento de aplicativos microservice NodeJS com o          |
 |            | Oracle Cloud                                                                    |
 | 26/02/2018 | Soar higher with Oracle JavaScript Extension Toolkit (JET) 4.0 (2018)           |
-|            | Curso de JET                                                                    |&lt;/code&gt;&lt;/pre&gt;
+|            | Curso de JET                                                                    |
+| 06/03/2018 | Introduction to PL/SQL Program Units                                            |
+|            | Desenvolva, execute e gerencie program units em PL/SQL e também como manipular  |
+|            | exceções                                                                        |
+| 04/04/2018 | Managing Java Cloud Services Using REST                                         |
+|            | Aprenda sobre provisionamento, administração e gerenciamento do Java Cloud      |
+|            | Services usando REST                                                            |&lt;/code&gt;&lt;/pre&gt;
 
 &lt;ul&gt;
  &lt;li&gt;&lt;a href="https://www.oracle.com/goto/SQLfun" title="Oracle MOOC: SQL Fundamentals (2018)"&gt;SQL Fundamentals&lt;/a&gt;&lt;/li&gt;
@@ -40,18 +46,17 @@
  &lt;li&gt;&lt;a href="http://www.oracle.com/goto/chatbot" title="Oracle MOOC: Developing Chatbots with Oracle Intelligent Bots"&gt;Developing Chatbots with Oracle Intelligent Bots&lt;/a&gt;&lt;/li&gt;
  &lt;li&gt;&lt;a href="http://www.oracle.com/goto/jvm" title="Oracle MOOC: Java Virtual Machine Troubleshooting (2018)"&gt;Java Virtual Machine Troubleshooting&lt;/a&gt;&lt;/li&gt;
  &lt;li&gt;&lt;a href="https://www.oracle.com/goto/node" title="Oracle MOOC: Introduction to NodeJS Using Oracle Cloud (2018)"&gt;Introduction to NodeJS Using Oracle Cloud&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://www.oracle.com/goto/jet" title="Oracle MOOC: Soar higher with Oracle JavaScript Extension Toolkit (JET) 4.0 (2018)"&gt;Soar higher with Oracle JavaScript Extension Toolkit (JET) 4.0&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+ &lt;li&gt;&lt;a href="https://www.oracle.com/goto/jet" title="Oracle MOOC: Soar higher with Oracle JavaScript Extension Toolkit (JET) 4.0 (2018)"&gt;Soar higher with Oracle JavaScript Extension Toolkit (JET) 4.0&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:6199928021097:::149:P149_EVENT_ID,P149_PREV_PAGE:5713,147" title="Oracle MOOC: Introduction to PL/SQL Program Units"&gt;Introduction to PL/SQL Program Units&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://www.oracle.com/goto/JCSRest" title="Oracle MOOC: Managing Java Cloud Services Using REST"&gt;Managing Java Cloud Services Using REST&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 
 &lt;h2 id="próximos-moocs"&gt;Próximos MOOCs&lt;/h2&gt;
 
-&lt;p&gt;Está por vir em fevereiro - março&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Está por vir em março - abril&amp;hellip;&lt;/p&gt;
 
 &lt;ul&gt;
- &lt;li&gt;&lt;strong&gt;Managing Java Cloud Service using REST&lt;/strong&gt; (19/02/2018)&lt;/li&gt;
- &lt;li&gt;&lt;strong&gt;PL/SQL Program Units&lt;/strong&gt; (26/02/2018)&lt;/li&gt;
- &lt;li&gt;&lt;strong&gt;Developing Database Web Applications using Application Express&lt;/strong&gt; (05/03/2018)&lt;/li&gt;
- &lt;li&gt;&lt;strong&gt;JVM Crashes&lt;/strong&gt; (19/03/2018)&lt;/li&gt;
- &lt;li&gt;&lt;strong&gt;DevOps for Node.JS Microservices&lt;/strong&gt; (26/03/2018)&lt;/li&gt;&lt;/ul&gt;</content></entry>
+ &lt;li&gt;&lt;strong&gt;JVM Crashes&lt;/strong&gt; (sem data definida)&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;DevOps for Node.JS Microservices&lt;/strong&gt; (sem data definida)&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Curso de SQL</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2017/08/08/curso-de-sql?utm_source=sql&amp;utm_medium=Atom" />
