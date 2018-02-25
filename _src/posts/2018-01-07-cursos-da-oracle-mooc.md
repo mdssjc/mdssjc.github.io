@@ -1,6 +1,6 @@
     Title: Cursos da Oracle MOOC
-    Date: 2018-01-21T12:00:00
-    Tags: cursos, oracle, mooc, java, sql, node, javascript
+    Date: 2018-02-25T12:00:00
+    Tags: cursos, oracle, mooc, java, sql, node, javascript, pl/sql, rest
 
 Atualizado a lista de cursos _Oracle MOOC_, acompanhe aqui o calendário...
 
@@ -22,6 +22,12 @@ Atualizado a lista de cursos _Oracle MOOC_, acompanhe aqui o calendário...
     |            | Oracle Cloud                                                                    |
     | 26/02/2018 | Soar higher with Oracle JavaScript Extension Toolkit (JET) 4.0 (2018)           |
     |            | Curso de JET                                                                    |
+    | 06/03/2018 | Introduction to PL/SQL Program Units                                            |
+    |            | Desenvolva, execute e gerencie program units em PL/SQL e também como manipular  |
+    |            | exceções                                                                        |
+    | 04/04/2018 | Managing Java Cloud Services Using REST                                         |
+    |            | Aprenda sobre provisionamento, administração e gerenciamento do Java Cloud      |
+    |            | Services usando REST                                                            |
  
 * [SQL Fundamentals](https://www.oracle.com/goto/SQLfun "Oracle MOOC: SQL Fundamentals (2018)")
 * [PL/SQL Fundamentals](http://www.oracle.com/goto/PLSQL "Oracle MOOC: PL/SQL Fundamentals (2018)")
@@ -29,13 +35,12 @@ Atualizado a lista de cursos _Oracle MOOC_, acompanhe aqui o calendário...
 * [Java Virtual Machine Troubleshooting](http://www.oracle.com/goto/jvm "Oracle MOOC: Java Virtual Machine Troubleshooting (2018)")
 * [Introduction to NodeJS Using Oracle Cloud](https://www.oracle.com/goto/node "Oracle MOOC: Introduction to NodeJS Using Oracle Cloud (2018)")
 * [Soar higher with Oracle JavaScript Extension Toolkit (JET) 4.0](https://www.oracle.com/goto/jet "Oracle MOOC: Soar higher with Oracle JavaScript Extension Toolkit (JET) 4.0 (2018)")
+* [Introduction to PL/SQL Program Units](https://apexapps.oracle.com/pls/apex/f?p=44785:149:6199928021097:::149:P149_EVENT_ID,P149_PREV_PAGE:5713,147 "Oracle MOOC: Introduction to PL/SQL Program Units")
+* [Managing Java Cloud Services Using REST](http://www.oracle.com/goto/JCSRest "Oracle MOOC: Managing Java Cloud Services Using REST")
 
-## Próximos MOOCs ##
+## Próximos MOOCs
 
-Está por vir em fevereiro - março...
+Está por vir em março - abril...
 
-* **Managing Java Cloud Service using REST** (19/02/2018)
-* **PL/SQL Program Units** (26/02/2018)
-* **Developing Database Web Applications using Application Express** (05/03/2018)
-* **JVM Crashes** (19/03/2018)
-* **DevOps for Node.JS Microservices** (26/03/2018)
+* **JVM Crashes** (sem data definida)
+* **DevOps for Node.JS Microservices** (sem data definida)
