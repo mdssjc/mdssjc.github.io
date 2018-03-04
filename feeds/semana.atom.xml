@@ -4,7 +4,23 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/semana.atom.xml" />
  <link href="http://mdssjc.github.io/tags/semana.html" />
  <id>urn:http-mdssjc-github-io:-tags-semana-html</id>
- <updated>2018-02-25T15:00:00Z</updated>
+ <updated>2018-03-04T15:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 9</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/03/04/resumo-da-semana-9?utm_source=semana&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2018-03-04-resumo-da-semana-9</id>
+  <published>2018-03-04T15:00:00Z</published>
+  <updated>2018-03-04T15:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 9º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://docs.gradle.org/4.6/release-notes.html?utm_source=twitter&amp;amp;utm_medium=social&amp;amp;utm_campaign=4-6-release" title="Post sobre o lançamento do Gradle 4.6"&gt;Gradle 4.6&lt;/a&gt;: lançado a versão 4.6 do gerenciador de &lt;em&gt;build&lt;/em&gt; &lt;em&gt;Gradle&lt;/em&gt;, confira as notas de lançamento.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://docs.google.com/document/d/1mAeEgQu4H4ADxa03k7YaVDjIP5vJBvjVIjg3DIvoc8E/edit" title="Link para o documento com as erratas do livro Effective Java"&gt;Erratas do livro Effective Java&lt;/a&gt;: liberado as erratas da 3ª edição do livro &lt;em&gt;Effective Java&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 8</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2018/02/25/resumo-da-semana-8?utm_source=semana&amp;utm_medium=Atom" />
@@ -357,27 +373,4 @@
  &lt;li&gt;
   &lt;p&gt;&lt;a href="https://github.com/emacs-mirror/emacs/commit/977cd6cb28a37744966ec62f70cf62659f6f302a" title="Increment Emacs version to 27.0.50"&gt;Increment Emacs version to 27.0.50&lt;/a&gt;: nova versão do &lt;em&gt;Emacs&lt;/em&gt; a caminho.&lt;/p&gt;&lt;/li&gt;
  &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://oracle.com/javadownload" title="Java 9"&gt;Java 9&lt;/a&gt;: lançamento da versão 9 do &lt;em&gt;Java&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
- <entry>
-  <title type="text">Resumo da Semana 37</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/09/15/resumo-da-semana-37?utm_source=semana&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2017-09-15-resumo-da-semana-37</id>
-  <published>2017-09-15T15:00:00Z</published>
-  <updated>2017-09-15T15:00:00Z</updated>
-  <author>
-   <name>Marcelo dos Santos</name></author>
-  <content type="html">
-&lt;p&gt;Segue o resumo da 37º semana do ano de 2017&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;strong&gt;Understanding Classes in Java&lt;/strong&gt;: série de artigos sobre o funcionamento semântico das classes para o paradigma orientado a objetos com &lt;em&gt;Java&lt;/em&gt;, por Justin Albano.
-  &lt;ul&gt;
-   &lt;li&gt;&lt;a href="https://dzone.com/articles/understanding-classes-in-java-part-1" title="Parte 1"&gt;Parte 1&lt;/a&gt;&lt;/li&gt;
-   &lt;li&gt;&lt;a href="https://dzone.com/articles/understanding-classes-in-java-part-2" title="Parte 2"&gt;Parte 2&lt;/a&gt;&lt;/li&gt;
-   &lt;li&gt;&lt;a href="https://dzone.com/articles/understanding-classes-in-java-part-3" title="Parte 3"&gt;Parte 3&lt;/a&gt;&lt;/li&gt;
-   &lt;li&gt;&lt;a href="https://dzone.com/articles/understanding-classes-in-java-part-4" title="Parte 4"&gt;Parte 4&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://blog.racket-lang.org/2017/09/racket-v6-10-1.html" title="Racket v6.10.1 has been released!"&gt;Racket v6.10.1 has been released!&lt;/a&gt;: versão de correção do &lt;em&gt;Racket&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://blog.atom.io/2017/09/12/atom-1-20.html" title="Atom 1.20"&gt;Atom 1.20 e 1.21 Beta&lt;/a&gt;: nova versão do &lt;em&gt;Atom&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
+  &lt;p&gt;&lt;a href="http://oracle.com/javadownload" title="Java 9"&gt;Java 9&lt;/a&gt;: lançamento da versão 9 do &lt;em&gt;Java&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>

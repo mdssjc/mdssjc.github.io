@@ -4,9 +4,23 @@
   <title>Página MDS: Página MDS</title>
   <description>Página MDS: Página MDS</description>
   <link>http://mdssjc.github.io/index.html</link>
-  <lastBuildDate>Sun, 25 Feb 2018 15:00:00 UT</lastBuildDate>
-  <pubDate>Sun, 25 Feb 2018 15:00:00 UT</pubDate>
+  <lastBuildDate>Sun, 04 Mar 2018 15:00:00 UT</lastBuildDate>
+  <pubDate>Sun, 04 Mar 2018 15:00:00 UT</pubDate>
   <ttl>1800</ttl>
+  <item>
+   <title>Resumo da Semana 9</title>
+   <link>http://mdssjc.github.io/blog/2018/03/04/resumo-da-semana-9?utm_source=all&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-03-04-resumo-da-semana-9</guid>
+   <pubDate>Sun, 04 Mar 2018 15:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;Segue o resumo da 9º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://docs.gradle.org/4.6/release-notes.html?utm_source=twitter&amp;amp;utm_medium=social&amp;amp;utm_campaign=4-6-release" title="Post sobre o lançamento do Gradle 4.6"&gt;Gradle 4.6&lt;/a&gt;: lançado a versão 4.6 do gerenciador de &lt;em&gt;build&lt;/em&gt; &lt;em&gt;Gradle&lt;/em&gt;, confira as notas de lançamento.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://docs.google.com/document/d/1mAeEgQu4H4ADxa03k7YaVDjIP5vJBvjVIjg3DIvoc8E/edit" title="Link para o documento com as erratas do livro Effective Java"&gt;Erratas do livro Effective Java&lt;/a&gt;: liberado as erratas da 3ª edição do livro &lt;em&gt;Effective Java&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>Cursos da Oracle MOOC</title>
    <link>http://mdssjc.github.io/blog/2018/02/25/cursos-da-oracle-mooc?utm_source=all&amp;utm_medium=RSS</link>
@@ -343,32 +357,4 @@
  &lt;li&gt;
   &lt;p&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:123367777931100:::149:P149_EVENT_ID,P149_PREV_PAGE:5616,147" title="Página de matrícula do curso"&gt;Oracle MOOC: Developing Chatbots with Oracle Intelligent Bots&lt;/a&gt;: curso sobre &lt;em&gt;chatbots&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
  &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:123367777931100:::149:P149_EVENT_ID,P149_PREV_PAGE:5610,147" title="Página de matrícula do curso"&gt;Oracle MOOC: Java Coding &amp;amp; Concepts with a Game (Session 2)&lt;/a&gt;: segunda turma do curso básico de &lt;em&gt;Java&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
-  <item>
-   <title>Resumo da Semana 38</title>
-   <link>http://mdssjc.github.io/blog/2017/09/22/resumo-da-semana-38?utm_source=all&amp;utm_medium=RSS</link>
-   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2017-09-22-resumo-da-semana-38</guid>
-   <pubDate>Fri, 22 Sep 2017 15:00:00 UT</pubDate>
-   <author>Marcelo dos Santos</author>
-   <description>
-&lt;p&gt;Segue o resumo da 38º semana do ano de 2017&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;strong&gt;Code Smells&lt;/strong&gt;: série de artigos sobre problemas em código (&lt;em&gt;code smells&lt;/em&gt;) com &lt;em&gt;Java&lt;/em&gt;, por Trisha Gee.
-  &lt;ul&gt;
-   &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2017/08/code-smells-null" title="Code Smells: Null"&gt;Null&lt;/a&gt;&lt;/li&gt;
-   &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2017/08/code-smells-deeply-nested-code" title="Code Smells: Deeply Nested Code"&gt;Deeply Nested Code&lt;/a&gt;&lt;/li&gt;
-   &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2017/08/code-smells-iteration" title="Code Smells: Iteration"&gt;Iteration&lt;/a&gt;&lt;/li&gt;
-   &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2017/08/code-smells-mutation" title="Code Smells: Mutation"&gt;Mutation&lt;/a&gt;&lt;/li&gt;
-   &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2017/09/code-smells-multi-responsibility-methods" title="Code Smells: Multi-Responsibility Methods"&gt;Multi-Responsibility Methods&lt;/a&gt;&lt;/li&gt;
-   &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2017/09/code-smells-if-statements" title="Code Smells: If Statements"&gt;If Statements&lt;/a&gt;&lt;/li&gt;
-   &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2017/09/code-smells-too-many-problems" title="Code Smells: Too Many Problems"&gt;Too Many Problems&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://www.futurelearn.com/courses/functional-programming-haskell" title="Página de matrícula do curso"&gt;Functional Programming in Haskell: Supercharge Your Coding&lt;/a&gt;: início do curso.&lt;/p&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:105154462252565::NO:RP,149:P149_EVENT_ID:5552" title="Página de matrícula do curso"&gt;Oracle MOOC: Java Virtual Machine Troubleshooting&lt;/a&gt;: início do curso.&lt;/p&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://github.com/emacs-mirror/emacs/commit/977cd6cb28a37744966ec62f70cf62659f6f302a" title="Increment Emacs version to 27.0.50"&gt;Increment Emacs version to 27.0.50&lt;/a&gt;: nova versão do &lt;em&gt;Emacs&lt;/em&gt; a caminho.&lt;/p&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://oracle.com/javadownload" title="Java 9"&gt;Java 9&lt;/a&gt;: lançamento da versão 9 do &lt;em&gt;Java&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
+  &lt;p&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:123367777931100:::149:P149_EVENT_ID,P149_PREV_PAGE:5610,147" title="Página de matrícula do curso"&gt;Oracle MOOC: Java Coding &amp;amp; Concepts with a Game (Session 2)&lt;/a&gt;: segunda turma do curso básico de &lt;em&gt;Java&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
