@@ -4,7 +4,46 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/all.atom.xml" />
  <link href="http://mdssjc.github.io/index.html" />
  <id>urn:http-mdssjc-github-io:-index-html</id>
- <updated>2018-03-11T15:00:00Z</updated>
+ <updated>2018-03-18T15:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 11</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/03/18/resumo-da-semana-11?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2018-03-18-resumo-da-semana-11</id>
+  <published>2018-03-18T15:00:00Z</published>
+  <updated>2018-03-18T15:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 11º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/kotlin/2018/03/kotlin-1-2-30-is-out" title="Post sobre o lançamento do Kotlin 1.2.30"&gt;JetBrains Releases Kotlin 1.2.30&lt;/a&gt;: lançamento da versão 1.2.30 da tecnologia &lt;em&gt;Kotlin&lt;/em&gt;.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.infoworld.com/article/3261066/java/javafx-will-be-removed-from-the-java-jdk.html" title="Post sobre a notícia do JavaFX"&gt;JavaFX will be removed from the Java JDK&lt;/a&gt;: a &lt;em&gt;Oracle&lt;/em&gt; vai separar a distribuição do &lt;em&gt;JavaFX&lt;/em&gt; junto ao &lt;em&gt;Java Development Kit&lt;/em&gt; (JDK) na versão 11.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2017-relnotes#15.6.1" title="Post sobre o lançamento do Visual Studio 2017 15.6"&gt;Visual Studio 2017 15.6 Released&lt;/a&gt;: lançamento da versão 15.6 do ambiente de desenvolvimento &lt;em&gt;Visual Studio 2017&lt;/em&gt;.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2018/03/intellij-idea-2017-3-5-fix-for-ssh-access-to-github" title="Post sobre a correção do acesso SSH ao GitHub"&gt;IntelliJ IDEA 2017.3.5: fix for SSH access to GitHub&lt;/a&gt;: corrigido a falha de acesso SSH ao &lt;em&gt;GitHub&lt;/em&gt; com o ambiente de desenvolvimento &lt;em&gt;IntelliJ IDEA 2017&lt;/em&gt;.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2018/03/intellij-idea-2018-1-release-candidate-is-here" title="Post sobre o lançamento do IntelliJ IDEA 2018.1"&gt;IntelliJ IDEA 2018.1 Release Candidate is here!&lt;/a&gt;: lançamento da versão &lt;em&gt;Release Candidate&lt;/em&gt; (RC) do ambiente de desenvolvimento &lt;em&gt;IntelliJ IDEA 2018&lt;/em&gt;.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://processing.org/download" title="Post sobre o download do Processing 3.3.7"&gt;Processing 3.3.7&lt;/a&gt;: lançamento da versão 3.3.7 do tecnologia &lt;em&gt;Processing&lt;/em&gt;, com acesso ao &lt;em&gt;changelog&lt;/em&gt;.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://blog.atom.io/2018/03/15/atom-1-25.html" title="Post sobre o lançamento do Atom 1.25"&gt;Atom 1.25&lt;/a&gt;: lançamento da versão 1.25 e 1.26 &lt;em&gt;Beta&lt;/em&gt; do ambiente &lt;em&gt;Atom&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="artigos"&gt;Artigos&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://blog.rust-lang.org/2018/03/12/roadmap.html" title="Post do artigo Rust's 2018 roadmap"&gt;Rust&amp;rsquo;s 2018 roadmap&lt;/a&gt;: interessante &lt;em&gt;post&lt;/em&gt; sobre o &lt;em&gt;roadmap&lt;/em&gt; da tecnologia &lt;em&gt;Rust&lt;/em&gt;, vale a pena a leitura a todos os desenvolvedores - um &lt;em&gt;template&lt;/em&gt; a ser seguido para as demais tecnologias.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://www.red-lang.org/2018/03/red-foundation-news.html" title="Post do artigo Red Foundation news"&gt;Red Foundation news&lt;/a&gt;: explica a nova estrutura do time de desenvolvimento e seus planos para a tecnologia &lt;em&gt;Red&lt;/em&gt;.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://functional.works-hub.com/learn/functors-and-category-theory-introductory-3e3da#utm_source=Reddit&amp;amp;utm_medium=Post&amp;amp;utm_campaign=Tom%20Tom&amp;amp;utm_content=Blog" title="Post do artigo Functors and Category Theory Introductory"&gt;Functors and Category Theory Introductory&lt;/a&gt;: uma introdução sobre a teoria de categorias e functores com &lt;em&gt;Clojure&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="podcast"&gt;Podcast&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://hipsters.tech/spring-framework-hipsters-87" title="Post do podcast 87 de Spring Framework"&gt;Spring Framework - Hipsters #87&lt;/a&gt;: uma conversa entre desenvolvedores sobre o &lt;em&gt;Spring Framework&lt;/em&gt;, abordando do passado ao presente.&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Cursos da Oracle MOOC</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2018/03/11/cursos-da-oracle-mooc?utm_source=all&amp;utm_medium=Atom" />
@@ -385,18 +424,4 @@
  &lt;li&gt;
   &lt;p&gt;&lt;a href="https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg" title="Canal do Android Developers"&gt;Canal do Android Developers&lt;/a&gt;: cursos, palestras e tutoriais sobre &lt;em&gt;Android&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
  &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://www.youtube.com/channel/UCCUxbxaPefOjgD14-7UbjVg" title="Canal do Eduardo Guerra"&gt;Canal do Eduardo Guerra&lt;/a&gt;: cursos e palestras sobre &lt;em&gt;Java&lt;/em&gt; e &lt;em&gt;Design Patterns&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
- <entry>
-  <title type="text">Resumo da Semana 40</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/10/06/resumo-da-semana-40?utm_source=all&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2017-10-06-resumo-da-semana-40</id>
-  <published>2017-10-06T15:00:00Z</published>
-  <updated>2017-10-06T15:00:00Z</updated>
-  <author>
-   <name>Marcelo dos Santos</name></author>
-  <content type="html">
-&lt;p&gt;Segue o resumo da 40º semana do ano de 2017&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://con.racket-lang.org" title="Página do (seventh RacketCon)"&gt;(seventh RacketCon)&lt;/a&gt;: nos dias 7 e 8 de Outubro acontece o maior evento de &lt;em&gt;Racket&lt;/em&gt; - transmissão pelo &lt;em&gt;YouTube&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
+  &lt;p&gt;&lt;a href="https://www.youtube.com/channel/UCCUxbxaPefOjgD14-7UbjVg" title="Canal do Eduardo Guerra"&gt;Canal do Eduardo Guerra&lt;/a&gt;: cursos e palestras sobre &lt;em&gt;Java&lt;/em&gt; e &lt;em&gt;Design Patterns&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
