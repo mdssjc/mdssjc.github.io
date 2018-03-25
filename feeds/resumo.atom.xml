@@ -4,10 +4,43 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/resumo.atom.xml" />
  <link href="http://mdssjc.github.io/tags/resumo.html" />
  <id>urn:http-mdssjc-github-io:-tags-resumo-html</id>
- <updated>2018-03-18T15:00:00Z</updated>
+ <updated>2018-03-25T15:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 12</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/03/25/resumo-da-semana-12/?utm_source=resumo&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2018-03-25-resumo-da-semana-12</id>
+  <published>2018-03-25T15:00:00Z</published>
+  <updated>2018-03-25T15:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 12º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://openjdk.java.net/projects/jdk/10" title="Página do JDK 10"&gt;Java 10 Released&lt;/a&gt;: lançamento do &lt;em&gt;Java&lt;/em&gt; 10 - com destaque para a inferência de tipos em variáveis locais, seguindo a meta de atualização em ciclos de 6 meses. Outras referências:
+  &lt;ul&gt;
+   &lt;li&gt;&lt;a href="https://www.infoq.com/news/2018/03/Java10GAReleased" title="InfoQ - Java 10 Released"&gt;InfoQ - Java 10 Released&lt;/a&gt;&lt;/li&gt;
+   &lt;li&gt;&lt;a href="https://www.infoworld.com/article/3230507/java/java-jdk-10-what-new-features-to-expect-in-the-next-java.html" title="InfoWorld - JDK 10: What’s new in Java 10"&gt;InfoWorld - JDK 10: What’s new in Java 10&lt;/a&gt;&lt;/li&gt;
+   &lt;li&gt;&lt;a href="https://dzone.com/articles/109-new-features-in-jdk-10?fromrel=true" title="DZone - 109 New Features in JDK 10"&gt;DZone &amp;ndash; 109 New Features in JDK 10&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="artigos"&gt;Artigos&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://danghica.blogspot.com.br/2018/03/copying-vs-sharing-in-functional.html" title="Artigo sobre programação funcional"&gt;Copying vs. sharing in functional languages&lt;/a&gt;: descreve o funcionamento de um &lt;em&gt;debugger&lt;/em&gt; em linguagens funcionais.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://www.inf.fu-berlin.de/inst/ag-se/teaching/K-CCD-2016/Clean-Coder-summary.pdf" title="Artigo com o resumo do Clean Coder"&gt;The essence of &amp;ldquo;Clean Coder&amp;rdquo;&lt;/a&gt;: resumo do livro &lt;em&gt;The Clean Coder: A Code of Conduct for Professional Programmers&lt;/em&gt; do autor Robert C. Martin.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://dev.to/brpaz/my-linux-development-environment-of-2018-ch7" title="Artigo sobre ambiente de desenvolvimento em Linux"&gt;My Linux Development Environment of 2018&lt;/a&gt;: descreve um ambiente de desenvolvimento utilizando as ferramentas/aplicações do sistema operacional &lt;em&gt;Linux&lt;/em&gt;.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312" title="Artigo sobre experiência em programação"&gt;The Mistakes I Made As a Beginner Programmer&lt;/a&gt;: descreve os principais problemas no início da carreira de programação.&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 11</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/03/18/resumo-da-semana-11?utm_source=resumo&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/03/18/resumo-da-semana-11/?utm_source=resumo&amp;utm_medium=Atom" />
   <id>urn:http-mdssjc-github-io:-blog-2018-03-18-resumo-da-semana-11</id>
   <published>2018-03-18T15:00:00Z</published>
   <updated>2018-03-18T15:00:00Z</updated>
@@ -46,7 +79,7 @@
  &lt;li&gt;&lt;a href="https://hipsters.tech/spring-framework-hipsters-87" title="Post do podcast 87 de Spring Framework"&gt;Spring Framework - Hipsters #87&lt;/a&gt;: uma conversa entre desenvolvedores sobre o &lt;em&gt;Spring Framework&lt;/em&gt;, abordando do passado ao presente.&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 10</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/03/11/resumo-da-semana-10?utm_source=resumo&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/03/11/resumo-da-semana-10/?utm_source=resumo&amp;utm_medium=Atom" />
   <id>urn:http-mdssjc-github-io:-blog-2018-03-11-resumo-da-semana-10</id>
   <published>2018-03-11T15:00:00Z</published>
   <updated>2018-03-11T15:00:00Z</updated>
@@ -67,7 +100,7 @@
  &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 9</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/03/04/resumo-da-semana-9?utm_source=resumo&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/03/04/resumo-da-semana-9/?utm_source=resumo&amp;utm_medium=Atom" />
   <id>urn:http-mdssjc-github-io:-blog-2018-03-04-resumo-da-semana-9</id>
   <published>2018-03-04T15:00:00Z</published>
   <updated>2018-03-04T15:00:00Z</updated>
@@ -83,7 +116,7 @@
  &lt;li&gt;&lt;a href="https://docs.google.com/document/d/1mAeEgQu4H4ADxa03k7YaVDjIP5vJBvjVIjg3DIvoc8E/edit" title="Link para o documento com as erratas do livro Effective Java"&gt;Erratas do livro Effective Java&lt;/a&gt;: liberado as erratas da 3ª edição do livro &lt;em&gt;Effective Java&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 8</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/02/25/resumo-da-semana-8?utm_source=resumo&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/02/25/resumo-da-semana-8/?utm_source=resumo&amp;utm_medium=Atom" />
   <id>urn:http-mdssjc-github-io:-blog-2018-02-25-resumo-da-semana-8</id>
   <published>2018-02-25T15:00:00Z</published>
   <updated>2018-02-25T15:00:00Z</updated>
@@ -101,7 +134,7 @@
  &lt;li&gt;&lt;a href="http://groovy-lang.org/download.html" title="Página de download do Groovy"&gt;Groovy 2.5.0-beta&amp;ndash;3&lt;/a&gt;: nova versão do &lt;em&gt;branch&lt;/em&gt; 2.5 da linguagem de programação &lt;em&gt;Groovy&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 7</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/02/18/resumo-da-semana-7?utm_source=resumo&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/02/18/resumo-da-semana-7/?utm_source=resumo&amp;utm_medium=Atom" />
   <id>urn:http-mdssjc-github-io:-blog-2018-02-18-resumo-da-semana-7</id>
   <published>2018-02-18T15:00:00Z</published>
   <updated>2018-02-18T15:00:00Z</updated>
@@ -117,7 +150,7 @@
  &lt;li&gt;&lt;a href="https://blog.jetbrains.com/kotlin/2018/02/kotlinnative-v0-6-is-here" title="Post sobre a nova versão do Kotlin/Native"&gt;Kotlin/Native v0.6&lt;/a&gt;: lançamento da nova versão do &lt;em&gt;Kotlin/Native&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 6</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/02/11/resumo-da-semana-6?utm_source=resumo&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/02/11/resumo-da-semana-6/?utm_source=resumo&amp;utm_medium=Atom" />
   <id>urn:http-mdssjc-github-io:-blog-2018-02-11-resumo-da-semana-6</id>
   <published>2018-02-11T14:00:00Z</published>
   <updated>2018-02-11T14:00:00Z</updated>
@@ -131,7 +164,7 @@
  &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 5</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/02/04/resumo-da-semana-5?utm_source=resumo&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/02/04/resumo-da-semana-5/?utm_source=resumo&amp;utm_medium=Atom" />
   <id>urn:http-mdssjc-github-io:-blog-2018-02-04-resumo-da-semana-5</id>
   <published>2018-02-04T14:00:00Z</published>
   <updated>2018-02-04T14:00:00Z</updated>
@@ -154,7 +187,7 @@
   &lt;p&gt;&lt;a href="https://spring.io/blog/2018/01/31/spring-boot-2-0-0-rc1-available-now" title="Post sobre o Spring Boot 2"&gt;Spring Boot 2.0.0 RC1&lt;/a&gt;: anúncio da nova versão do &lt;em&gt;Spring Boot 2&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 4</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/01/28/resumo-da-semana-4?utm_source=resumo&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/01/28/resumo-da-semana-4/?utm_source=resumo&amp;utm_medium=Atom" />
   <id>urn:http-mdssjc-github-io:-blog-2018-01-28-resumo-da-semana-4</id>
   <published>2018-01-28T14:00:00Z</published>
   <updated>2018-01-28T14:00:00Z</updated>
@@ -181,7 +214,7 @@
   &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 3</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/01/21/resumo-da-semana-3?utm_source=resumo&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/01/21/resumo-da-semana-3/?utm_source=resumo&amp;utm_medium=Atom" />
   <id>urn:http-mdssjc-github-io:-blog-2018-01-21-resumo-da-semana-3</id>
   <published>2018-01-21T14:00:00Z</published>
   <updated>2018-01-21T14:00:00Z</updated>
@@ -200,7 +233,7 @@
   &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 2</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/01/14/resumo-da-semana-2?utm_source=resumo&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/01/14/resumo-da-semana-2/?utm_source=resumo&amp;utm_medium=Atom" />
   <id>urn:http-mdssjc-github-io:-blog-2018-01-14-resumo-da-semana-2</id>
   <published>2018-01-14T14:00:00Z</published>
   <updated>2018-01-14T14:00:00Z</updated>
@@ -219,7 +252,7 @@
   &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 1</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/01/07/resumo-da-semana-1?utm_source=resumo&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/01/07/resumo-da-semana-1/?utm_source=resumo&amp;utm_medium=Atom" />
   <id>urn:http-mdssjc-github-io:-blog-2018-01-07-resumo-da-semana-1</id>
   <published>2018-01-07T14:00:00Z</published>
   <updated>2018-01-07T14:00:00Z</updated>
@@ -240,7 +273,7 @@
   &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 48</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/11/30/resumo-da-semana-48?utm_source=resumo&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/11/30/resumo-da-semana-48/?utm_source=resumo&amp;utm_medium=Atom" />
   <id>urn:http-mdssjc-github-io:-blog-2017-11-30-resumo-da-semana-48</id>
   <published>2017-11-30T14:00:00Z</published>
   <updated>2017-11-30T14:00:00Z</updated>
@@ -254,7 +287,7 @@
  &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 47</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/11/24/resumo-da-semana-47?utm_source=resumo&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/11/24/resumo-da-semana-47/?utm_source=resumo&amp;utm_medium=Atom" />
   <id>urn:http-mdssjc-github-io:-blog-2017-11-24-resumo-da-semana-47</id>
   <published>2017-11-24T14:00:00Z</published>
   <updated>2017-11-24T14:00:00Z</updated>
@@ -268,7 +301,7 @@
  &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 46</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/11/17/resumo-da-semana-46?utm_source=resumo&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/11/17/resumo-da-semana-46/?utm_source=resumo&amp;utm_medium=Atom" />
   <id>urn:http-mdssjc-github-io:-blog-2017-11-17-resumo-da-semana-46</id>
   <published>2017-11-17T14:00:00Z</published>
   <updated>2017-11-17T14:00:00Z</updated>
@@ -289,7 +322,7 @@
   &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 45</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/11/10/resumo-da-semana-45?utm_source=resumo&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/11/10/resumo-da-semana-45/?utm_source=resumo&amp;utm_medium=Atom" />
   <id>urn:http-mdssjc-github-io:-blog-2017-11-10-resumo-da-semana-45</id>
   <published>2017-11-10T14:00:00Z</published>
   <updated>2017-11-10T14:00:00Z</updated>
@@ -303,7 +336,7 @@
  &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 44</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/11/03/resumo-da-semana-44?utm_source=resumo&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/11/03/resumo-da-semana-44/?utm_source=resumo&amp;utm_medium=Atom" />
   <id>urn:http-mdssjc-github-io:-blog-2017-11-03-resumo-da-semana-44</id>
   <published>2017-11-03T14:00:00Z</published>
   <updated>2017-11-03T14:00:00Z</updated>
@@ -320,7 +353,7 @@
   &lt;p&gt;&lt;a href="https://blog.racket-lang.org/2017/10/racket-v6-11.html" title="Racket v6.11 has been released!"&gt;Racket v6.11 has been released!&lt;/a&gt;: nova versão do &lt;em&gt;Racket&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 43</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/10/27/resumo-da-semana-43?utm_source=resumo&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/10/27/resumo-da-semana-43/?utm_source=resumo&amp;utm_medium=Atom" />
   <id>urn:http-mdssjc-github-io:-blog-2017-10-27-resumo-da-semana-43</id>
   <published>2017-10-27T14:00:00Z</published>
   <updated>2017-10-27T14:00:00Z</updated>
@@ -334,7 +367,7 @@
  &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 42</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/10/20/resumo-da-semana-42?utm_source=resumo&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/10/20/resumo-da-semana-42/?utm_source=resumo&amp;utm_medium=Atom" />
   <id>urn:http-mdssjc-github-io:-blog-2017-10-20-resumo-da-semana-42</id>
   <published>2017-10-20T14:00:00Z</published>
   <updated>2017-10-20T14:00:00Z</updated>
@@ -348,7 +381,7 @@
  &lt;li&gt;&lt;a href="https://www.amazon.com/dp/B06XD5YCKX/ref=nav_shopall_ods_gno_erd_cg?pf_rd_p=4eeb2af8-4cd3-4b93-b7fc-f8e6e1aa949c&amp;amp;pf_rd_s=nav-sa-kindle-reader&amp;amp;pf_rd_t=4201&amp;amp;pf_rd_i=navbar-4201&amp;amp;pf_rd_m=ATVPDKIKX0DER&amp;amp;pf_rd_r=HTYA82YXNN3Z5W22H7CJ" title="Página do Kindle Oasis 2"&gt;Novo Kindle&lt;/a&gt;: lançado a nova versão do &lt;em&gt;Kindle&lt;/em&gt;, &lt;em&gt;Oasis&lt;/em&gt; 2 - inclusive pela &lt;em&gt;Amazon&lt;/em&gt; do Brasil.&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 41</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/10/13/resumo-da-semana-41?utm_source=resumo&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/10/13/resumo-da-semana-41/?utm_source=resumo&amp;utm_medium=Atom" />
   <id>urn:http-mdssjc-github-io:-blog-2017-10-13-resumo-da-semana-41</id>
   <published>2017-10-13T15:00:00Z</published>
   <updated>2017-10-13T15:00:00Z</updated>
@@ -368,18 +401,4 @@
  &lt;li&gt;
   &lt;p&gt;&lt;a href="https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg" title="Canal do Android Developers"&gt;Canal do Android Developers&lt;/a&gt;: cursos, palestras e tutoriais sobre &lt;em&gt;Android&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
  &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://www.youtube.com/channel/UCCUxbxaPefOjgD14-7UbjVg" title="Canal do Eduardo Guerra"&gt;Canal do Eduardo Guerra&lt;/a&gt;: cursos e palestras sobre &lt;em&gt;Java&lt;/em&gt; e &lt;em&gt;Design Patterns&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
- <entry>
-  <title type="text">Resumo da Semana 40</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/10/06/resumo-da-semana-40?utm_source=resumo&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2017-10-06-resumo-da-semana-40</id>
-  <published>2017-10-06T15:00:00Z</published>
-  <updated>2017-10-06T15:00:00Z</updated>
-  <author>
-   <name>Marcelo dos Santos</name></author>
-  <content type="html">
-&lt;p&gt;Segue o resumo da 40º semana do ano de 2017&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://con.racket-lang.org" title="Página do (seventh RacketCon)"&gt;(seventh RacketCon)&lt;/a&gt;: nos dias 7 e 8 de Outubro acontece o maior evento de &lt;em&gt;Racket&lt;/em&gt; - transmissão pelo &lt;em&gt;YouTube&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
+  &lt;p&gt;&lt;a href="https://www.youtube.com/channel/UCCUxbxaPefOjgD14-7UbjVg" title="Canal do Eduardo Guerra"&gt;Canal do Eduardo Guerra&lt;/a&gt;: cursos e palestras sobre &lt;em&gt;Java&lt;/em&gt; e &lt;em&gt;Design Patterns&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
