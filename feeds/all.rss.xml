@@ -4,9 +4,50 @@
   <title>Página MDS: Página MDS</title>
   <description>Página MDS: Página MDS</description>
   <link>http://mdssjc.github.io/index.html</link>
-  <lastBuildDate>Sun, 25 Mar 2018 15:00:00 UT</lastBuildDate>
-  <pubDate>Sun, 25 Mar 2018 15:00:00 UT</pubDate>
+  <lastBuildDate>Sun, 01 Apr 2018 15:00:00 UT</lastBuildDate>
+  <pubDate>Sun, 01 Apr 2018 15:00:00 UT</pubDate>
   <ttl>1800</ttl>
+  <item>
+   <title>Resumo da Semana 13</title>
+   <link>http://mdssjc.github.io/blog/2018/04/01/resumo-da-semana-13/?utm_source=all&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-04-01-resumo-da-semana-13</guid>
+   <pubDate>Sun, 01 Apr 2018 15:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;Segue o resumo da 13º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="informativo"&gt;Informativo&lt;/h2&gt;
+
+&lt;p&gt;O livro passará por atualizações durante o mês de Abril - no sistema GTD o projeto do livro possui várias notas e ações para serem executadas.&lt;/p&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://clojurescript.org/news/2018-03-26-release" title="Post sobre ClojureScript 1.10 is finally out!"&gt;ClojureScript 1.10 is finally out!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.rust-lang.org/2018/03/29/Rust-1.25.html" title="Post sobre Announcing Rust 1.25"&gt;Announcing Rust 1.25&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://groups.google.com/forum/#!topic/flutter-dev/E15CK8Eq8GM" title="Post sobre New Flutter tooling releases -- v23 now available!"&gt;New Flutter tooling releases &amp;mdash; v23 now available!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://sass.logdown.com/posts/7045860-dart-sass-100-is-released" title="Post sobre Dart Sass 1.0.0 is Released"&gt;Dart Sass 1.0.0 is Released&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=nnnW0nehPEA" title="Post sobre What’s new in Android Studio 3.1"&gt;What’s new in Android Studio 3.1&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2018/03/intellij-idea-2018-1-code-analysis-better-debugger-partial-git-commits-android-studio-3-0-and-other-improvements" title="Post sobre IntelliJ IDEA 2018.1"&gt;IntelliJ IDEA 2018.1&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2018/03/intellij-idea-2018-1-1-eap-is-here" title="Post sobre IntelliJ IDEA 2018.1.1 EAP is here!"&gt;IntelliJ IDEA 2018.1.1 EAP is here!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/go/2018/03/29/go-the-distance-goland-2018-1-is-here" title="Post sobre Go the Distance: GoLand 2018.1 is Here!"&gt;Go the Distance: GoLand 2018.1 is Here!&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="artigos"&gt;Artigos&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://martinfowler.com/articles/201803-refactoring-2nd-ed.html" title="Post sobre Announcing the Second Edition of 'Refactoring'"&gt;Announcing the Second Edition of &amp;ldquo;Refactoring&amp;rdquo;&lt;/a&gt;: nova edição do livro &lt;em&gt;Refactoring&lt;/em&gt; do autor Martin Fowler utilizará a tecnologia &lt;em&gt;JavaScript&lt;/em&gt;.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://medium.com/series/c4c7e4359da8" title="Post sobre Clojure Style Guide"&gt;Clojure Style Guide&lt;/a&gt;: guia para a padronização de código para a tecnologia &lt;em&gt;Clojure&lt;/em&gt;.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://research.hackerrank.com/developer-skills/2018" title="Post sobre 2018 Developer Skills Report"&gt;2018 Developer Skills Report&lt;/a&gt;: relatório sobre as habilidades dos construtores de &lt;em&gt;software&lt;/em&gt; para 2018.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://dzone.com/articles/introduction-to-java-bytecode" title="Post sobre Introduction to Java Bytecode"&gt;Introduction to Java Bytecode&lt;/a&gt;: visão geral do funcionamento do &lt;em&gt;Bytecode&lt;/em&gt; na tecnologia &lt;em&gt;Java&lt;/em&gt;.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.kotlin-academy.com/effective-java-in-kotlin-item-1-consider-static-factory-methods-instead-of-constructors-8d0d7b5814b2" title="Post sobre Effective Java in Kotlin, item 1: Consider static factory methods instead of constructors"&gt;Effective Java in Kotlin, item 1: Consider static factory methods instead of constructors&lt;/a&gt;: versão do item 1 do livro &lt;em&gt;Effective Java&lt;/em&gt; do autor Joshua Bloch para a tecnologia &lt;em&gt;Kotlin&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://github.com/abo-abo/swiper/issues/1509" title="Post sobre o ivy-count"&gt;Interactive ivy-count&lt;/a&gt;: discussão sobre o atalho do &lt;em&gt;ivy-count&lt;/em&gt;.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://emacsair.me/2018/03/29/magit-2.12" title="Post sobre o lançamento do Magit 2.12"&gt;Magit 2.12 released&lt;/a&gt;: lançamento da versão 2.12 do cliente &lt;em&gt;Magit&lt;/em&gt; para &lt;em&gt;Git&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>Resumo da Semana 12</title>
    <link>http://mdssjc.github.io/blog/2018/03/25/resumo-da-semana-12/?utm_source=all&amp;utm_medium=RSS</link>
@@ -384,16 +425,4 @@
 &lt;!-- more--&gt;
 
 &lt;ul&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</description></item>
-  <item>
-   <title>Resumo da Semana 42</title>
-   <link>http://mdssjc.github.io/blog/2017/10/20/resumo-da-semana-42/?utm_source=all&amp;utm_medium=RSS</link>
-   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2017-10-20-resumo-da-semana-42</guid>
-   <pubDate>Fri, 20 Oct 2017 14:00:00 UT</pubDate>
-   <author>Marcelo dos Santos</author>
-   <description>
-&lt;p&gt;Segue o resumo da 42º semana do ano de 2017&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://www.amazon.com/dp/B06XD5YCKX/ref=nav_shopall_ods_gno_erd_cg?pf_rd_p=4eeb2af8-4cd3-4b93-b7fc-f8e6e1aa949c&amp;amp;pf_rd_s=nav-sa-kindle-reader&amp;amp;pf_rd_t=4201&amp;amp;pf_rd_i=navbar-4201&amp;amp;pf_rd_m=ATVPDKIKX0DER&amp;amp;pf_rd_r=HTYA82YXNN3Z5W22H7CJ" title="Página do Kindle Oasis 2"&gt;Novo Kindle&lt;/a&gt;: lançado a nova versão do &lt;em&gt;Kindle&lt;/em&gt;, &lt;em&gt;Oasis&lt;/em&gt; 2 - inclusive pela &lt;em&gt;Amazon&lt;/em&gt; do Brasil.&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
