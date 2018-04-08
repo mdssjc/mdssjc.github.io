@@ -4,6 +4,7 @@ http://mdssjc.github.io/blog/2018/03/18/resumo-da-semana-11/
 http://mdssjc.github.io/blog/2018/02/04/resumo-da-semana-5/
 http://mdssjc.github.io/blog/2017/10/06/resumo-da-semana-40/
 http://mdssjc.github.io/blog/2017/08/08/curso-de-sql/
+http://mdssjc.github.io/blog/2018/04/08/resumo-da-semana-14/
 http://mdssjc.github.io/blog/2018/03/11/cursos-da-oracle-mooc/
 http://mdssjc.github.io/blog/2017/09/01/resumo-da-semana-35/
 http://mdssjc.github.io/blog/2017/10/20/resumo-da-semana-42/

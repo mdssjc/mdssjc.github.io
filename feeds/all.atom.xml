@@ -4,7 +4,43 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/all.atom.xml" />
  <link href="http://mdssjc.github.io/index.html" />
  <id>urn:http-mdssjc-github-io:-index-html</id>
- <updated>2018-04-01T15:00:00Z</updated>
+ <updated>2018-04-08T15:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 14</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/04/08/resumo-da-semana-14/?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2018-04-08-resumo-da-semana-14</id>
+  <published>2018-04-08T15:00:00Z</published>
+  <updated>2018-04-08T15:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 14º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://groups.google.com/forum/?fromgroups#!topic/clj-processing/qjuFjluBu2M" title="Post sobre Quil 2.7.1 Release"&gt;Quil 2.7.1 Release&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://www.javamagazine.mozaicreader.com/MarApr2018/#&amp;amp;pageSet=0&amp;amp;page=0&amp;amp;contentItem=0" title="Post sobre Java Magazine"&gt;Java Magazine&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.ionicframework.com/announcing-capacitor-1-0-0-alpha" title="Post sobre Ionic lança Capacitor 1.0.0-alpha"&gt;Ionic lança Capacitor 1.0.0-alpha&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://github.com/grails/grails-core/releases/tag/v3.3.4" title="Post sobre Grails 3.3.4"&gt;Grails 3.3.4&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.github.com/2018-04-05-git-217-released" title="Post sobre Git 2.17 is now available"&gt;Git 2.17 is now available&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.playframework.com/play-2-6-13-released-2" title="Post sobre Play 2.6.13 released!"&gt;Play 2.6.13 released!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://github.com/clojure/clojure-clr/releases/tag/clojure-1.9.0-beta1" title="Post sobre Clojure-CLR-1"&gt;Clojure-CLR&amp;ndash;1.9.0-beta1&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="artigos"&gt;Artigos&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://cambium.consulting/articles/2018/2/8/the-power-of-clojure-debugging" title="Artigo sobre The Power of Clojure: Debugging"&gt;The Power of Clojure: Debugging&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://www.iaeng.org/IJCS/issues_v32/issue_4/IJCS_32_4_19.pdf" title="Artigo sobre How to make Lisp go faster than C"&gt;How to make Lisp go faster than C&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://blog.querystorm.com/index.php/2018/04/04/whynow" title="Artigo sobre [I wandered off and built an IDE]"&gt;I wandered off and built an IDE&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://frenchy64.github.io/2018/04/07/unsoundness-in-untyped-types.html" title="Artigo sobre Are unsound type systems wrong?"&gt;Are unsound type systems wrong?&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://frenchy64.github.io/papers/esop16-short.pdf" title="Artigo sobre Practical Optional Types for Clojure"&gt;Practical Optional Types for Clojure&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 13</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2018/04/01/resumo-da-semana-13/?utm_source=all&amp;utm_medium=Atom" />
@@ -449,18 +485,4 @@
  &lt;li&gt;
   &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;
  &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://blog.racket-lang.org/2017/10/racket-v6-11.html" title="Racket v6.11 has been released!"&gt;Racket v6.11 has been released!&lt;/a&gt;: nova versão do &lt;em&gt;Racket&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
- <entry>
-  <title type="text">Resumo da Semana 43</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/10/27/resumo-da-semana-43/?utm_source=all&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2017-10-27-resumo-da-semana-43</id>
-  <published>2017-10-27T14:00:00Z</published>
-  <updated>2017-10-27T14:00:00Z</updated>
-  <author>
-   <name>Marcelo dos Santos</name></author>
-  <content type="html">
-&lt;p&gt;Segue o resumo da 43º semana do ano de 2017&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
+  &lt;p&gt;&lt;a href="https://blog.racket-lang.org/2017/10/racket-v6-11.html" title="Racket v6.11 has been released!"&gt;Racket v6.11 has been released!&lt;/a&gt;: nova versão do &lt;em&gt;Racket&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
