@@ -4,9 +4,39 @@
   <title>Página MDS: Posts tagged 'semana'</title>
   <description>Página MDS: Posts tagged 'semana'</description>
   <link>http://mdssjc.github.io/tags/semana.html</link>
-  <lastBuildDate>Sun, 08 Apr 2018 15:00:00 UT</lastBuildDate>
-  <pubDate>Sun, 08 Apr 2018 15:00:00 UT</pubDate>
+  <lastBuildDate>Sun, 15 Apr 2018 15:00:00 UT</lastBuildDate>
+  <pubDate>Sun, 15 Apr 2018 15:00:00 UT</pubDate>
   <ttl>1800</ttl>
+  <item>
+   <title>Resumo da Semana 15</title>
+   <link>http://mdssjc.github.io/blog/2018/04/15/resumo-da-semana-15/?utm_source=semana&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-04-15-resumo-da-semana-15</guid>
+   <pubDate>Sun, 15 Apr 2018 15:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;Segue o resumo da 15º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://medium.com/flutter-io/https-medium-com-flutter-io-announcing-flutters-beta-2-c85ba1557d5e" title="Post sobre Announcing Flutter beta 2"&gt;Announcing Flutter beta 2&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://lists.gnu.org/archive/html/emacs-devel/2018-04/msg00258.html" title="Post sobre emacs-announce: Emacs pretest 26.1 RC1 is out"&gt;emacs-announce: Emacs pretest 26.1 RC1 is out&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://akka.io/blog/news/2018/04/13/akka-2.5.12-released" title="Post sobre Akka 2.5.12 Released"&gt;Akka 2.5.12 Released&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2018/04/intellij-idea-2018-1-1-is-released" title="Post sobre IntelliJ IDEA 2018.1.1 is released!"&gt;IntelliJ IDEA 2018.1.1 is released!&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="artigos"&gt;Artigos&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://dzone.com/articles/j%CE%BBv%CE%BB-8-a-comprehensive-look" title="Artigo sobre JλVλ 8 (A Comprehensive Look)"&gt;JλVλ 8 (A Comprehensive Look)&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://dzone.com/articles/j%CE%BBv%CE%BB-8-a-comprehensive-look-part-11-lambdas-under" title="Artigo sobre JλVλ 8 (A Comprehensive Look): Part 1.1 - Lambdas Under the Hood"&gt;JλVλ 8 (A Comprehensive Look): Part 1.1 - Lambdas Under the Hood&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://dzone.com/articles/j%CE%BBv%CE%BB-8-a-comprehensive-look-part-12-insight-into-s" title="Artigo sobre JλVλ 8 (A Comprehensive Look): Part 1.2 - Insight Into Streams"&gt;JλVλ 8 (A Comprehensive Look): Part 1.2 - Insight Into Streams&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://irreal.org/blog/?p=7096" title="Post sobre Emacs 26.1 RC-1"&gt;Emacs 26.1 RC&amp;ndash;1&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>Resumo da Semana 14</title>
    <link>http://mdssjc.github.io/blog/2018/04/08/resumo-da-semana-14/?utm_source=semana&amp;utm_medium=RSS</link>
@@ -393,16 +423,4 @@
  &lt;li&gt;
   &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;
  &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://blog.racket-lang.org/2017/10/racket-v6-11.html" title="Racket v6.11 has been released!"&gt;Racket v6.11 has been released!&lt;/a&gt;: nova versão do &lt;em&gt;Racket&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
-  <item>
-   <title>Resumo da Semana 43</title>
-   <link>http://mdssjc.github.io/blog/2017/10/27/resumo-da-semana-43/?utm_source=semana&amp;utm_medium=RSS</link>
-   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2017-10-27-resumo-da-semana-43</guid>
-   <pubDate>Fri, 27 Oct 2017 14:00:00 UT</pubDate>
-   <author>Marcelo dos Santos</author>
-   <description>
-&lt;p&gt;Segue o resumo da 43º semana do ano de 2017&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
+  &lt;p&gt;&lt;a href="https://blog.racket-lang.org/2017/10/racket-v6-11.html" title="Racket v6.11 has been released!"&gt;Racket v6.11 has been released!&lt;/a&gt;: nova versão do &lt;em&gt;Racket&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
