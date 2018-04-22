@@ -4,7 +4,40 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/all.atom.xml" />
  <link href="http://mdssjc.github.io/index.html" />
  <id>urn:http-mdssjc-github-io:-index-html</id>
- <updated>2018-04-15T15:00:00Z</updated>
+ <updated>2018-04-22T15:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 16</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/04/22/resumo-da-semana-16/?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2018-04-22-resumo-da-semana-16</id>
+  <published>2018-04-22T15:00:00Z</published>
+  <updated>2018-04-22T15:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 16º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://www.nativescript.org/blog/nativescript-4.0-is-out" title="Post sobre NativeScript 4.0 Is Out!"&gt;NativeScript 4.0 Is Out!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://docs.gradle.org/4.7/release-notes.html" title="Post sobre Gradle 4.7"&gt;Gradle 4.7&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.atom.io/2018/04/18/atom-1-26.html" title="Post sobre Atom 1.26 e Atom 1.27 Beta"&gt;Atom 1.26 e Atom 1.27 Beta&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://ghc.haskell.org/trac/ghc/blog/ghc-8.4.2-released" title="Post sobre GHC 8.4.2 released"&gt;GHC 8.4.2 released&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/kotlin/2018/04/kotlin-1-2-40-is-out" title="Post sobre Kotlin 1.2.40 is out!"&gt;Kotlin 1.2.40 is out!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.infoq.com/news/2018/04/proposed-schedule-for-jdk-11" title="Post sobre Proposed Schedule for JDK 11"&gt;Proposed Schedule for JDK 11&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blogs.oracle.com/developers/announcing-graalvm" title="Post sobre Announcing GraalVM: Run Programs Faster Anywhere"&gt;Announcing GraalVM: Run Programs Faster Anywhere&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="artigos"&gt;Artigos&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://dzone.com/articles/nine-steps-of-learning-by-refactoring" title="Artigo sobre Nine Steps of Learning by Refactoring"&gt;Nine Steps of Learning by Refactoring&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.rubberducking.com/2018/04/overview-of-clojurescript-110-features.html" title="Artigo sobre Overview of ClojureScript Features"&gt;Overview of ClojureScript Features&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 15</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2018/04/15/resumo-da-semana-15/?utm_source=all&amp;utm_medium=Atom" />
@@ -486,18 +519,4 @@
  &lt;li&gt;
   &lt;p&gt;&lt;a href="https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice" title="10 Papers Every Developer Should Read"&gt;10 Papers Every Developer Should Read&lt;/a&gt;: os 10 artigos que todo desenvolvedor deveria ler por Michael Feathers.&lt;/p&gt;&lt;/li&gt;
  &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
- <entry>
-  <title type="text">Resumo da Semana 45</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/11/10/resumo-da-semana-45/?utm_source=all&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2017-11-10-resumo-da-semana-45</id>
-  <published>2017-11-10T14:00:00Z</published>
-  <updated>2017-11-10T14:00:00Z</updated>
-  <author>
-   <name>Marcelo dos Santos</name></author>
-  <content type="html">
-&lt;p&gt;Segue o resumo da 45º semana do ano de 2017&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
+  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
