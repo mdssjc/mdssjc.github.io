@@ -4,7 +4,46 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/resumo.atom.xml" />
  <link href="http://mdssjc.github.io/tags/resumo.html" />
  <id>urn:http-mdssjc-github-io:-tags-resumo-html</id>
- <updated>2018-04-22T15:00:00Z</updated>
+ <updated>2018-04-29T15:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 17</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/04/29/resumo-da-semana-17/?utm_source=resumo&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2018-04-29-resumo-da-semana-17</id>
+  <published>2018-04-29T15:00:00Z</published>
+  <updated>2018-04-29T15:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 17º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://groups.google.com/forum/?hl=pt-BR#!topic/flutter-dev/dZTYxYBFHdM" title="Post sobre Flutter: Beta 2 update (v0.3.1)"&gt;Flutter: Beta 2 update (v0.3.1)&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/04/24/this-week-in-rust-231" title="Post sobre This Week in Rust 231"&gt;This Week in Rust 231&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://groups.google.com/forum/#!topic/flutter-dev/bFcjcYfBwEY" title="Post sobre VS Code - Dart Code v2.12 Release Notes"&gt;VS Code - Dart Code v2.12 Release Notes&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/104.html" title="Post sobre Issue 104 :: Haskell Weekly"&gt;Issue 104 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://increment.com/programming-languages" title="Post sobre Increment - Issue 5"&gt;Increment - Issue 5&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://nodejs.org/en/blog/release/v10.0.0" title="Post sobre Node v10.0.0"&gt;Node v10.0.0&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.scala-lang.org/news/2.12.6" title="Post sobre Scala 2.12.6 is now available!"&gt;Scala 2.12.6 is now available!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/kotlin/2018/04/kotlinnative-v0-7-released-smoother-interop-frozen-objects-optimisations-and-more" title="Post sobre Kotlin/Native"&gt;Kotlin/Native v0.7 released: smoother interop, frozen objects, optimisations and more&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="artigos"&gt;Artigos&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://groups.google.com/forum/#!topic/flutter-dev/N6nOno1m3Mk" title="Artigo sobre New Flutter tooling releases -- Inspector: “Just my Widgets”"&gt;New Flutter tooling releases &amp;mdash; Inspector: “Just my Widgets”&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.innoq.com/en/blog/native-clojure-and-graalvm" title="Artigo sobre Native Clojure with GraalVM"&gt;Native Clojure with GraalVM&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://kotlinexpertise.com/kotlin-coroutines-guide" title="Artigo sobre Kotlin Coroutines Guide"&gt;Kotlin Coroutines Guide&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514" title="Artigo sobre What’s Revolutionary about Flutter"&gt;What’s Revolutionary about Flutter&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.rust-lang.org/pdfs/Rust-Chucklefish-Whitepaper.pdf" title="Artigo sobre Rust Case Study: Chucklefish Taps Rust to Bring Safe Concurrency to Video Games"&gt;Rust Case Study: Chucklefish Taps Rust to Bring Safe Concurrency to Video Games&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://kadekillary.work/post/cli-4-ds" title="Artigo sobre Command Line Tricks For Data Scientists"&gt;Command Line Tricks For Data Scientists&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://orgmode.org/Changes.html" title="Post sobre 9.1.12"&gt;9.1.12 is out&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 16</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2018/04/22/resumo-da-semana-16/?utm_source=resumo&amp;utm_medium=Atom" />
@@ -463,18 +502,4 @@
  &lt;li&gt;
   &lt;p&gt;&lt;a href="https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice" title="10 Papers Every Developer Should Read"&gt;10 Papers Every Developer Should Read&lt;/a&gt;: os 10 artigos que todo desenvolvedor deveria ler por Michael Feathers.&lt;/p&gt;&lt;/li&gt;
  &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
- <entry>
-  <title type="text">Resumo da Semana 45</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2017/11/10/resumo-da-semana-45/?utm_source=resumo&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2017-11-10-resumo-da-semana-45</id>
-  <published>2017-11-10T14:00:00Z</published>
-  <updated>2017-11-10T14:00:00Z</updated>
-  <author>
-   <name>Marcelo dos Santos</name></author>
-  <content type="html">
-&lt;p&gt;Segue o resumo da 45º semana do ano de 2017&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
+  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
