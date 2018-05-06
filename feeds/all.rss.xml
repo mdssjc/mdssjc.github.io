@@ -4,9 +4,44 @@
   <title>Página MDS: Página MDS</title>
   <description>Página MDS: Página MDS</description>
   <link>http://mdssjc.github.io/index.html</link>
-  <lastBuildDate>Sun, 29 Apr 2018 15:00:00 UT</lastBuildDate>
-  <pubDate>Sun, 29 Apr 2018 15:00:00 UT</pubDate>
+  <lastBuildDate>Sun, 06 May 2018 15:00:00 UT</lastBuildDate>
+  <pubDate>Sun, 06 May 2018 15:00:00 UT</pubDate>
   <ttl>1800</ttl>
+  <item>
+   <title>Resumo da Semana 18</title>
+   <link>http://mdssjc.github.io/blog/2018/05/06/resumo-da-semana-18/?utm_source=all&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-05-06-resumo-da-semana-18</guid>
+   <pubDate>Sun, 06 May 2018 15:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;Segue o resumo da 18º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://blog.quicklisp.org/2018/04/quicklisp-dist-update-for-april-2018.html" title="Post sobre Quicklisp news"&gt;Quicklisp news&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://keyholesoftware.com/2018/04/30/whats-new-in-junit-5-2" title="Post sobre What’s New in JUnit 5.2"&gt;What’s New in JUnit 5.2&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.eta-lang.org/https-blog-eta-lang-org-announcing-eta-v0-7-2-c1f60e0ab068" title="Post sobre Announcing Eta v0.7.2"&gt;Announcing Eta v0.7.2&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://github.com/rust-lang/regex/releases/tag/1.0.0" title="Post sobre Regex 1.0 Release (Rust)"&gt;Regex 1.0 Release (Rust)&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://sbcl.org/all-news.html?1.4.7" title="Post sobre SBCL 1.4.7 Released"&gt;SBCL 1.4.7 Released&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://gcc.gnu.org/ml/gcc/2018-05/msg00017.html" title="Post sobre GCC 8.1 Released"&gt;GCC 8.1 Released&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/05/01/this-week-in-rust-232" title="Post sobre This Week in Rust 232"&gt;This Week in Rust 232&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/105.html" title="Post sobre Issue 105 :: Haskell Weekly"&gt;Issue 105 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://code.visualstudio.com/updates/v1_23" title="Post sobre Visual Studio Code - Version 1.23"&gt;Visual Studio Code - Version 1.23&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://github.com/wildfly-swarm/wildfly-swarm.io/blob/master/src/posts/announce-2018.5.0.adoc" title="Post sobre WildFly Swarm 2018.5.0"&gt;WildFly Swarm 2018.5.0&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4" title="Post sobre Version 6 of Angular Now Available"&gt;Version 6 of Angular Now Available&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="notícias"&gt;Notícias&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://itch.io/jam/lisp-game-jam-2018/results" title="Artigo sobre Lisp Game Jam 2018 Results"&gt;Lisp Game Jam 2018 Results&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://lists.gnu.org/archive/html/emms-help/2018-05/msg00000.html" title="Post sobre Emms 5.0 released"&gt;Emms 5.0 released&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>Resumo da Semana 17</title>
    <link>http://mdssjc.github.io/blog/2018/04/29/resumo-da-semana-17/?utm_source=all&amp;utm_medium=RSS</link>
@@ -484,18 +519,6 @@
    <author>Marcelo dos Santos</author>
    <description>
 &lt;p&gt;Segue o resumo da 48º semana do ano de 2017&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</description></item>
-  <item>
-   <title>Resumo da Semana 47</title>
-   <link>http://mdssjc.github.io/blog/2017/11/24/resumo-da-semana-47/?utm_source=all&amp;utm_medium=RSS</link>
-   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2017-11-24-resumo-da-semana-47</guid>
-   <pubDate>Fri, 24 Nov 2017 14:00:00 UT</pubDate>
-   <author>Marcelo dos Santos</author>
-   <description>
-&lt;p&gt;Segue o resumo da 47º semana do ano de 2017&amp;hellip;&lt;/p&gt;
 &lt;!-- more--&gt;
 
 &lt;ul&gt;
