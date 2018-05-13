@@ -1,6 +1,6 @@
     Title: Resumo da Semana 19
     Date: 2018-05-13T12:00:00
-    Tags: resumo, semanal
+    Tags: resumo, semana
 
 Segue o resumo da 19º semana do ano de 2018...
 
