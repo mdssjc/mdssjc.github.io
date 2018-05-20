@@ -30,6 +30,7 @@ http://mdssjc.github.io/blog/2017/10/13/resumo-da-semana-41/
 http://mdssjc.github.io/blog/2017/05/04/emacs/
 http://mdssjc.github.io/blog/2017/09/08/resumo-da-semana-36/
 http://mdssjc.github.io/blog/2017/08/18/resumo-da-semana-33/
+http://mdssjc.github.io/blog/2018/05/20/resumo-da-semana-20/
 http://mdssjc.github.io/blog/2018/02/18/resumo-da-semana-7/
 http://mdssjc.github.io/blog/2017/08/22/curso-de-jvm/
 http://mdssjc.github.io/blog/2017/09/22/resumo-da-semana-38/

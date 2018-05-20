@@ -4,9 +4,40 @@
   <title>Página MDS: Posts tagged 'resumo'</title>
   <description>Página MDS: Posts tagged 'resumo'</description>
   <link>http://mdssjc.github.io/tags/resumo.html</link>
-  <lastBuildDate>Sun, 13 May 2018 15:00:00 UT</lastBuildDate>
-  <pubDate>Sun, 13 May 2018 15:00:00 UT</pubDate>
+  <lastBuildDate>Sun, 20 May 2018 15:00:00 UT</lastBuildDate>
+  <pubDate>Sun, 20 May 2018 15:00:00 UT</pubDate>
   <ttl>1800</ttl>
+  <item>
+   <title>Resumo da Semana 20</title>
+   <link>http://mdssjc.github.io/blog/2018/05/20/resumo-da-semana-20/?utm_source=resumo&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-05-20-resumo-da-semana-20</guid>
+   <pubDate>Sun, 20 May 2018 15:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;Segue o resumo da 20º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://www.thoughtworks.com/radar" title="Post sobre Technology Radar Vol.18"&gt;Technology Radar Vol.18&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.atom.io/2018/05/15/atom-1-27.html" title="Post sobre Atom 1.27 e Atom 1.28 Beta"&gt;Atom 1.27 e Atom 1.28 Beta&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/05/15/this-week-in-rust-234" title="Post sobre This Week in Rust 234"&gt;This Week in Rust 234&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://www.javamagazine.mozaicreader.com/MayJune2018" title="Post sobre Java Magazine - May/June 2018"&gt;Java Magazine - May/June 2018&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/107.html" title="Post sobre Issue 107 :: Haskell Weekly"&gt;Issue 107 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.vim.org/vim-8.1-released.php" title="Post sobre Vim 8.1 is available!"&gt;Vim 8.1 is available!&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="artigos"&gt;Artigos&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://www.metosin.fi/blog/spec-transformers" title="Artigo sobre Spec Transformers"&gt;Spec Transformers&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://stroustrup.com/whatis.pdf" title="Artigo sobre What is &amp;quot;Object-Oriented Programming&amp;quot;?"&gt;What is &amp;ldquo;Object-Oriented Programming&amp;rdquo;?&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://royvanrijn.com/blog/2018/05/openj9-jvm-shootout" title="Artigo sobre OpenJ9 versus HotSpot"&gt;OpenJ9 versus HotSpot&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>Resumo da Semana 19</title>
    <link>http://mdssjc.github.io/blog/2018/05/13/resumo-da-semana-19/?utm_source=resumo&amp;utm_medium=RSS</link>
@@ -496,16 +527,4 @@
  &lt;li&gt;
   &lt;p&gt;&lt;a href="https://github.com/emacs-tw/awesome-emacs" title="Listagem do Emacs"&gt;Listagem do Emacs&lt;/a&gt;: coleção de &lt;em&gt;links&lt;/em&gt; da comunidade &lt;em&gt;Emacs&lt;/em&gt; com diversos pacotes, bibliotecas, &lt;em&gt;starter kit&lt;/em&gt;, dentre outros&amp;hellip;&lt;/p&gt;&lt;/li&gt;
  &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
-  <item>
-   <title>Resumo da Semana 48</title>
-   <link>http://mdssjc.github.io/blog/2017/11/30/resumo-da-semana-48/?utm_source=resumo&amp;utm_medium=RSS</link>
-   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2017-11-30-resumo-da-semana-48</guid>
-   <pubDate>Thu, 30 Nov 2017 14:00:00 UT</pubDate>
-   <author>Marcelo dos Santos</author>
-   <description>
-&lt;p&gt;Segue o resumo da 48º semana do ano de 2017&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
+  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
