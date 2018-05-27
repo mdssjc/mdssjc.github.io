@@ -4,9 +4,43 @@
   <title>Página MDS: Posts tagged 'resumo'</title>
   <description>Página MDS: Posts tagged 'resumo'</description>
   <link>http://mdssjc.github.io/tags/resumo.html</link>
-  <lastBuildDate>Sun, 20 May 2018 15:00:00 UT</lastBuildDate>
-  <pubDate>Sun, 20 May 2018 15:00:00 UT</pubDate>
+  <lastBuildDate>Sun, 27 May 2018 15:00:00 UT</lastBuildDate>
+  <pubDate>Sun, 27 May 2018 15:00:00 UT</pubDate>
   <ttl>1800</ttl>
+  <item>
+   <title>Resumo da Semana 21</title>
+   <link>http://mdssjc.github.io/blog/2018/05/27/resumo-da-semana-21/?utm_source=resumo&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-05-27-resumo-da-semana-21</guid>
+   <pubDate>Sun, 27 May 2018 15:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;Segue o resumo da 21º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://guillaumegomez.github.io/this-week-in-rust-docs/blog/this-week-in-rust-docs-106" title="Post sobre This Week in Rust Docs 106"&gt;This Week in Rust Docs 106&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://medium.com/oracledevs/eclipse-collections-9-2-released-aa88b56ecacc" title="Post sobre Eclipse Collections 9.2 Released"&gt;Eclipse Collections 9.2 Released&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://blog.qt.io/blog/2018/05/22/qt-5-11-released" title="Post sobre Qt 5.11 released"&gt;Qt 5.11 released&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/05/22/this-week-in-rust-235" title="Post sobre This Week in Rust 235"&gt;This Week in Rust 235&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://groups.google.com/forum/?hl=pt-BR#!topic/flutter-dev/wQ4Q6qajmt0" title="Post sobre Flutter - Beta Update (v0.4.4)"&gt;Flutter - Beta Update (v0.4.4)&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/108.html" title="Post sobre Issue 108 :: Haskell Weekly"&gt;Issue 108 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://groups.google.com/forum/?hl=pt-BR#!topic/racket-users/i3MR4R1VFB0" title="Post sobre Racket - Plan for the upcoming v7.0 release"&gt;Racket - Plan for the upcoming v7.0 release&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://internals.rust-lang.org/t/rust-1-26-1-prerelease-testing/7646" title="Post sobre Rust 1.26.1 prerelease testing"&gt;Rust 1.26.1 prerelease testing&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="artigos"&gt;Artigos&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://www.case-podcast.org/20-problem-solving-and-clojure-19-with-rich-hickey/transcript" title="Artigo sobre Problem Solving and Clojure 1.9 with Rich Hickey - CaSE"&gt;Problem Solving and Clojure 1.9 with Rich Hickey - CaSE&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://allegro.tech/2018/05/From-Java-to-Kotlin-and-Back-Again.html" title="Artigo sobre From Java to Kotlin and Back Again"&gt;From Java to Kotlin and Back Again&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.quora.com/Why-are-monoids-useful-for-programming/answer/Bartosz-Milewski?share=4665bc18" title="Artigo sobre Why are monoids useful for programming?"&gt;Why are monoids useful for programming?&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da" title="Artigo sobre Test Doubles - Fakes, Mocks and Stubs"&gt;Test Doubles - Fakes, Mocks and Stubs&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>Resumo da Semana 20</title>
    <link>http://mdssjc.github.io/blog/2018/05/20/resumo-da-semana-20/?utm_source=resumo&amp;utm_medium=RSS</link>
@@ -507,24 +541,5 @@
   &lt;p&gt;&lt;a href="https://github.com/hlissner/doom-emacs" title="Github do Doom Emacs"&gt;Uso do Doom Emacs&lt;/a&gt;: repositório do &lt;em&gt;Doom Emacs&lt;/em&gt;, o &lt;em&gt;MDS Emacs&lt;/em&gt; será um módulo &lt;em&gt;private&lt;/em&gt; no mesmo.&lt;/p&gt;&lt;/li&gt;
  &lt;li&gt;
   &lt;p&gt;&lt;a href="http://tuhdo.github.io" title="Tutorial de Emacs"&gt;Tutorial de Emacs&lt;/a&gt;: mini manual de &lt;em&gt;Emacs&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
-  <item>
-   <title>Resumo da Semana 1</title>
-   <link>http://mdssjc.github.io/blog/2018/01/07/resumo-da-semana-1/?utm_source=resumo&amp;utm_medium=RSS</link>
-   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-01-07-resumo-da-semana-1</guid>
-   <pubDate>Sun, 07 Jan 2018 14:00:00 UT</pubDate>
-   <author>Marcelo dos Santos</author>
-   <description>
-&lt;p&gt;Segue o resumo da 1º semana do ano de 2018&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;ul&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://github.com/hlissner/doom-emacs/issues/310" title="Why is doom emacs so fast?"&gt;Why is doom emacs so fast?&lt;/a&gt;: em uma discussão no repositório &lt;a href="https://github.com/hlissner/doom-emacs/issues/310" title="repositório doom-emacs"&gt;doom-emacs&lt;/a&gt; foi apresentada diversas técnicas para a otimização no tempo de inicialização do &lt;em&gt;Emacs&lt;/em&gt;, as informações completas estão em seu &lt;a href="https://github.com/hlissner/doom-emacs/wiki/FAQ#how-is-dooms-startup-so-fast" title="FAQ"&gt;FAQ&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://blog.racket-lang.org/2018/01/racket-on-chez-status.html" title="Nova postagem do blog Racket"&gt;Racket-on-Chez Status: January 2018&lt;/a&gt;: nova postagem do &lt;em&gt;blog&lt;/em&gt; &lt;em&gt;Racket&lt;/em&gt;, comentando o projeto e os &lt;em&gt;benchmarks&lt;/em&gt; da utilização da plataforma &lt;em&gt;Chez&lt;/em&gt; no &lt;em&gt;Racket&lt;/em&gt; - uma versão extendida da postagem em &lt;a href="http://www.cs.utah.edu/~mflatt/racket-on-chez-jan-2018" title="Racket-on-Chez Status: January 2018 [extended version]"&gt;Racket-on-Chez Status: January 2018 - extended version&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://github.com/emacs-tw/awesome-emacs" title="Listagem do Emacs"&gt;Listagem do Emacs&lt;/a&gt;: coleção de &lt;em&gt;links&lt;/em&gt; da comunidade &lt;em&gt;Emacs&lt;/em&gt; com diversos pacotes, bibliotecas, &lt;em&gt;starter kit&lt;/em&gt;, dentre outros&amp;hellip;&lt;/p&gt;&lt;/li&gt;
  &lt;li&gt;
   &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
