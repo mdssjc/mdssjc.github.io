@@ -4,9 +4,62 @@
   <title>Página MDS: Página MDS</title>
   <description>Página MDS: Página MDS</description>
   <link>http://mdssjc.github.io/index.html</link>
-  <lastBuildDate>Sun, 27 May 2018 15:00:00 UT</lastBuildDate>
-  <pubDate>Sun, 27 May 2018 15:00:00 UT</pubDate>
+  <lastBuildDate>Sun, 03 Jun 2018 15:00:00 UT</lastBuildDate>
+  <pubDate>Sun, 03 Jun 2018 15:00:00 UT</pubDate>
   <ttl>1800</ttl>
+  <item>
+   <title>Resumo da Semana 22</title>
+   <link>http://mdssjc.github.io/blog/2018/06/03/resumo-da-semana-22/?utm_source=all&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-06-03-resumo-da-semana-22</guid>
+   <pubDate>Sun, 03 Jun 2018 15:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;Segue o resumo da 22º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://www.gnu.org/software/emacs" title="Post sobre Emacs 26.1 - latest release"&gt;Emacs 26.1 - latest release&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://sbcl.org/all-news.html?1.4.8#1.4.8" title="Post sobre Common Lisp - New in version 1.4.8"&gt;Common Lisp - New in version 1.4.8&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.rust-lang.org/2018/05/29/Rust-1.26.1.html" title="Post sobre Announcing Rust 1.26.1"&gt;Announcing Rust 1.26.1&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://mailchi.mp/6bf61cae4a70/flutter-weekly-275093" title="Post sobre Flutter Weekly #21"&gt;Flutter Weekly #21&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://github.com/clojure/clojure-clr/releases/tag/clojure-1.9.0" title="Post sobre Clojure-CLR"&gt;Clojure-CLR 1.9.0&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blogs.apache.org/netbeans/entry/announce-apache-netbeans-incubating-91" title="Post sobre [ANNOUNCE] Apache NetBeans (incubating) 9.0 RC1 released"&gt;ANNOUNCE - Apache NetBeans (incubating) 9.0 RC1 released&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/05/29/this-week-in-rust-236" title="Post sobre This Week in Rust 236"&gt;This Week in Rust 236&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blogs.msdn.microsoft.com/webdev/2018/05/30/asp-net-core-2-1-0-now-available" title="Post sobre ASP.NET"&gt;ASP.NET Core 2.1.0 now available&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blogs.msdn.microsoft.com/dotnet/2018/05/30/announcing-net-core-2-1" title="Post sobre Announcing .NET Core 2.1"&gt;Announcing .NET Core 2.1&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://groups.google.com/forum/#!topic/redis-db/9FcwPtutyyQ" title="Post sobre [RELEASE] Redis 5.0 RC1 is out!"&gt;RELEASE - Redis 5.0 RC1 is out!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://blog.fuseyism.com/index.php/2018/05/30/security-icedtea-2-6-14-for-openjdk-7-released" title="Post sobre [SECURITY] IcedTea 2.6.14 for OpenJDK 7 Released!"&gt;SECURITY - IcedTea 2.6.14 for OpenJDK 7 Released!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://groovy-lang.org/releasenotes/groovy-2.5.html" title="Post sobre Release notes for Groovy 2.5"&gt;Release notes for Groovy 2.5&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://flutterstudio.app" title="Post sobre Flutter Studio, Version 2"&gt;Flutter Studio, Version 2&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://ghc.haskell.org/trac/ghc/blog/ghc-8.4.3-released" title="Post sobre GHC 8.4.3 released"&gt;GHC 8.4.3 released&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://github.com/gradle/gradle/releases/tag/v4.8.0-RC3" title="Post sobre Gradle 4.8 RC3"&gt;Gradle 4.8 RC3&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://projectlombok.org/changelog" title="Post sobre Lombok v1.16.22 &amp;quot;Envious Ferret&amp;quot;"&gt;Lombok v1.16.22 &amp;ldquo;Envious Ferret&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://griffon-framework.org/news/griffon_2.15.0.html" title="Post sobre Griffon 2.15.0 Released"&gt;Griffon 2.15.0 Released&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blogs.msdn.microsoft.com/typescript/2018/05/31/announcing-typescript-2-9" title="Post sobre Announcing TypeScript 2.9"&gt;Announcing TypeScript 2.9&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://groups.google.com/forum/?hl=pt-BR#!topic/flutter-dev/FTUXoZ7rSHc" title="Post sobre New Flutter tooling release - Updates on Android Studio and IntelliJ plugins"&gt;New Flutter tooling release - Updates on Android Studio and IntelliJ plugins&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://internals.rust-lang.org/t/rust-1-26-2-prelease-testing/7677" title="Post sobre Rust 1.26.2 prelease testing"&gt;Rust 1.26.2 prelease testing&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://guillaumegomez.github.io/this-week-in-rust-docs/blog/this-week-in-rust-docs-107" title="Post sobre This Week in Rust Docs 107"&gt;This Week in Rust Docs 107&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://dartcode.org/releases/v2-13" title="Post sobre Dart Code v2.13.0"&gt;Dart Code v2.13.0&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/109.html" title="Post sobre Issue 109 :: Haskell Weekly"&gt;Issue 109 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="artigos"&gt;Artigos&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf" title="Artigo sobre [A Tutorial Introduction to the Lambda Calculus]"&gt;A Tutorial Introduction to the Lambda Calculus&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://nullprogram.com/blog/2018/05/31" title="Artigo sobre Emacs 26 Brings Generators and Threads"&gt;Emacs 26 Brings Generators and Threads&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://nullprogram.com/blog/2018/05/27" title="Artigo sobre When FFI Function Calls Beat Native C"&gt;When FFI Function Calls Beat Native C&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://codurance.com/2017/11/09/lambda-calculus-for-mortal-developers" title="Artigo sobre Lambda Calculus for mortal developers"&gt;Lambda Calculus for mortal developers&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://functional.works-hub.com/learn/lmbda-calculus-in-clojure-part-1-4cb7b" title="Artigo sobre Lambda Calculus In Clojure - Part 1"&gt;Lambda Calculus In Clojure - Part 1&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://functional.works-hub.com/learn/lambda-calculus-in-clojure-part-2-09259" title="Artigo sobre Lambda Calculus In Clojure - Part 2"&gt;Lambda Calculus In Clojure - Part 2&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://functional.works-hub.com/learn/the-science-behind-functional-programming-3b060" title="Artigo sobre The Science Behind Functional Programming"&gt;The Science Behind Functional Programming&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://github.com/m-parashar/emax64/releases/tag/20180529" title="Post sobre Emax64 20180529"&gt;Emax64 20180529&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>Resumo da Semana 21</title>
    <link>http://mdssjc.github.io/blog/2018/05/27/resumo-da-semana-21/?utm_source=all&amp;utm_medium=RSS</link>
@@ -389,6 +442,25 @@
 &lt;ul&gt;
  &lt;li&gt;&lt;a href="https://hipsters.tech/spring-framework-hipsters-87" title="Post do podcast 87 de Spring Framework"&gt;Spring Framework - Hipsters #87&lt;/a&gt;: uma conversa entre desenvolvedores sobre o &lt;em&gt;Spring Framework&lt;/em&gt;, abordando do passado ao presente.&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
+   <title>Resumo da Semana 10</title>
+   <link>http://mdssjc.github.io/blog/2018/03/11/resumo-da-semana-10/?utm_source=all&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-03-11-resumo-da-semana-10</guid>
+   <pubDate>Sun, 11 Mar 2018 15:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;Segue o resumo da 10º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://maven.apache.org/docs/history.html" title="Post sobre o histórico do Maven"&gt;Maven 3.5.3&lt;/a&gt;: lançamento da versão 3.5.3 do gerenciador de &lt;em&gt;build&lt;/em&gt; &lt;em&gt;Maven&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</description></item>
+  <item>
    <title>Cursos da Oracle MOOC</title>
    <link>http://mdssjc.github.io/blog/2018/03/11/cursos-da-oracle-mooc/?utm_source=all&amp;utm_medium=RSS</link>
    <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-03-11-cursos-da-oracle-mooc</guid>
@@ -442,25 +514,6 @@
 &lt;ul&gt;
  &lt;li&gt;&lt;strong&gt;JVM Crashes&lt;/strong&gt; (sem data definida)&lt;/li&gt;
  &lt;li&gt;&lt;strong&gt;DevOps for Node.JS Microservices&lt;/strong&gt; (sem data definida)&lt;/li&gt;&lt;/ul&gt;</description></item>
-  <item>
-   <title>Resumo da Semana 10</title>
-   <link>http://mdssjc.github.io/blog/2018/03/11/resumo-da-semana-10/?utm_source=all&amp;utm_medium=RSS</link>
-   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-03-11-resumo-da-semana-10</guid>
-   <pubDate>Sun, 11 Mar 2018 15:00:00 UT</pubDate>
-   <author>Marcelo dos Santos</author>
-   <description>
-&lt;p&gt;Segue o resumo da 10º semana do ano de 2018&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://maven.apache.org/docs/history.html" title="Post sobre o histórico do Maven"&gt;Maven 3.5.3&lt;/a&gt;: lançamento da versão 3.5.3 do gerenciador de &lt;em&gt;build&lt;/em&gt; &lt;em&gt;Maven&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>Resumo da Semana 9</title>
    <link>http://mdssjc.github.io/blog/2018/03/04/resumo-da-semana-9/?utm_source=all&amp;utm_medium=RSS</link>
@@ -562,21 +615,4 @@
  &lt;li&gt;
   &lt;p&gt;&lt;a href="http://bobkonf.de/2018/en" title="Página do fórum BOB 2018"&gt;Fórum BOB 2018&lt;/a&gt;: evento com diversas palestras sobre tecnologias além do &lt;em&gt;mainstream&lt;/em&gt;. No aguardo sobre alguma confirmação de transmissão ao vivo. Na própria página possui &lt;em&gt;links&lt;/em&gt; das edições passadas com &lt;em&gt;slides&lt;/em&gt; e vídeos.&lt;/p&gt;&lt;/li&gt;
  &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
-  <item>
-   <title>Resumo da Semana 3</title>
-   <link>http://mdssjc.github.io/blog/2018/01/21/resumo-da-semana-3/?utm_source=all&amp;utm_medium=RSS</link>
-   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-01-21-resumo-da-semana-3</guid>
-   <pubDate>Sun, 21 Jan 2018 14:00:00 UT</pubDate>
-   <author>Marcelo dos Santos</author>
-   <description>
-&lt;p&gt;Segue o resumo da 3º semana do ano de 2018&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;ul&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://www.tiobe.com/tiobe-index" title="Página do Tiobe"&gt;Vencedor de 2017 do Tiobe&lt;/a&gt;: a linguagem do ano de 2017 foi a &lt;strong&gt;C&lt;/strong&gt; com um crescimento de 1.69% - a base de cálculo deve-se a procura da mesma durante todo ano, em 2008 a linguagem também entrou para o &lt;em&gt;Hall&lt;/em&gt; da Fama.&lt;/p&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://www.htdp.org" title="Livro HtDP/2e"&gt;Finalizado o livro HtDP/2e&lt;/a&gt;: lançamento da segunda versão do livro &lt;em&gt;How to Design Programs - An Introduction to Programming and Computing&lt;/em&gt; dos autores &lt;em&gt;Matthias Felleisen&lt;/em&gt;, &lt;em&gt;Robert Bruce Findler&lt;/em&gt;, &lt;em&gt;Matthew Flatt&lt;/em&gt; e &lt;em&gt;Shriram Krishnamurthi&lt;/em&gt;. Ainda na página de &lt;em&gt;Felleisen&lt;/em&gt;, consta um &lt;a href="http://felleisen.org/matthias" title="Página de Matthias Felleisen"&gt;link&lt;/a&gt; para a descrição de HtDP3e.&lt;/p&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
+  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
