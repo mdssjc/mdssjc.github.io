@@ -4,7 +4,45 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/resumo.atom.xml" />
  <link href="http://mdssjc.github.io/tags/resumo.html" />
  <id>urn:http-mdssjc-github-io:-tags-resumo-html</id>
- <updated>2018-06-03T15:00:00Z</updated>
+ <updated>2018-06-10T15:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 23</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/06/10/resumo-da-semana-23/?utm_source=resumo&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2018-06-10-resumo-da-semana-23</id>
+  <published>2018-06-10T15:00:00Z</published>
+  <updated>2018-06-10T15:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 23º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://mailchi.mp/bd20b044cc4c/flutter-weekly-282709?e=4e6d2a4afc" title="Post sobre Flutter Weekly #22"&gt;Flutter Weekly #22&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://webassembly.studio" title="Post sobre WebAssembly Studio"&gt;WebAssembly Studio&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.github.com/2018-06-04-github-microsoft" title="Post sobre A bright future for GitHub"&gt;A bright future for GitHub&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://docs.gradle.org/4.8/release-notes.html" title="Post sobre Gradle 4.8 Release Notes"&gt;Gradle 4.8 Release Notes&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://rustwasm.github.io/2018/06/04/this-week-in-rust-wasm-003.html" title="Post sobre This Week in Rust and WebAssembly 003"&gt;This Week in Rust and WebAssembly 003&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.eta-lang.org/eta-v0-8-repl-and-metaprogramming-12e900ccfe25" title="Post sobre Eta v0.8 - REPL and Metaprogramming"&gt;Eta v0.8 - REPL and Metaprogramming&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/06/05/this-week-in-rust-237" title="Post sobre This Week in Rust 237"&gt;This Week in Rust 237&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.rust-lang.org/2018/06/05/Rust-1.26.2.html" title="Post sobre Announcing Rust 1.26.2"&gt;Announcing Rust 1.26.2&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://code.visualstudio.com/updates/v1_24" title="Post sobre Visual Studio Code - version 1.24"&gt;Visual Studio Code - version 1.24&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://gluonhq.com/new-scene-builder-release-for-java-10" title="Post sobre New Scene Builder Release for Java 10"&gt;New Scene Builder Release for Java 10&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/110.html" title="Post sobre Issue 110 :: Haskell Weekly"&gt;Issue 110 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://projectlombok.org/changelog" title="Post sobre Lombok v1.18.0"&gt;Lombok v1.18.0&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="artigos"&gt;Artigos&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://www.techempower.com/benchmarks/#section=data-r16" title="Artigo sobre Web Framework Benchmarks - Round 16"&gt;Web Framework Benchmarks - Round 16&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.jetbrains.com/research/devecosystem-2018" title="Artigo sobre The State of Developer Ecosystem in 2018"&gt;The State of Developer Ecosystem in 2018&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 22</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2018/06/03/resumo-da-semana-22/?utm_source=resumo&amp;utm_medium=Atom" />
@@ -597,23 +635,4 @@
  &lt;li&gt;
   &lt;p&gt;&lt;a href="http://bobkonf.de/2018/en" title="Página do fórum BOB 2018"&gt;Fórum BOB 2018&lt;/a&gt;: evento com diversas palestras sobre tecnologias além do &lt;em&gt;mainstream&lt;/em&gt;. No aguardo sobre alguma confirmação de transmissão ao vivo. Na própria página possui &lt;em&gt;links&lt;/em&gt; das edições passadas com &lt;em&gt;slides&lt;/em&gt; e vídeos.&lt;/p&gt;&lt;/li&gt;
  &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
- <entry>
-  <title type="text">Resumo da Semana 3</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/01/21/resumo-da-semana-3/?utm_source=resumo&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2018-01-21-resumo-da-semana-3</id>
-  <published>2018-01-21T14:00:00Z</published>
-  <updated>2018-01-21T14:00:00Z</updated>
-  <author>
-   <name>Marcelo dos Santos</name></author>
-  <content type="html">
-&lt;p&gt;Segue o resumo da 3º semana do ano de 2018&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;ul&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://www.tiobe.com/tiobe-index" title="Página do Tiobe"&gt;Vencedor de 2017 do Tiobe&lt;/a&gt;: a linguagem do ano de 2017 foi a &lt;strong&gt;C&lt;/strong&gt; com um crescimento de 1.69% - a base de cálculo deve-se a procura da mesma durante todo ano, em 2008 a linguagem também entrou para o &lt;em&gt;Hall&lt;/em&gt; da Fama.&lt;/p&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://www.htdp.org" title="Livro HtDP/2e"&gt;Finalizado o livro HtDP/2e&lt;/a&gt;: lançamento da segunda versão do livro &lt;em&gt;How to Design Programs - An Introduction to Programming and Computing&lt;/em&gt; dos autores &lt;em&gt;Matthias Felleisen&lt;/em&gt;, &lt;em&gt;Robert Bruce Findler&lt;/em&gt;, &lt;em&gt;Matthew Flatt&lt;/em&gt; e &lt;em&gt;Shriram Krishnamurthi&lt;/em&gt;. Ainda na página de &lt;em&gt;Felleisen&lt;/em&gt;, consta um &lt;a href="http://felleisen.org/matthias" title="Página de Matthias Felleisen"&gt;link&lt;/a&gt; para a descrição de HtDP3e.&lt;/p&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
+  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
