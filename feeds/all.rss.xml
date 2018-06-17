@@ -4,9 +4,75 @@
   <title>Página MDS: Página MDS</title>
   <description>Página MDS: Página MDS</description>
   <link>http://mdssjc.github.io/index.html</link>
-  <lastBuildDate>Sun, 10 Jun 2018 15:00:00 UT</lastBuildDate>
-  <pubDate>Sun, 10 Jun 2018 15:00:00 UT</pubDate>
+  <lastBuildDate>Sun, 17 Jun 2018 15:00:00 UT</lastBuildDate>
+  <pubDate>Sun, 17 Jun 2018 15:00:00 UT</pubDate>
   <ttl>1800</ttl>
+  <item>
+   <title>Resumo da Semana 24</title>
+   <link>http://mdssjc.github.io/blog/2018/06/17/resumo-da-semana-24/?utm_source=all&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-06-17-resumo-da-semana-24</guid>
+   <pubDate>Sun, 17 Jun 2018 15:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;Segue o resumo da 24º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://che.eclipse.org/eclipse-che-6-6-release-notes-9a585c65b089" title="Post sobre Eclipse Che 6.6 Release Notes"&gt;Eclipse Che 6.6 Release Notes&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.github.com/2018-06-12-release-radar-may-2018" title="Post sobre Release Radar · May 2018"&gt;Release Radar · May 2018&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2018/06/intellij-idea-2018-1-5-is-released" title="Post sobre IntelliJ IDEA 2018.1.5 is released!"&gt;IntelliJ IDEA 2018.1.5 is released!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://spring.io/blog/2018/06/14/spring-boot-1-5-14-available-now" title="Post sobre Spring Boot 1.5.14 available now"&gt;Spring Boot 1.5.14 available now&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://crystal-lang.org/2018/06/15/crystal-0.25.0-released.html" title="Post sobre Crystal 0.25.0 released!"&gt;Crystal 0.25.0 released!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.red-lang.org/2018/06/red-wallet-tiny-simple-fast-and-secure.html" title="Post sobre RED Wallet: the tiny, simple, fast and secure wallet!"&gt;RED Wallet: the tiny, simple, fast and secure wallet!&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="kotlin"&gt;Kotlin&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/kotlin/2018/06/kotlin-1-2-50-is-out" title="Post sobre Kotlin 1.2.50 is out!"&gt;Kotlin 1.2.50 is out!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://github.com/fwcd/KotlinLanguageServer/releases" title="Post sobre Kotlin Language Server + Extension for VSCode"&gt;Kotlin Language Server + Extension for VSCode&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="rust"&gt;Rust&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/06/12/this-week-in-rust-238" title="Post sobre This Week in Rust 238"&gt;This Week in Rust 238&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="dartflutter"&gt;Dart/Flutter&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://dartcode.org/releases/v2-14" title="Post sobre Dart Code v2.14.0"&gt;Dart Code v2.14.0&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://mailchi.mp/cf09a675ce57/flutter-weekly-298361" title="Post sobre Flutter Weekly #24"&gt;Flutter Weekly #24&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="haskell"&gt;Haskell&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/111.html" title="Post sobre Issue 111 :: Haskell Weekly"&gt;Issue 111 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://mail.haskell.org/pipermail/haskell-cafe/2018-June/129256.html" title="Post sobre [Haskell-cafe] Announce: Haskell Platform 8.4.3"&gt;(Haskell-cafe) Announce: Haskell Platform 8.4.3&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="racket"&gt;Racket&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://groups.google.com/forum/?hl=pt-BR#!topic/racket-users/BUnvsTDJZlo" title="Post sobre Announce: A Racket GUI Widget to display maps"&gt;Announce: A Racket GUI Widget to display maps&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="clojure"&gt;Clojure&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://data-sorcery.org/2018/06/10/incanter-1-9-3-has-been-released" title="Post sobre Incanter 1.9.3 has been released!"&gt;Incanter 1.9.3 has been released!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.clojuriststogether.org/news/may-2018-monthly-update" title="Post sobre May 2018 Monthly Update"&gt;May 2018 Monthly Update&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://clojurescript.org/news/2018-06-15-release" title="Post sobre ClojureScript 1.10.312 Release"&gt;ClojureScript 1.10.312 Release&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="artigos"&gt;Artigos&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://alex-hhh.github.io/2018/06/a-racket-gui-widget-to-display-maps-based-on-openstreetmap-tiles.html" title="Artigo sobre [A Racket GUI Widget to display maps based on OpenStreetMap tiles]"&gt;A Racket GUI Widget to display maps based on OpenStreetMap tiles&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.masteringemacs.org/article/whats-new-in-emacs-26-1" title="Post sobre What’s New in Emacs 26.1"&gt;What’s New in Emacs 26.1&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://scripter.co/notes/org-table-spreadsheet" title="Post sobre Org Table Spreadsheet"&gt;Org Table Spreadsheet&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>Resumo da Semana 23</title>
    <link>http://mdssjc.github.io/blog/2018/06/10/resumo-da-semana-23/?utm_source=all&amp;utm_medium=RSS</link>
@@ -605,25 +671,4 @@
 &lt;!-- more--&gt;
 
 &lt;ul&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</description></item>
-  <item>
-   <title>Resumo da Semana 5</title>
-   <link>http://mdssjc.github.io/blog/2018/02/04/resumo-da-semana-5/?utm_source=all&amp;utm_medium=RSS</link>
-   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-02-04-resumo-da-semana-5</guid>
-   <pubDate>Sun, 04 Feb 2018 14:00:00 UT</pubDate>
-   <author>Marcelo dos Santos</author>
-   <description>
-&lt;p&gt;Segue o resumo da 5º semana do ano de 2018&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;ul&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://drive.google.com/file/d/1Wke3lOHFnPTJhT5GO3gSHo_3TJ0o0TY2/view" title="Slides do livro Effective Java, 3rd"&gt;Slides do livro Effective Java, 3rd&lt;/a&gt;: Joshua Bloch compartilhou os &lt;em&gt;slides&lt;/em&gt; de seu novo livro para a comunidade.&lt;/p&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://www.javamagazine.mozaicreader.com/JanFeb2018" title="Página da revista Java Magazine"&gt;Java Magazine&lt;/a&gt;: edição de Fevereiro da revista &lt;em&gt;Java Magazine&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/p&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://blogs.msdn.microsoft.com/typescript/2018/01/31/announcing-typescript-2-7" title="Post sobre o TypeScript 2.7"&gt;TypeScript 2.7&lt;/a&gt;: anúncio da nova versão do &lt;em&gt;TypeScript&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="https://spring.io/blog/2018/01/31/spring-boot-2-0-0-rc1-available-now" title="Post sobre o Spring Boot 2"&gt;Spring Boot 2.0.0 RC1&lt;/a&gt;: anúncio da nova versão do &lt;em&gt;Spring Boot 2&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
