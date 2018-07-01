@@ -4,7 +4,65 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/resumo.atom.xml" />
  <link href="http://mdssjc.github.io/tags/resumo.html" />
  <id>urn:http-mdssjc-github-io:-tags-resumo-html</id>
- <updated>2018-06-24T15:00:00Z</updated>
+ <updated>2018-07-01T15:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 26</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/07/01/resumo-da-semana-26/?utm_source=resumo&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2018-07-01-resumo-da-semana-26</id>
+  <published>2018-07-01T15:00:00Z</published>
+  <updated>2018-07-01T15:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 26º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://groups.google.com/forum/#!topic/racket-dev/-N9-1h77cjU" title="Post sobre Racket v7.0 Beta Period has Started"&gt;Racket v7.0 Beta Period has Started&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://www.sbcl.org/news.html#1.4.9" title="Post sobre SBCL 1.4.9"&gt;SBCL 1.4.9&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://lists.gnu.org/archive/html/guile-devel/2018-06/msg00026.html" title="Post sobre Guile 3 update, june 2018 edition"&gt;Guile 3 update, june 2018 edition&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://crystal-lang.org/2018/06/28/crystal-0.25.1-released.html" title="Post sobre Crystal 0.25.1 released!"&gt;Crystal 0.25.1 released!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://lkml.iu.edu/hypermail/linux/kernel/1806.2/05042.html" title="Post sobre (ANNOUNCE) Git v2.18.0"&gt;(ANNOUNCE) Git v2.18.0&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2018/06/intellij-idea-2018-2-goes-beta" title="Post sobre IntelliJ IDEA 2018.2 Goes Beta"&gt;IntelliJ IDEA 2018.2 Goes Beta&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://www.eclipse.org/photon" title="Post sobre Eclipse Photon"&gt;Eclipse Photon&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="java"&gt;Java&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://hg.openjdk.java.net/jdk/jdk/rev/a5557f24b4d4" title="Post sobre Start of release updates for JDK 12"&gt;Start of release updates for JDK 12&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="rust"&gt;Rust&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/06/26/this-week-in-rust-240" title="Post sobre This Week in Rust 240"&gt;This Week in Rust 240&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="dartflutter"&gt;Dart/Flutter&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://mailchi.mp/16ec96f0a9cd/flutter-weekly-311173" title="Post sobre Flutter Weekly #25"&gt;Flutter Weekly #25&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://groups.google.com/forum/?linkId=52478434&amp;amp;linkId=53673788#!topic/flutter-dev/VLqlYXWvUvE" title="Post sobre New Flutter tooling release - Android Studio 3.2 Beta support"&gt;New Flutter tooling release - Android Studio 3.2 Beta support&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://dartcode.org/releases/v2-15" title="Post sobre Dart Code v2.15.0"&gt;Dart Code v2.15.0&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="haskell"&gt;Haskell&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/113.html" title="Post sobre Issue 113 :: Haskell Weekly"&gt;Issue 113 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://mail.haskell.org/pipermail/ghc-devs/2018-June/015970.html" title="Post sobre (ANNOUNCE) GHC 8.6.1-alpha1 available"&gt;(ANNOUNCE) GHC 8.6.1-alpha1 available&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="clojure"&gt;Clojure&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://groups.google.com/forum/#!topic/clojure/ESNrjIr0JUE" title="Post sobre (ANN) Clojure 1.10.0-alpha5"&gt;(ANN) Clojure 1.10.0-alpha5&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://github.com/clojerl/clojerl/blob/9a6d5904826ea411834fd5e9e34c444e3e627b7e/CHANGELOG.md" title="Post sobre Clojerl 0.3.0"&gt;Clojerl 0.3.0&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://groups.google.com/forum/#!topic/clojure/VPRXYgDasuM" title="Post sobre (ANN) spec.alpha 0.2.168 and core.specs.alpha 0.2.36"&gt;(ANN) spec.alpha 0.2.168 and core.specs.alpha 0.2.36&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://groups.google.com/forum/#!topic/clojure/2uVhcv7a4dk" title="Post sobre (ANN) org.clojure/java.jdbc 0.7.7"&gt;(ANN) org.clojure/java.jdbc 0.7.7&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 25</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2018/06/24/resumo-da-semana-25/?utm_source=resumo&amp;utm_medium=Atom" />
@@ -690,18 +748,4 @@
 &lt;ul&gt;
  &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;
  &lt;li&gt;&lt;a href="http://blog.atom.io/2018/02/13/atom-1-24.html" title="Post sobre a nova versão do Atom"&gt;Atom 1.24 e Atom Beta 1.25&lt;/a&gt;: lançamento da nova versão do ambiente &lt;em&gt;Atom&lt;/em&gt;.&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blog.jetbrains.com/kotlin/2018/02/kotlinnative-v0-6-is-here" title="Post sobre a nova versão do Kotlin/Native"&gt;Kotlin/Native v0.6&lt;/a&gt;: lançamento da nova versão do &lt;em&gt;Kotlin/Native&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</content></entry>
- <entry>
-  <title type="text">Resumo da Semana 6</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/02/11/resumo-da-semana-6/?utm_source=resumo&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2018-02-11-resumo-da-semana-6</id>
-  <published>2018-02-11T14:00:00Z</published>
-  <updated>2018-02-11T14:00:00Z</updated>
-  <author>
-   <name>Marcelo dos Santos</name></author>
-  <content type="html">
-&lt;p&gt;Segue o resumo da 6º semana do ano de 2018&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/kotlin/2018/02/kotlinnative-v0-6-is-here" title="Post sobre a nova versão do Kotlin/Native"&gt;Kotlin/Native v0.6&lt;/a&gt;: lançamento da nova versão do &lt;em&gt;Kotlin/Native&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
