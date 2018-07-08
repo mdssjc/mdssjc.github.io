@@ -4,9 +4,44 @@
   <title>Página MDS: Posts tagged 'resumo'</title>
   <description>Página MDS: Posts tagged 'resumo'</description>
   <link>http://mdssjc.github.io/tags/resumo.html</link>
-  <lastBuildDate>Sun, 01 Jul 2018 15:00:00 UT</lastBuildDate>
-  <pubDate>Sun, 01 Jul 2018 15:00:00 UT</pubDate>
+  <lastBuildDate>Sun, 08 Jul 2018 15:00:00 UT</lastBuildDate>
+  <pubDate>Sun, 08 Jul 2018 15:00:00 UT</pubDate>
   <ttl>1800</ttl>
+  <item>
+   <title>Resumo da Semana 27</title>
+   <link>http://mdssjc.github.io/blog/2018/07/08/resumo-da-semana-27/?utm_source=resumo&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-07-08-resumo-da-semana-27</guid>
+   <pubDate>Sun, 08 Jul 2018 15:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;Segue o resumo da 27º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://docs.gradle.org/4.9-rc-1/release-notes.html" title="Post sobre Gradle 4.9-rc-1 Release Notes"&gt;Gradle 4.9-rc&amp;ndash;1 Release Notes&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://facebook.github.io/react-native/blog/2018/07/04/releasing-react-native-056" title="Post sobre React Native - Releasing 0.56"&gt;React Native - Releasing 0.56&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="rust"&gt;Rust&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/07/03/this-week-in-rust-241" title="Post sobre This Week in Rust 241"&gt;This Week in Rust 241&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="java"&gt;Java&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://in.relation.to/2018/07/04/hibernate-orm-5115-final-release" title="Post sobre Hibernate ORM 5.1.15.Final released"&gt;Hibernate ORM 5.1.15.Final released&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="haskell"&gt;Haskell&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/114.html" title="Post sobre Issue 114 :: Haskell Weekly"&gt;Issue 114 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>Resumo da Semana 26</title>
    <link>http://mdssjc.github.io/blog/2018/07/01/resumo-da-semana-26/?utm_source=resumo&amp;utm_medium=RSS</link>
@@ -696,18 +731,4 @@
  &lt;li&gt;&lt;a href="https://gitter.im/syl20bnr/spacemacs?at=5a8a5dde0202dc012e537998" title="Post sobre o LSP no Spacemacs"&gt;Spacemacs adiciona suporte para o LSP&lt;/a&gt;: o &lt;em&gt;starter kit&lt;/em&gt; &lt;em&gt;Spacemacs&lt;/em&gt; adicionou suporte ao &lt;em&gt;Language Server Protocol&lt;/em&gt;, inicialmente, para a camada &lt;em&gt;Python&lt;/em&gt;.&lt;/li&gt;
  &lt;li&gt;&lt;a href="https://pragprog.com/book/shcloj3/programming-clojure-third-edition" title="Post sobre o lançamento do livro Programming Clojure"&gt;Lançamento da 3a Edição do livro Programming Clojure&lt;/a&gt;: nova edição do livro &lt;em&gt;Programming Clojure&lt;/em&gt; dos autores &lt;em&gt;Alex Miller&lt;/em&gt; com &lt;em&gt;Stuart Halloway&lt;/em&gt; e &lt;em&gt;Aaron Bedra&lt;/em&gt;.&lt;/li&gt;
  &lt;li&gt;&lt;a href="books.goalkicker.com/JavaBook" title="Página de download do livro Java Notes for Professionals"&gt;Java Notes for Professionals&lt;/a&gt;: compilado em 181 capítulos as notas de desenvolvimento para projetos &lt;em&gt;Java&lt;/em&gt;, gratuito para &lt;em&gt;download&lt;/em&gt;.&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://groovy-lang.org/download.html" title="Página de download do Groovy"&gt;Groovy 2.5.0-beta&amp;ndash;3&lt;/a&gt;: nova versão do &lt;em&gt;branch&lt;/em&gt; 2.5 da linguagem de programação &lt;em&gt;Groovy&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</description></item>
-  <item>
-   <title>Resumo da Semana 7</title>
-   <link>http://mdssjc.github.io/blog/2018/02/18/resumo-da-semana-7/?utm_source=resumo&amp;utm_medium=RSS</link>
-   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-02-18-resumo-da-semana-7</guid>
-   <pubDate>Sun, 18 Feb 2018 15:00:00 UT</pubDate>
-   <author>Marcelo dos Santos</author>
-   <description>
-&lt;p&gt;Segue o resumo da 7º semana do ano de 2018&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://blog.atom.io/2018/02/13/atom-1-24.html" title="Post sobre a nova versão do Atom"&gt;Atom 1.24 e Atom Beta 1.25&lt;/a&gt;: lançamento da nova versão do ambiente &lt;em&gt;Atom&lt;/em&gt;.&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blog.jetbrains.com/kotlin/2018/02/kotlinnative-v0-6-is-here" title="Post sobre a nova versão do Kotlin/Native"&gt;Kotlin/Native v0.6&lt;/a&gt;: lançamento da nova versão do &lt;em&gt;Kotlin/Native&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
+ &lt;li&gt;&lt;a href="http://groovy-lang.org/download.html" title="Página de download do Groovy"&gt;Groovy 2.5.0-beta&amp;ndash;3&lt;/a&gt;: nova versão do &lt;em&gt;branch&lt;/em&gt; 2.5 da linguagem de programação &lt;em&gt;Groovy&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>

@@ -45,6 +45,7 @@ http://mdssjc.github.io/blog/2018/06/03/resumo-da-semana-22/
 http://mdssjc.github.io/blog/2017/08/22/curso-de-jvm/
 http://mdssjc.github.io/blog/2017/09/22/resumo-da-semana-38/
 http://mdssjc.github.io/blog/2018/05/06/resumo-da-semana-18/
+http://mdssjc.github.io/blog/2018/07/08/resumo-da-semana-27/
 http://mdssjc.github.io/blog/2017/10/13/resumo-da-semana-41/
 http://mdssjc.github.io/blog/2018/04/01/resumo-da-semana-13/
 http://mdssjc.github.io/blog/2017/11/17/resumo-da-semana-46/
