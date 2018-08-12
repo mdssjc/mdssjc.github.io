@@ -27,7 +27,7 @@ http://mdssjc.github.io/blog/2017/05/04/emacs/
 http://mdssjc.github.io/blog/2018/02/04/resumo-da-semana-5/
 http://mdssjc.github.io/blog/2018/01/28/resumo-da-semana-4/
 http://mdssjc.github.io/blog/2018/03/18/resumo-da-semana-11/
-http://mdssjc.github.io/blog/2017/08/11/resumo-da-semana-32/
+http://mdssjc.github.io/blog/2018/08/12/resumo-da-semana-32/
 http://mdssjc.github.io/blog/2018/01/07/resumo-da-semana-1/
 http://mdssjc.github.io/blog/2018/03/04/resumo-da-semana-9/
 http://mdssjc.github.io/blog/2017/11/10/resumo-da-semana-45/

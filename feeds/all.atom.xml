@@ -4,7 +4,62 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/all.atom.xml" />
  <link href="http://mdssjc.github.io/index.html" />
  <id>urn:http-mdssjc-github-io:-index-html</id>
- <updated>2018-08-05T15:00:00Z</updated>
+ <updated>2018-08-12T15:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 32</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/08/12/resumo-da-semana-32/?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2018-08-12-resumo-da-semana-32</id>
+  <published>2018-08-12T15:00:00Z</published>
+  <updated>2018-08-12T15:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 32º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://julialang.org/blog/2018/08/one-point-zero" title="Post sobre Julia 1.0"&gt;Julia 1.0&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="java"&gt;Java&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2018/08/java-annotated-monthly-august-2018" title="Post sobre Java Annotated Monthly - August 2018"&gt;Java Annotated Monthly - August 2018&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2018/08/intellij-idea-2018-2-2-eap-has-started" title="Post sobre IntelliJ IDEA 2018.2.2 EAP Has Started"&gt;IntelliJ IDEA 2018.2.2 EAP Has Started&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2018/08/intellij-idea-2018-2-1-update-available" title="Post sobre IntelliJ IDEA 2018.2.1 Update Available"&gt;IntelliJ IDEA 2018.2.1 Update Available&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/08/android-emulator-28.html" title="Post sobre Emulator 28.0.3 Canary"&gt;Emulator 28.0.3 Canary&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/08/android-studio-33-canary-5-available.html" title="Post sobre Android Studio 3.3 Canary 5 available"&gt;Android Studio 3.3 Canary 5 available&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="rust"&gt;Rust&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://blog.rust-lang.org/2018/08/08/survey.html" title="Post sobre Launching the 2018 State of Rust Survey"&gt;Launching the 2018 State of Rust Survey&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/08/07/this-week-in-rust-246" title="Post sobre This Week in Rust 246"&gt;This Week in Rust 246&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://intellij-rust.github.io/2018/08/06/changelog-80.html" title="Post sobre IntelliJ Rust Changelog #80"&gt;IntelliJ Rust Changelog #80&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="dartflutter"&gt;Dart/Flutter&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://medium.com/dartlang/dart-2-stable-and-the-dart-web-platform-3775d5f8eac7" title="Post sobre Announcing Dart 2 Stable and the Dart Web Platform"&gt;Announcing Dart 2 Stable and the Dart Web Platform&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="haskell"&gt;Haskell&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://mail.haskell.org/pipermail/ghc-devs/2018-August/016098.html" title="Post sobre (ANNOUNCE) GHC 8.6.1-beta1 available"&gt;(ANNOUNCE) GHC 8.6.1-beta1 available&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/119.html" title="Post sobre Issue 119 :: Haskell Weekly"&gt;Issue 119 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="emacs"&gt;Emacs&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="resumo-em-2017"&gt;Resumo em 2017&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://natureofcode.com" title="Nature of Code"&gt;Nature of Code&lt;/a&gt;: livro sobre programação criativa utilizando a linguagem &lt;em&gt;Processing&lt;/em&gt;.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:11342201462029::NO:RP,149:P149_EVENT_ID,P149_PREV_PAGE:5528,2" title="Página de matrícula do curso"&gt;Oracle MOOC: Introduction to Java Cloud Services&lt;/a&gt;: início do curso.&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 31</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2018/08/05/resumo-da-semana-31/?utm_source=all&amp;utm_medium=Atom" />
@@ -886,37 +941,4 @@
 &lt;ul&gt;
  &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;
  &lt;li&gt;&lt;a href="https://github.com/abo-abo/swiper/issues/1509" title="Post sobre o ivy-count"&gt;Interactive ivy-count&lt;/a&gt;: discussão sobre o atalho do &lt;em&gt;ivy-count&lt;/em&gt;.&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://emacsair.me/2018/03/29/magit-2.12" title="Post sobre o lançamento do Magit 2.12"&gt;Magit 2.12 released&lt;/a&gt;: lançamento da versão 2.12 do cliente &lt;em&gt;Magit&lt;/em&gt; para &lt;em&gt;Git&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</content></entry>
- <entry>
-  <title type="text">Resumo da Semana 12</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/03/25/resumo-da-semana-12/?utm_source=all&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2018-03-25-resumo-da-semana-12</id>
-  <published>2018-03-25T15:00:00Z</published>
-  <updated>2018-03-25T15:00:00Z</updated>
-  <author>
-   <name>Marcelo dos Santos</name></author>
-  <content type="html">
-&lt;p&gt;Segue o resumo da 12º semana do ano de 2018&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="http://openjdk.java.net/projects/jdk/10" title="Página do JDK 10"&gt;Java 10 Released&lt;/a&gt;: lançamento do &lt;em&gt;Java&lt;/em&gt; 10 - com destaque para a inferência de tipos em variáveis locais, seguindo a meta de atualização em ciclos de 6 meses. Outras referências:
-  &lt;ul&gt;
-   &lt;li&gt;&lt;a href="https://www.infoq.com/news/2018/03/Java10GAReleased" title="InfoQ - Java 10 Released"&gt;InfoQ - Java 10 Released&lt;/a&gt;&lt;/li&gt;
-   &lt;li&gt;&lt;a href="https://www.infoworld.com/article/3230507/java/java-jdk-10-what-new-features-to-expect-in-the-next-java.html" title="InfoWorld - JDK 10: What’s new in Java 10"&gt;InfoWorld - JDK 10: What’s new in Java 10&lt;/a&gt;&lt;/li&gt;
-   &lt;li&gt;&lt;a href="https://dzone.com/articles/109-new-features-in-jdk-10?fromrel=true" title="DZone - 109 New Features in JDK 10"&gt;DZone &amp;ndash; 109 New Features in JDK 10&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h2 id="artigos"&gt;Artigos&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://danghica.blogspot.com.br/2018/03/copying-vs-sharing-in-functional.html" title="Artigo sobre programação funcional"&gt;Copying vs. sharing in functional languages&lt;/a&gt;: descreve o funcionamento de um &lt;em&gt;debugger&lt;/em&gt; em linguagens funcionais.&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://www.inf.fu-berlin.de/inst/ag-se/teaching/K-CCD-2016/Clean-Coder-summary.pdf" title="Artigo com o resumo do Clean Coder"&gt;The essence of &amp;ldquo;Clean Coder&amp;rdquo;&lt;/a&gt;: resumo do livro &lt;em&gt;The Clean Coder: A Code of Conduct for Professional Programmers&lt;/em&gt; do autor Robert C. Martin.&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://dev.to/brpaz/my-linux-development-environment-of-2018-ch7" title="Artigo sobre ambiente de desenvolvimento em Linux"&gt;My Linux Development Environment of 2018&lt;/a&gt;: descreve um ambiente de desenvolvimento utilizando as ferramentas/aplicações do sistema operacional &lt;em&gt;Linux&lt;/em&gt;.&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312" title="Artigo sobre experiência em programação"&gt;The Mistakes I Made As a Beginner Programmer&lt;/a&gt;: descreve os principais problemas no início da carreira de programação.&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
+ &lt;li&gt;&lt;a href="https://emacsair.me/2018/03/29/magit-2.12" title="Post sobre o lançamento do Magit 2.12"&gt;Magit 2.12 released&lt;/a&gt;: lançamento da versão 2.12 do cliente &lt;em&gt;Magit&lt;/em&gt; para &lt;em&gt;Git&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
