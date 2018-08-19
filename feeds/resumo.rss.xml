@@ -4,9 +4,74 @@
   <title>Página MDS: Posts tagged 'resumo'</title>
   <description>Página MDS: Posts tagged 'resumo'</description>
   <link>http://mdssjc.github.io/tags/resumo.html</link>
-  <lastBuildDate>Sun, 12 Aug 2018 15:00:00 UT</lastBuildDate>
-  <pubDate>Sun, 12 Aug 2018 15:00:00 UT</pubDate>
+  <lastBuildDate>Sun, 19 Aug 2018 15:00:00 UT</lastBuildDate>
+  <pubDate>Sun, 19 Aug 2018 15:00:00 UT</pubDate>
   <ttl>1800</ttl>
+  <item>
+   <title>Resumo da Semana 33</title>
+   <link>http://mdssjc.github.io/blog/2018/08/19/resumo-da-semana-33/?utm_source=resumo&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-08-19-resumo-da-semana-33</guid>
+   <pubDate>Sun, 19 Aug 2018 15:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;Segue o resumo da 33º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://code.visualstudio.com/updates/v1_26" title="Post sobre Visual Studio Code version 1.26"&gt;Visual Studio Code version 1.26&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://crystal-lang.org/2018/08/09/crystal-0.26.0-released.html" title="Post sobre Crystal 0.26.0 released!"&gt;Crystal 0.26.0 released!&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="java"&gt;Java&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2018/08/gradle-improvements-in-intellij-idea-2018-2" title="Post sobre Gradle Improvements in IntelliJ IDEA 2018.2"&gt;Gradle Improvements in IntelliJ IDEA 2018.2&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/08/emulator-2804-canary.html" title="Post sobre Emulator 28.0.4 Canary"&gt;Emulator 28.0.4 Canary&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/08/android-studio-33-canary-6-available.html" title="Post sobre Android Studio 3.3 Canary 6 available"&gt;Android Studio 3.3 Canary 6 available&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="dot-net"&gt;Dot Net&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2017-relnotes#15.8" title="Post sobre Visual Studio 2017 version 15.8.0"&gt;Visual Studio 2017 version 15.8.0&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blogs.msdn.microsoft.com/dotnet/2018/08/14/announcing-f-4-5" title="Post sobre Announcing F# 4.5"&gt;Announcing F# 4.5&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="rust"&gt;Rust&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://internals.rust-lang.org/t/announcing-rust-2018-preview-2/8218" title="Post sobre Announcing Rust 2018 Preview 2!"&gt;Announcing Rust 2018 Preview 2!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/08/14/this-week-in-rust-247" title="Post sobre This Week in Rust 247"&gt;This Week in Rust 247&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://rustwasm.github.io/2018/08/14/this-week-in-rust-wasm-006.html" title="Post sobre This Week in Rust and WebAssembly 006"&gt;This Week in Rust and WebAssembly 006&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.ncameron.org/blog/rls-1-0-release-candidate" title="Post sobre RLS 1.0 release candidate"&gt;RLS 1.0 release candidate&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.ncameron.org/blog/rustfmt-1-rc" title="Post sobre Rustfmt 1.0 release candidate"&gt;Rustfmt 1.0 release candidate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="dartflutter"&gt;Dart/Flutter&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://us17.campaign-archive.com/?u=c8d8d18b6e2c6316ddc1d48a0&amp;amp;id=b3fec1d12b" title="Post sobre Flutter Weekly #31"&gt;Flutter Weekly #31&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="haskell"&gt;Haskell&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/120.html" title="Post sobre Issue 120 :: Haskell Weekly"&gt;Issue 120 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="lisp"&gt;Lisp&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.clojuriststogether.org/news/july-2018-monthly-update" title="Post sobre July 2018 Monthly Update"&gt;July 2018 Monthly Update&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://gitlab.com/ajyoon/ob-rust" title="Post sobre Emacs: ob-rust"&gt;Emacs: ob-rust&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="artigos"&gt;Artigos&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://www.badykov.com/emacs/2018/07/31/why-emacs-is-a-great-editor" title="Artigo sobre Why Emacs is a great text editor"&gt;Why Emacs is a great text editor&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="resumo-em-2017"&gt;Resumo em 2017&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.code-maze.com/http-series" title="The HTTP Series"&gt;The HTTP Series&lt;/a&gt;: série de artigos sobre o protocolo HTTP.&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>Resumo da Semana 32</title>
    <link>http://mdssjc.github.io/blog/2018/08/12/resumo-da-semana-32/?utm_source=resumo&amp;utm_medium=RSS</link>
@@ -862,45 +927,4 @@
 &lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
 
 &lt;ul&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</description></item>
-  <item>
-   <title>Resumo da Semana 13</title>
-   <link>http://mdssjc.github.io/blog/2018/04/01/resumo-da-semana-13/?utm_source=resumo&amp;utm_medium=RSS</link>
-   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-04-01-resumo-da-semana-13</guid>
-   <pubDate>Sun, 01 Apr 2018 15:00:00 UT</pubDate>
-   <author>Marcelo dos Santos</author>
-   <description>
-&lt;p&gt;Segue o resumo da 13º semana do ano de 2018&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;h2 id="informativo"&gt;Informativo&lt;/h2&gt;
-
-&lt;p&gt;O livro passará por atualizações durante o mês de Abril - no sistema GTD o projeto do livro possui várias notas e ações para serem executadas.&lt;/p&gt;
-
-&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://clojurescript.org/news/2018-03-26-release" title="Post sobre ClojureScript 1.10 is finally out!"&gt;ClojureScript 1.10 is finally out!&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blog.rust-lang.org/2018/03/29/Rust-1.25.html" title="Post sobre Announcing Rust 1.25"&gt;Announcing Rust 1.25&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://groups.google.com/forum/#!topic/flutter-dev/E15CK8Eq8GM" title="Post sobre New Flutter tooling releases -- v23 now available!"&gt;New Flutter tooling releases &amp;mdash; v23 now available!&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://sass.logdown.com/posts/7045860-dart-sass-100-is-released" title="Post sobre Dart Sass 1.0.0 is Released"&gt;Dart Sass 1.0.0 is Released&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=nnnW0nehPEA" title="Post sobre What’s new in Android Studio 3.1"&gt;What’s new in Android Studio 3.1&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2018/03/intellij-idea-2018-1-code-analysis-better-debugger-partial-git-commits-android-studio-3-0-and-other-improvements" title="Post sobre IntelliJ IDEA 2018.1"&gt;IntelliJ IDEA 2018.1&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2018/03/intellij-idea-2018-1-1-eap-is-here" title="Post sobre IntelliJ IDEA 2018.1.1 EAP is here!"&gt;IntelliJ IDEA 2018.1.1 EAP is here!&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blog.jetbrains.com/go/2018/03/29/go-the-distance-goland-2018-1-is-here" title="Post sobre Go the Distance: GoLand 2018.1 is Here!"&gt;Go the Distance: GoLand 2018.1 is Here!&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h2 id="artigos"&gt;Artigos&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://martinfowler.com/articles/201803-refactoring-2nd-ed.html" title="Post sobre Announcing the Second Edition of 'Refactoring'"&gt;Announcing the Second Edition of &amp;ldquo;Refactoring&amp;rdquo;&lt;/a&gt;: nova edição do livro &lt;em&gt;Refactoring&lt;/em&gt; do autor Martin Fowler utilizará a tecnologia &lt;em&gt;JavaScript&lt;/em&gt;.&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://medium.com/series/c4c7e4359da8" title="Post sobre Clojure Style Guide"&gt;Clojure Style Guide&lt;/a&gt;: guia para a padronização de código para a tecnologia &lt;em&gt;Clojure&lt;/em&gt;.&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://research.hackerrank.com/developer-skills/2018" title="Post sobre 2018 Developer Skills Report"&gt;2018 Developer Skills Report&lt;/a&gt;: relatório sobre as habilidades dos construtores de &lt;em&gt;software&lt;/em&gt; para 2018.&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://dzone.com/articles/introduction-to-java-bytecode" title="Post sobre Introduction to Java Bytecode"&gt;Introduction to Java Bytecode&lt;/a&gt;: visão geral do funcionamento do &lt;em&gt;Bytecode&lt;/em&gt; na tecnologia &lt;em&gt;Java&lt;/em&gt;.&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blog.kotlin-academy.com/effective-java-in-kotlin-item-1-consider-static-factory-methods-instead-of-constructors-8d0d7b5814b2" title="Post sobre Effective Java in Kotlin, item 1: Consider static factory methods instead of constructors"&gt;Effective Java in Kotlin, item 1: Consider static factory methods instead of constructors&lt;/a&gt;: versão do item 1 do livro &lt;em&gt;Effective Java&lt;/em&gt; do autor Joshua Bloch para a tecnologia &lt;em&gt;Kotlin&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://github.com/abo-abo/swiper/issues/1509" title="Post sobre o ivy-count"&gt;Interactive ivy-count&lt;/a&gt;: discussão sobre o atalho do &lt;em&gt;ivy-count&lt;/em&gt;.&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://emacsair.me/2018/03/29/magit-2.12" title="Post sobre o lançamento do Magit 2.12"&gt;Magit 2.12 released&lt;/a&gt;: lançamento da versão 2.12 do cliente &lt;em&gt;Magit&lt;/em&gt; para &lt;em&gt;Git&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
