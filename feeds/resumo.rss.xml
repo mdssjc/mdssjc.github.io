@@ -4,9 +4,68 @@
   <title>Página MDS: Posts tagged 'resumo'</title>
   <description>Página MDS: Posts tagged 'resumo'</description>
   <link>http://mdssjc.github.io/tags/resumo.html</link>
-  <lastBuildDate>Sun, 26 Aug 2018 15:00:00 UT</lastBuildDate>
-  <pubDate>Sun, 26 Aug 2018 15:00:00 UT</pubDate>
+  <lastBuildDate>Sun, 02 Sep 2018 15:00:00 UT</lastBuildDate>
+  <pubDate>Sun, 02 Sep 2018 15:00:00 UT</pubDate>
   <ttl>1800</ttl>
+  <item>
+   <title>Resumo da Semana 35</title>
+   <link>http://mdssjc.github.io/blog/2018/09/02/resumo-da-semana-35/?utm_source=resumo&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-09-02-resumo-da-semana-35</guid>
+   <pubDate>Sun, 02 Sep 2018 15:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;Segue o resumo da 35º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://github.com/scala/scala/releases/tag/v2.13.0-M5" title="Post sobre Scala 2.13.0-M5"&gt;Scala 2.13.0-M5&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://babeljs.io/blog/2018/08/27/7.0.0" title="Post sobre Babel 7 Released"&gt;Babel 7 Released&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://www.openssh.com/txt/release-7.8" title="Post sobre OpenSSH 7.8"&gt;OpenSSH 7.8&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="java"&gt;Java&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/08/haxm-730-to-all-channels-emulator-2806.html" title="Post sobre HAXM 7.3.0 to all channels, Emulator 28.0.6 Canary"&gt;HAXM 7.3.0 to all channels, Emulator 28.0.6 Canary&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/08/android-studio-33-canary-8-available.html" title="Post sobre Android Studio 3.3 Canary 8 available"&gt;Android Studio 3.3 Canary 8 available&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/08/emulator-27310-stable.html" title="Post sobre Emulator 27.3.10 Stable"&gt;Emulator 27.3.10 Stable&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://wildfly.org/news/2018/08/30/WildFly14-Final-Released" title="Post sobre WildFly 14 is released!"&gt;WildFly 14 is released!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://github.com/LibrePDF/OpenPDF/releases/tag/1.2.2" title="Post sobre OpenPDF 1.2.2"&gt;OpenPDF 1.2.2&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="dot-net"&gt;Dot Net&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://blogs.msdn.microsoft.com/visualstudio/2018/08/30/improving-your-productivity-in-the-visual-studio-editor" title="Post sobre Improving your productivity in the Visual Studio Editor"&gt;Improving your productivity in the Visual Studio Editor&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="rust"&gt;Rust&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/08/28/this-week-in-rust-249" title="Post sobre This Week in Rust 249"&gt;This Week in Rust 249&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://intellij-rust.github.io/2018/08/27/changelog-81.html" title="Post sobre IntelliJ Rust Changelog #81"&gt;IntelliJ Rust Changelog #81&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="dartflutter"&gt;Dart/Flutter&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://dartcode.org/releases/v2-18" title="Post sobre Dart Code v2.18.0"&gt;Dart Code v2.18.0&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="haskell"&gt;Haskell&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/122.html" title="Post sobre Issue 122 :: Haskell Weekly"&gt;Issue 122 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.eta-lang.org/announcing-eta-v0-8-6b2-df0398272089" title="Post sobre Announcing Eta v0.8.6b2"&gt;Announcing Eta v0.8.6b2&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="lisp"&gt;Lisp&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://github.com/bhauman/figwheel-main/blob/master/CHANGES.md" title="Post sobre 0.1.8 Extra Mains, Much better NPM and Global exports support, Smiley!"&gt;0.1.8 Extra Mains, Much better NPM and Global exports support, Smiley!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://www.sbcl.org/all-news.html?1.4.11#1.4.11" title="Post sobre SBCL version 1.4.11"&gt;SBCL version 1.4.11&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="resumo-em-2017"&gt;Resumo em 2017&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://www.casadocodigo.com.br/products/livro-cangaceiro-javascript" title="Livro Cangaceiro JavaScript - Uma aventura no sertão da programação"&gt;Livro Cangaceiro JavaScript&lt;/a&gt;: lançamento do livro Cangaceiro &lt;em&gt;JavaScript&lt;/em&gt; - Uma aventura no sertão da programação do autor Flávio Almeida pela Casa do Código.&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>Resumo da Semana 34</title>
    <link>http://mdssjc.github.io/blog/2018/08/26/resumo-da-semana-34/?utm_source=resumo&amp;utm_medium=RSS</link>
@@ -922,34 +981,4 @@
 &lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
 
 &lt;ul&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
-  <item>
-   <title>Resumo da Semana 15</title>
-   <link>http://mdssjc.github.io/blog/2018/04/15/resumo-da-semana-15/?utm_source=resumo&amp;utm_medium=RSS</link>
-   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-04-15-resumo-da-semana-15</guid>
-   <pubDate>Sun, 15 Apr 2018 15:00:00 UT</pubDate>
-   <author>Marcelo dos Santos</author>
-   <description>
-&lt;p&gt;Segue o resumo da 15º semana do ano de 2018&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://medium.com/flutter-io/https-medium-com-flutter-io-announcing-flutters-beta-2-c85ba1557d5e" title="Post sobre Announcing Flutter beta 2"&gt;Announcing Flutter beta 2&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://lists.gnu.org/archive/html/emacs-devel/2018-04/msg00258.html" title="Post sobre emacs-announce: Emacs pretest 26.1 RC1 is out"&gt;emacs-announce: Emacs pretest 26.1 RC1 is out&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://akka.io/blog/news/2018/04/13/akka-2.5.12-released" title="Post sobre Akka 2.5.12 Released"&gt;Akka 2.5.12 Released&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2018/04/intellij-idea-2018-1-1-is-released" title="Post sobre IntelliJ IDEA 2018.1.1 is released!"&gt;IntelliJ IDEA 2018.1.1 is released!&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h2 id="artigos"&gt;Artigos&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://dzone.com/articles/j%CE%BBv%CE%BB-8-a-comprehensive-look" title="Artigo sobre JλVλ 8 (A Comprehensive Look)"&gt;JλVλ 8 (A Comprehensive Look)&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://dzone.com/articles/j%CE%BBv%CE%BB-8-a-comprehensive-look-part-11-lambdas-under" title="Artigo sobre JλVλ 8 (A Comprehensive Look): Part 1.1 - Lambdas Under the Hood"&gt;JλVλ 8 (A Comprehensive Look): Part 1.1 - Lambdas Under the Hood&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://dzone.com/articles/j%CE%BBv%CE%BB-8-a-comprehensive-look-part-12-insight-into-s" title="Artigo sobre JλVλ 8 (A Comprehensive Look): Part 1.2 - Insight Into Streams"&gt;JλVλ 8 (A Comprehensive Look): Part 1.2 - Insight Into Streams&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://irreal.org/blog/?p=7096" title="Post sobre Emacs 26.1 RC-1"&gt;Emacs 26.1 RC&amp;ndash;1&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
