@@ -1,5 +1,5 @@
     Title: Resumo da Semana 36
-    Date: 2017-09-09T12:00:00
+    Date: 2018-09-09T12:00:00
     Tags: resumo, semana
 
 Segue o resumo da 36º semana do ano de 2018...
