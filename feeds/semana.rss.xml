@@ -4,9 +4,67 @@
   <title>Página MDS: Posts tagged 'semana'</title>
   <description>Página MDS: Posts tagged 'semana'</description>
   <link>http://mdssjc.github.io/tags/semana.html</link>
-  <lastBuildDate>Sun, 02 Sep 2018 15:00:00 UT</lastBuildDate>
-  <pubDate>Sun, 02 Sep 2018 15:00:00 UT</pubDate>
+  <lastBuildDate>Sun, 09 Sep 2018 15:00:00 UT</lastBuildDate>
+  <pubDate>Sun, 09 Sep 2018 15:00:00 UT</pubDate>
   <ttl>1800</ttl>
+  <item>
+   <title>Resumo da Semana 36</title>
+   <link>http://mdssjc.github.io/blog/2018/09/09/resumo-da-semana-36/?utm_source=semana&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-09-09-resumo-da-semana-36</guid>
+   <pubDate>Sun, 09 Sep 2018 15:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;Segue o resumo da 36º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://github.com/facebook/react/blob/master/CHANGELOG.md" title="Post sobre React 16.5.0"&gt;React 16.5.0&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.mozilla.org/en-US/firefox/62.0/releasenotes" title="Post sobre Firefox Release 62.0"&gt;Firefox Release 62.0&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://github.com/BurntSushi/ripgrep/releases/tag/0.10.0" title="Post sobre Ripgrep 0.10.0"&gt;Ripgrep 0.10.0&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="java"&gt;Java&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2018/09/java-annotated-monthly-september-2018" title="Post sobre Java Annotated Monthly - September 2018"&gt;Java Annotated Monthly - September 2018&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2018/09/intellij-idea-2018-2-3-is-here" title="Post sobre IntelliJ IDEA 2018.2.3 is here!"&gt;IntelliJ IDEA 2018.2.3 is here!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/09/emulator-2807-canary.html" title="Post sobre Emulator 28.0.7 Canary"&gt;Emulator 28.0.7 Canary&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.payara.fish/release_notes?v=183" title="Post sobre Payara Server 5.183"&gt;Payara Server 5.183&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="kotlin"&gt;Kotlin&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/kotlin/2018/09/kotlinnative-v0-9-is-here" title="Post sobre Kotlin/Native v0.9 is here!"&gt;Kotlin/Native v0.9 is here!&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="rust"&gt;Rust&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/09/04/this-week-in-rust-250" title="Post sobre This Week in Rust 250"&gt;This Week in Rust 250&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://rustwasm.github.io/2018/09/04/this-week-in-rust-wasm-007.html" title="Post sobre This Week in Rust and WebAssembly 007"&gt;This Week in Rust and WebAssembly 007&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="dartflutter"&gt;Dart/Flutter&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://us17.campaign-archive.com/?u=c8d8d18b6e2c6316ddc1d48a0&amp;amp;id=53e4149068" title="Post sobre Flutter Weekly #34"&gt;Flutter Weekly #34&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="haskell"&gt;Haskell&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/123.html" title="Post sobre Issue 123 :: Haskell Weekly"&gt;Issue 123 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="lisp"&gt;Lisp&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://www.reddit.com/r/Clojure/comments/9d7p0g/clojure_1100alpha7" title="Post sobre Clojure 1.10.0-alpha7"&gt;Clojure 1.10.0-alpha7&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://github.com/clojure-emacs/cider/releases/tag/v0.18.0" title="Post sobre CIDER 0.18 (Saigon)"&gt;CIDER 0.18 (Saigon)&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.clojuriststogether.org/news/august-2018-monthly-update" title="Post sobre August 2018 Monthly Update"&gt;August 2018 Monthly Update&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="resumo-em-2017"&gt;Resumo em 2017&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto" title="Desenvolvimento Ágil com Padrões de Projeto"&gt;Desenvolvimento Ágil com Padrões de Projeto&lt;/a&gt;: início do 5º curso da série Programação Java e Modelagem Ágil por Clovis Fernandes e Eduardo Guerra.&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>Resumo da Semana 35</title>
    <link>http://mdssjc.github.io/blog/2018/09/02/resumo-da-semana-35/?utm_source=semana&amp;utm_medium=RSS</link>
@@ -950,35 +1008,4 @@
 
 &lt;ul&gt;
  &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://orgmode.org/Changes.html" title="Post sobre 9.1.12"&gt;9.1.12 is out&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
-  <item>
-   <title>Resumo da Semana 16</title>
-   <link>http://mdssjc.github.io/blog/2018/04/22/resumo-da-semana-16/?utm_source=semana&amp;utm_medium=RSS</link>
-   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-04-22-resumo-da-semana-16</guid>
-   <pubDate>Sun, 22 Apr 2018 15:00:00 UT</pubDate>
-   <author>Marcelo dos Santos</author>
-   <description>
-&lt;p&gt;Segue o resumo da 16º semana do ano de 2018&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://www.nativescript.org/blog/nativescript-4.0-is-out" title="Post sobre NativeScript 4.0 Is Out!"&gt;NativeScript 4.0 Is Out!&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://docs.gradle.org/4.7/release-notes.html" title="Post sobre Gradle 4.7"&gt;Gradle 4.7&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blog.atom.io/2018/04/18/atom-1-26.html" title="Post sobre Atom 1.26 e Atom 1.27 Beta"&gt;Atom 1.26 e Atom 1.27 Beta&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://ghc.haskell.org/trac/ghc/blog/ghc-8.4.2-released" title="Post sobre GHC 8.4.2 released"&gt;GHC 8.4.2 released&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blog.jetbrains.com/kotlin/2018/04/kotlin-1-2-40-is-out" title="Post sobre Kotlin 1.2.40 is out!"&gt;Kotlin 1.2.40 is out!&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://www.infoq.com/news/2018/04/proposed-schedule-for-jdk-11" title="Post sobre Proposed Schedule for JDK 11"&gt;Proposed Schedule for JDK 11&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blogs.oracle.com/developers/announcing-graalvm" title="Post sobre Announcing GraalVM: Run Programs Faster Anywhere"&gt;Announcing GraalVM: Run Programs Faster Anywhere&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h2 id="artigos"&gt;Artigos&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://dzone.com/articles/nine-steps-of-learning-by-refactoring" title="Artigo sobre Nine Steps of Learning by Refactoring"&gt;Nine Steps of Learning by Refactoring&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://www.rubberducking.com/2018/04/overview-of-clojurescript-110-features.html" title="Artigo sobre Overview of ClojureScript Features"&gt;Overview of ClojureScript Features&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
+ &lt;li&gt;&lt;a href="https://orgmode.org/Changes.html" title="Post sobre 9.1.12"&gt;9.1.12 is out&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
