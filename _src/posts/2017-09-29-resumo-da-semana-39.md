@@ -1,5 +1,5 @@
     Title: Resumo da Semana 39
-    Date: 2017-09-30T12:00:00
+    Date: 2018-09-30T12:00:00
     Tags: resumo, semana
 
 Segue o resumo da 39º semana do ano de 2018...
