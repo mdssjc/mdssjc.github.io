@@ -32,7 +32,7 @@ http://mdssjc.github.io/blog/2018/01/07/resumo-da-semana-1/
 http://mdssjc.github.io/blog/2018/03/04/resumo-da-semana-9/
 http://mdssjc.github.io/blog/2017/11/10/resumo-da-semana-45/
 http://mdssjc.github.io/blog/2018/07/08/resumo-da-semana-27/
-http://mdssjc.github.io/blog/2017/10/06/resumo-da-semana-40/
+http://mdssjc.github.io/blog/2018/10/07/resumo-da-semana-40/
 http://mdssjc.github.io/blog/2017/07/14/cursos-oracle-mooc/
 http://mdssjc.github.io/blog/2018/04/01/resumo-da-semana-13/
 http://mdssjc.github.io/blog/2017/11/24/resumo-da-semana-47/
@@ -51,6 +51,6 @@ http://mdssjc.github.io/blog/2018/02/18/resumo-da-semana-7/
 http://mdssjc.github.io/blog/2018/07/15/resumo-da-semana-28/
 http://mdssjc.github.io/blog/2017/08/22/curso-de-jvm/
 http://mdssjc.github.io/blog/2017/02/24/atualizac%CC%A7a%CC%83o-da-pa%CC%81gina/
-http://mdssjc.github.io/blog/2017/10/13/resumo-da-semana-41/
+http://mdssjc.github.io/blog/2018/10/14/resumo-da-semana-41/
 http://mdssjc.github.io/blog/2017/11/30/resumo-da-semana-48/
 http://mdssjc.github.io/pages/sobre.html
