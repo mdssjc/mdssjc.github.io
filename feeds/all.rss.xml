@@ -4,9 +4,77 @@
   <title>Página MDS: Página MDS</title>
   <description>Página MDS: Página MDS</description>
   <link>http://mdssjc.github.io/index.html</link>
-  <lastBuildDate>Sun, 14 Oct 2018 15:00:00 UT</lastBuildDate>
-  <pubDate>Sun, 14 Oct 2018 15:00:00 UT</pubDate>
+  <lastBuildDate>Sun, 21 Oct 2018 15:00:00 UT</lastBuildDate>
+  <pubDate>Sun, 21 Oct 2018 15:00:00 UT</pubDate>
   <ttl>1800</ttl>
+  <item>
+   <title>Resumo da Semana 42</title>
+   <link>http://mdssjc.github.io/blog/2018/10/21/resumo-da-semana-42/?utm_source=all&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-10-21-resumo-da-semana-42</guid>
+   <pubDate>Sun, 21 Oct 2018 15:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;Segue o resumo da 42º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://blog.angular.io/version-7-of-angular-cli-prompts-virtual-scroll-drag-and-drop-and-more-c594e22e7b8c" title="Post sobre Version 7 of Angular"&gt;Version 7 of Angular&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.postgresql.org/about/news/1894" title="Post sobre PostgreSQL 11 Released!"&gt;PostgreSQL 11 Released!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blogs.msdn.microsoft.com/webdev/2018/10/17/asp-net-core-2-2-0-preview3-now-available" title="Post sobre ASP.NET Core 2.2.0-preview3 now available"&gt;ASP.NET Core 2.2.0-preview3 now available&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="java"&gt;Java&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://spring.io/blog/2018/10/15/spring-framework-5-1-1-5-0-10-and-4-3-20-available-now" title="Post sobre Spring Framework 5.1.1, 5.0.10 and 4.3.20 available now"&gt;Spring Framework 5.1.1, 5.0.10 and 4.3.20 available now&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://spring.io/blog/2018/10/17/spring-boot-2-1-0-rc1-available-now" title="Post sobre Spring Boot 2.1.0 RC1 available now"&gt;Spring Boot 2.1.0 RC1 available now&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://spring.io/blog/2018/10/16/spring-boot-2-0-6" title="Post sobre Spring Boot 2.0.6"&gt;Spring Boot 2.0.6&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://spring.io/blog/2018/10/16/spring-security-5-1-1-5-0-9-and-4-2-9-released" title="Post sobre Spring Security 5.1.1, 5.0.9, and 4.2.9 Released"&gt;Spring Security 5.1.1, 5.0.9, and 4.2.9 Released&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.infoq.com/news/2018/10/the-road-to-micronaut-1.0" title="Post sobre The Road to Micronaut 1.0 - A JVM-Based Full-Stack Framework"&gt;The Road to Micronaut 1.0 - A JVM-Based Full-Stack Framework&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blogs.apache.org/groovy/entry/groovy-2-5-3-released" title="Post sobre Groovy 2.5.3 Released"&gt;Groovy 2.5.3 Released&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2018/10/intellij-idea-2018-2-5-is-released" title="Post sobre IntelliJ IDEA 2018.2.5 is released!"&gt;IntelliJ IDEA 2018.2.5 is released!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/10/android-studio-34-canary-1-available.html" title="Post sobre Android Studio 3.4 Canary 1 available"&gt;Android Studio 3.4 Canary 1 available&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/10/emulator-28013-canary.html" title="Post sobre Emulator 28.0.13 Canary"&gt;Emulator 28.0.13 Canary&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="rust"&gt;Rust&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/10/16/this-week-in-rust-256" title="Post sobre This Week in Rust 256"&gt;This Week in Rust 256&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="haskell"&gt;Haskell&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/129.html" title="Post sobre Issue 129 :: Haskell Weekly"&gt;Issue 129 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://ghc.haskell.org/trac/ghc/blog/ghc-8.4.4-released" title="Post sobre GHC 8.4.4 released"&gt;GHC 8.4.4 released&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://github.com/commercialhaskell/stack/releases/tag/v1.9.1" title="Post sobre Stack v1.9.1"&gt;Stack v1.9.1&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="lisp"&gt;Lisp&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://stat.ethz.ch/pipermail/ess-help/2018-October/011436.html" title="Post sobre ESS 18.10 released"&gt;ESS 18.10 released&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="artigos"&gt;Artigos&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://octoverse.github.com/projects" title="Artigo sobre Projects | The State of the Octoverse"&gt;Projects | The State of the Octoverse&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://snyk.io/blog/jvm-ecosystem-report-2018" title="Artigo sobre JVM Ecosystem Report 2018"&gt;JVM Ecosystem Report 2018&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="repositórios"&gt;Repositórios&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://github.com/k88hudson/git-flight-rules" title="Repositório sobre Flight rules for Git"&gt;Flight rules for Git&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="produtos"&gt;Produtos&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://www.amazon.com/dp/B07CXG6C9W/ref=fs_ods_fs_eink_me" title="Produto sobre Novo Kindle Paperwhite"&gt;Novo Kindle Paperwhite&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="resumo-em-2017"&gt;Resumo em 2017&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://www.amazon.com/dp/B06XD5YCKX/ref=nav_shopall_ods_gno_erd_cg?pf_rd_p=4eeb2af8-4cd3-4b93-b7fc-f8e6e1aa949c&amp;amp;pf_rd_s=nav-sa-kindle-reader&amp;amp;pf_rd_t=4201&amp;amp;pf_rd_i=navbar-4201&amp;amp;pf_rd_m=ATVPDKIKX0DER&amp;amp;pf_rd_r=HTYA82YXNN3Z5W22H7CJ" title="Página do Kindle Oasis 2"&gt;Novo Kindle&lt;/a&gt;: lançado a nova versão do &lt;em&gt;Kindle&lt;/em&gt;, &lt;em&gt;Oasis&lt;/em&gt; 2 - inclusive pela &lt;em&gt;Amazon&lt;/em&gt; do Brasil.&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>Resumo da Semana 41</title>
    <link>http://mdssjc.github.io/blog/2018/10/14/resumo-da-semana-41/?utm_source=all&amp;utm_medium=RSS</link>
@@ -1080,57 +1148,4 @@
 &lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
 
 &lt;ul&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
-  <item>
-   <title>Resumo da Semana 22</title>
-   <link>http://mdssjc.github.io/blog/2018/06/03/resumo-da-semana-22/?utm_source=all&amp;utm_medium=RSS</link>
-   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-06-03-resumo-da-semana-22</guid>
-   <pubDate>Sun, 03 Jun 2018 15:00:00 UT</pubDate>
-   <author>Marcelo dos Santos</author>
-   <description>
-&lt;p&gt;Segue o resumo da 22º semana do ano de 2018&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://www.gnu.org/software/emacs" title="Post sobre Emacs 26.1 - latest release"&gt;Emacs 26.1 - latest release&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://sbcl.org/all-news.html?1.4.8#1.4.8" title="Post sobre Common Lisp - New in version 1.4.8"&gt;Common Lisp - New in version 1.4.8&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blog.rust-lang.org/2018/05/29/Rust-1.26.1.html" title="Post sobre Announcing Rust 1.26.1"&gt;Announcing Rust 1.26.1&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://mailchi.mp/6bf61cae4a70/flutter-weekly-275093" title="Post sobre Flutter Weekly #21"&gt;Flutter Weekly #21&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://github.com/clojure/clojure-clr/releases/tag/clojure-1.9.0" title="Post sobre Clojure-CLR"&gt;Clojure-CLR 1.9.0&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blogs.apache.org/netbeans/entry/announce-apache-netbeans-incubating-91" title="Post sobre [ANNOUNCE] Apache NetBeans (incubating) 9.0 RC1 released"&gt;ANNOUNCE - Apache NetBeans (incubating) 9.0 RC1 released&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/05/29/this-week-in-rust-236" title="Post sobre This Week in Rust 236"&gt;This Week in Rust 236&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blogs.msdn.microsoft.com/webdev/2018/05/30/asp-net-core-2-1-0-now-available" title="Post sobre ASP.NET"&gt;ASP.NET Core 2.1.0 now available&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blogs.msdn.microsoft.com/dotnet/2018/05/30/announcing-net-core-2-1" title="Post sobre Announcing .NET Core 2.1"&gt;Announcing .NET Core 2.1&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://groups.google.com/forum/#!topic/redis-db/9FcwPtutyyQ" title="Post sobre [RELEASE] Redis 5.0 RC1 is out!"&gt;RELEASE - Redis 5.0 RC1 is out!&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://blog.fuseyism.com/index.php/2018/05/30/security-icedtea-2-6-14-for-openjdk-7-released" title="Post sobre [SECURITY] IcedTea 2.6.14 for OpenJDK 7 Released!"&gt;SECURITY - IcedTea 2.6.14 for OpenJDK 7 Released!&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://groovy-lang.org/releasenotes/groovy-2.5.html" title="Post sobre Release notes for Groovy 2.5"&gt;Release notes for Groovy 2.5&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://flutterstudio.app" title="Post sobre Flutter Studio, Version 2"&gt;Flutter Studio, Version 2&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://ghc.haskell.org/trac/ghc/blog/ghc-8.4.3-released" title="Post sobre GHC 8.4.3 released"&gt;GHC 8.4.3 released&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://github.com/gradle/gradle/releases/tag/v4.8.0-RC3" title="Post sobre Gradle 4.8 RC3"&gt;Gradle 4.8 RC3&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://projectlombok.org/changelog" title="Post sobre Lombok v1.16.22 &amp;quot;Envious Ferret&amp;quot;"&gt;Lombok v1.16.22 &amp;ldquo;Envious Ferret&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://griffon-framework.org/news/griffon_2.15.0.html" title="Post sobre Griffon 2.15.0 Released"&gt;Griffon 2.15.0 Released&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blogs.msdn.microsoft.com/typescript/2018/05/31/announcing-typescript-2-9" title="Post sobre Announcing TypeScript 2.9"&gt;Announcing TypeScript 2.9&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://groups.google.com/forum/?hl=pt-BR#!topic/flutter-dev/FTUXoZ7rSHc" title="Post sobre New Flutter tooling release - Updates on Android Studio and IntelliJ plugins"&gt;New Flutter tooling release - Updates on Android Studio and IntelliJ plugins&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://internals.rust-lang.org/t/rust-1-26-2-prelease-testing/7677" title="Post sobre Rust 1.26.2 prelease testing"&gt;Rust 1.26.2 prelease testing&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://guillaumegomez.github.io/this-week-in-rust-docs/blog/this-week-in-rust-docs-107" title="Post sobre This Week in Rust Docs 107"&gt;This Week in Rust Docs 107&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://dartcode.org/releases/v2-13" title="Post sobre Dart Code v2.13.0"&gt;Dart Code v2.13.0&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/109.html" title="Post sobre Issue 109 :: Haskell Weekly"&gt;Issue 109 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h2 id="artigos"&gt;Artigos&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf" title="Artigo sobre [A Tutorial Introduction to the Lambda Calculus]"&gt;A Tutorial Introduction to the Lambda Calculus&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://nullprogram.com/blog/2018/05/31" title="Artigo sobre Emacs 26 Brings Generators and Threads"&gt;Emacs 26 Brings Generators and Threads&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://nullprogram.com/blog/2018/05/27" title="Artigo sobre When FFI Function Calls Beat Native C"&gt;When FFI Function Calls Beat Native C&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://codurance.com/2017/11/09/lambda-calculus-for-mortal-developers" title="Artigo sobre Lambda Calculus for mortal developers"&gt;Lambda Calculus for mortal developers&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://functional.works-hub.com/learn/lmbda-calculus-in-clojure-part-1-4cb7b" title="Artigo sobre Lambda Calculus In Clojure - Part 1"&gt;Lambda Calculus In Clojure - Part 1&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://functional.works-hub.com/learn/lambda-calculus-in-clojure-part-2-09259" title="Artigo sobre Lambda Calculus In Clojure - Part 2"&gt;Lambda Calculus In Clojure - Part 2&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://functional.works-hub.com/learn/the-science-behind-functional-programming-3b060" title="Artigo sobre The Science Behind Functional Programming"&gt;The Science Behind Functional Programming&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://github.com/m-parashar/emax64/releases/tag/20180529" title="Post sobre Emax64 20180529"&gt;Emax64 20180529&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
