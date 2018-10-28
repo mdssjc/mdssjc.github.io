@@ -4,9 +4,62 @@
   <title>Página MDS: Posts tagged 'resumo'</title>
   <description>Página MDS: Posts tagged 'resumo'</description>
   <link>http://mdssjc.github.io/tags/resumo.html</link>
-  <lastBuildDate>Sun, 21 Oct 2018 15:00:00 UT</lastBuildDate>
-  <pubDate>Sun, 21 Oct 2018 15:00:00 UT</pubDate>
+  <lastBuildDate>Sun, 28 Oct 2018 15:00:00 UT</lastBuildDate>
+  <pubDate>Sun, 28 Oct 2018 15:00:00 UT</pubDate>
   <ttl>1800</ttl>
+  <item>
+   <title>Resumo da Semana 43</title>
+   <link>http://mdssjc.github.io/blog/2018/10/28/resumo-da-semana-43/?utm_source=resumo&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-10-28-resumo-da-semana-43</guid>
+   <pubDate>Sun, 28 Oct 2018 15:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;Segue o resumo da 43º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://github.com/LibrePDF/OpenPDF/releases/tag/openpdf-1.2.5" title="Post sobre OpenPDF 1.2.5"&gt;OpenPDF 1.2.5&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://nodejs.org/en/blog/release/v11.0.0" title="Post sobre Node v11.0.0"&gt;Node v11.0.0&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://blog.atom.io/2018/10/23/atom-1-32.html" title="Post sobre Atom 1.32"&gt;Atom 1.32&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="java"&gt;Java&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/10/emulator-28014-canary-32-bit-windows.html" title="Post sobre Emulator 28.0.14 Canary, 32-bit Windows deprecation"&gt;Emulator 28.0.14 Canary, 32-bit Windows deprecation&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/10/android-studio-34-canary-2-available_24.html" title="Post sobre Android Studio 3.4 Canary 2 available"&gt;Android Studio 3.4 Canary 2 available&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="rust"&gt;Rust&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://www.amethyst.rs/blog/twia-12" title="Post sobre This week in Amethyst 12"&gt;This week in Amethyst 12&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.rust-lang.org/2018/10/25/Rust-1.30.0.html" title="Post sobre Announcing Rust 1.30"&gt;Announcing Rust 1.30&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/10/23/this-week-in-rust-257" title="Post sobre This Week in Rust 257"&gt;This Week in Rust 257&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://intellij-rust.github.io/2018/10/22/changelog-85.html" title="Post sobre IntelliJ Rust Changelog #85"&gt;IntelliJ Rust Changelog #85&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="haskell"&gt;Haskell&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/130.html" title="Post sobre Issue 130 :: Haskell Weekly"&gt;Issue 130 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="lisp"&gt;Lisp&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://blog.racket-lang.org/2018/10/racket-v7-1.html" title="Post sobre Racket v7.1"&gt;Racket v7.1&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://clojure.org/community/devchangelog" title="Post sobre Clojure 1.10.0-beta4"&gt;Clojure 1.10.0-beta4&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="artigos"&gt;Artigos&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://twobithistory.org/2018/10/14/lisp.html" title="Artigo sobre How Lisp Became God's Own Programming Language"&gt;How Lisp Became God&amp;rsquo;s Own Programming Language&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://andre.arko.net/2018/10/25/parsing-logs-230x-faster-with-rust" title="Artigo sobre Parsing logs 230x faster with Rust"&gt;Parsing logs 230x faster with Rust&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="resumo-em-2017"&gt;Resumo em 2017&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>Resumo da Semana 42</title>
    <link>http://mdssjc.github.io/blog/2018/10/21/resumo-da-semana-42/?utm_source=resumo&amp;utm_medium=RSS</link>
@@ -1112,40 +1165,4 @@
 &lt;ul&gt;
  &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;
  &lt;li&gt;&lt;a href="https://www.masteringemacs.org/article/whats-new-in-emacs-26-1" title="Post sobre What’s New in Emacs 26.1"&gt;What’s New in Emacs 26.1&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://scripter.co/notes/org-table-spreadsheet" title="Post sobre Org Table Spreadsheet"&gt;Org Table Spreadsheet&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
-  <item>
-   <title>Resumo da Semana 23</title>
-   <link>http://mdssjc.github.io/blog/2018/06/10/resumo-da-semana-23/?utm_source=resumo&amp;utm_medium=RSS</link>
-   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-06-10-resumo-da-semana-23</guid>
-   <pubDate>Sun, 10 Jun 2018 15:00:00 UT</pubDate>
-   <author>Marcelo dos Santos</author>
-   <description>
-&lt;p&gt;Segue o resumo da 23º semana do ano de 2018&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://mailchi.mp/bd20b044cc4c/flutter-weekly-282709?e=4e6d2a4afc" title="Post sobre Flutter Weekly #22"&gt;Flutter Weekly #22&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://webassembly.studio" title="Post sobre WebAssembly Studio"&gt;WebAssembly Studio&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blog.github.com/2018-06-04-github-microsoft" title="Post sobre A bright future for GitHub"&gt;A bright future for GitHub&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://docs.gradle.org/4.8/release-notes.html" title="Post sobre Gradle 4.8 Release Notes"&gt;Gradle 4.8 Release Notes&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://rustwasm.github.io/2018/06/04/this-week-in-rust-wasm-003.html" title="Post sobre This Week in Rust and WebAssembly 003"&gt;This Week in Rust and WebAssembly 003&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blog.eta-lang.org/eta-v0-8-repl-and-metaprogramming-12e900ccfe25" title="Post sobre Eta v0.8 - REPL and Metaprogramming"&gt;Eta v0.8 - REPL and Metaprogramming&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/06/05/this-week-in-rust-237" title="Post sobre This Week in Rust 237"&gt;This Week in Rust 237&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blog.rust-lang.org/2018/06/05/Rust-1.26.2.html" title="Post sobre Announcing Rust 1.26.2"&gt;Announcing Rust 1.26.2&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://code.visualstudio.com/updates/v1_24" title="Post sobre Visual Studio Code - version 1.24"&gt;Visual Studio Code - version 1.24&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://gluonhq.com/new-scene-builder-release-for-java-10" title="Post sobre New Scene Builder Release for Java 10"&gt;New Scene Builder Release for Java 10&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/110.html" title="Post sobre Issue 110 :: Haskell Weekly"&gt;Issue 110 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://projectlombok.org/changelog" title="Post sobre Lombok v1.18.0"&gt;Lombok v1.18.0&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h2 id="artigos"&gt;Artigos&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://www.techempower.com/benchmarks/#section=data-r16" title="Artigo sobre Web Framework Benchmarks - Round 16"&gt;Web Framework Benchmarks - Round 16&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://www.jetbrains.com/research/devecosystem-2018" title="Artigo sobre The State of Developer Ecosystem in 2018"&gt;The State of Developer Ecosystem in 2018&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
+ &lt;li&gt;&lt;a href="https://scripter.co/notes/org-table-spreadsheet" title="Post sobre Org Table Spreadsheet"&gt;Org Table Spreadsheet&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
