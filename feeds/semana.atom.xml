@@ -4,7 +4,57 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/semana.atom.xml" />
  <link href="http://mdssjc.github.io/tags/semana.html" />
  <id>urn:http-mdssjc-github-io:-tags-semana-html</id>
- <updated>2018-11-04T14:00:00Z</updated>
+ <updated>2018-11-11T14:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 45</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/11/11/resumo-da-semana-45/?utm_source=semana&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2018-11-11-resumo-da-semana-45</id>
+  <published>2018-11-11T14:00:00Z</published>
+  <updated>2018-11-11T14:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 45º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://www.ruby-lang.org/en/news/2018/11/06/ruby-2-6-0-preview3-released" title="Post sobre Ruby 2.6.0-preview3 Released"&gt;Ruby 2.6.0-preview3 Released&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="java"&gt;Java&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/11/emulator-28016-canary-and-beta.html" title="Post sobre Emulator 28.0.16 Canary and Beta"&gt;Emulator 28.0.16 Canary and Beta&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/11/android-studio-34-canary-3-available.html" title="Post sobre Android Studio 3.4 Canary 3 available"&gt;Android Studio 3.4 Canary 3 available&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="rust"&gt;Rust&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://blog.rust-lang.org/2018/11/08/Rust-1.30.1.html" title="Post sobre Announcing Rust 1.30.1"&gt;Announcing Rust 1.30.1&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://intellij-rust.github.io/2018/11/07/changelog-86.html" title="Post sobre IntelliJ Rust Changelog #86"&gt;IntelliJ Rust Changelog #86&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/11/06/this-week-in-rust-259" title="Post sobre This Week in Rust 259"&gt;This Week in Rust 259&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.amethyst.rs/blog/twia-13" title="Post sobre This week in Amethyst 13"&gt;This week in Amethyst 13&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="haskell"&gt;Haskell&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/132.html" title="Post sobre Issue 132 :: Haskell Weekly"&gt;Issue 132 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://ghc.haskell.org/trac/ghc/blog/ghc-8.6.2-released" title="Post sobre GHC 8.6.2 released"&gt;GHC 8.6.2 released&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="lisp"&gt;Lisp&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://emacsair.me/2018/11/08/magit-2.90" title="Post sobre Magit 2.90 released"&gt;Magit 2.90 released&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://lists.nongnu.org/archive/html/chicken-users/2018-11/msg00006.html" title="Post sobre CHICKEN 5.0.0 has been released"&gt;CHICKEN 5.0.0 has been released&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://github.com/clojure/clojure/releases/tag/clojure-1.10.0-beta5" title="Post sobre Clojure v1.10.0-beta5"&gt;Clojure v1.10.0-beta5&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://clojurescript.org/news/2018-11-02-release" title="Post sobre ClojureScript 1.10.439 Release"&gt;ClojureScript 1.10.439 Release&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="resumo-em-2017"&gt;Resumo em 2017&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 44</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2018/11/04/resumo-da-semana-44/?utm_source=semana&amp;utm_medium=Atom" />
@@ -1141,55 +1191,4 @@
 &lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
 
 &lt;ul&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
- <entry>
-  <title type="text">Resumo da Semana 25</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/06/24/resumo-da-semana-25/?utm_source=semana&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2018-06-24-resumo-da-semana-25</id>
-  <published>2018-06-24T15:00:00Z</published>
-  <updated>2018-06-24T15:00:00Z</updated>
-  <author>
-   <name>Marcelo dos Santos</name></author>
-  <content type="html">
-&lt;p&gt;Segue o resumo da 25º semana do ano de 2018&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://spacevim.org/SpaceVim-release-v0.8.0" title="Post sobre SpaceVim release v0.8.0"&gt;SpaceVim release v0.8.0&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://gradle.com/enterprise/releases/2018.3?utm_source=twitter&amp;amp;utm_medium=social&amp;amp;utm_campaign=ge-2018-3" title="Post sobre Gradle Enterprise 2018.3"&gt;Gradle Enterprise 2018.3&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://github.com/gradle/gradle/releases/tag/v4.8.1" title="Post sobre Gradle 4.8.1"&gt;Gradle 4.8.1&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blog.atom.io/2018/06/21/atom-1-28.html" title="Post sobre Atom 1.28"&gt;Atom 1.28&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://electronjs.org/releases#3.0.0-beta.1" title="Post sobre Electron 3.0.0-beta.1"&gt;Electron 3.0.0-beta.1&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://www.erlang.org/news/123" title="Post sobre Erlang OTP 21.0 is released"&gt;Erlang OTP 21.0 is released&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="rust"&gt;Rust&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://blog.rust-lang.org/2018/06/21/Rust-1.27.html" title="Post sobre Announcing Rust 1.27"&gt;Announcing Rust 1.27&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://internals.rust-lang.org/t/1-27-0-prerelease-testing/7761" title="Post sobre 1.27.0"&gt;1.27.0 prerelease testing&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/06/19/this-week-in-rust-239" title="Post sobre This Week in Rust 239"&gt;This Week in Rust 239&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://internals.rust-lang.org/t/rust-2018-an-early-preview/7776" title="Post sobre Rust 2018: an early preview"&gt;Rust 2018: an early preview&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="dartflutter"&gt;Dart/Flutter&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://groups.google.com/forum/?hl=pt-BR#!topic/flutter-dev/so8AVtlrFPI" title="Post sobre Beta Update (v0.5.1)"&gt;Beta Update (v0.5.1)&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://medium.com/flutter-io/flutter-release-preview-1-943a9b6ee65a" title="Post sobre Announcing Flutter Release Preview 1"&gt;Announcing Flutter Release Preview 1&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="haskell"&gt;Haskell&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/112.html" title="Post sobre Issue 112 :: Haskell Weekly"&gt;Issue 112 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="clojure"&gt;Clojure&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://github.com/clojure/clojurescript/blob/master/changes.md" title="Post sobre Clojure Script 1.10.329"&gt;Clojure Script 1.10.329&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h2 id="emacs"&gt;Emacs&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://github.com/m-parashar/emax64/releases" title="Post sobre Emax64 - pdumper-20180619"&gt;Emax64 - pdumper&amp;ndash;20180619&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
