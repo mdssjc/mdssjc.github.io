@@ -4,7 +4,49 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/all.atom.xml" />
  <link href="http://mdssjc.github.io/index.html" />
  <id>urn:http-mdssjc-github-io:-index-html</id>
- <updated>2018-12-16T14:00:00Z</updated>
+ <updated>2018-12-23T14:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 51</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/12/23/resumo-da-semana-51/?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2018-12-23-resumo-da-semana-51</id>
+  <published>2018-12-23T14:00:00Z</published>
+  <updated>2018-12-23T14:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 51º semana do ano de 2018&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://electronjs.org/blog/electron-4-0" title="Post sobre Electron 4.0.0"&gt;Electron 4.0.0&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="java"&gt;Java&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://www.eclipse.org/eclipse/news/4.10" title="Post sobre Eclipse 4.10"&gt;Eclipse 4.10&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2018/12/intellij-idea-2018-3-2-is-released" title="Post sobre IntelliJ IDEA 2018.3.2 is released!"&gt;IntelliJ IDEA 2018.3.2 is released!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/12/emulator-28022-stable.html" title="Post sobre Emulator 28.0.22 Stable"&gt;Emulator 28.0.22 Stable&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/12/android-studio-33-release-candidate-3.html" title="Post sobre Android Studio 3.3 Release Candidate 3 available"&gt;Android Studio 3.3 Release Candidate 3 available&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="rust"&gt;Rust&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://blog.rust-lang.org/2018/12/20/Rust-1.31.1.html" title="Post sobre Announcing Rust 1.31.1"&gt;Announcing Rust 1.31.1&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/12/18/this-week-in-rust-265" title="Post sobre This Week in Rust 265"&gt;This Week in Rust 265&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.rust-lang.org/2018/12/17/Rust-2018-dev-tools.html" title="Post sobre Tools in the 2018 edition"&gt;Tools in the 2018 edition&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="haskell"&gt;Haskell&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/138.html" title="Post sobre Issue 138 :: Haskell Weekly"&gt;Issue 138 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="lisp"&gt;Lisp&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://clojure.org/news/2018/12/17/clojure110" title="Post sobre Clojure 1.10 release"&gt;Clojure 1.10 release&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 50</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2018/12/16/resumo-da-semana-50/?utm_source=all&amp;utm_medium=Atom" />
@@ -1110,68 +1152,4 @@
 &lt;ul&gt;
  &lt;li&gt;&lt;a href="http://natureofcode.com" title="Nature of Code"&gt;Nature of Code&lt;/a&gt;: livro sobre programação criativa utilizando a linguagem &lt;em&gt;Processing&lt;/em&gt;.&lt;/li&gt;
  &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:11342201462029::NO:RP,149:P149_EVENT_ID,P149_PREV_PAGE:5528,2" title="Página de matrícula do curso"&gt;Oracle MOOC: Introduction to Java Cloud Services&lt;/a&gt;: início do curso.&lt;/li&gt;&lt;/ul&gt;</content></entry>
- <entry>
-  <title type="text">Resumo da Semana 31</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/08/05/resumo-da-semana-31/?utm_source=all&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2018-08-05-resumo-da-semana-31</id>
-  <published>2018-08-05T15:00:00Z</published>
-  <updated>2018-08-05T15:00:00Z</updated>
-  <author>
-   <name>Marcelo dos Santos</name></author>
-  <content type="html">
-&lt;p&gt;Segue o resumo da 31º semana do ano de 2018&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://blog.atom.io/2018/07/31/atom-1-29.html" title="Post sobre Atom 1.29"&gt;Atom 1.29&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://spectrum.ieee.org/at-work/innovation/the-2018-top-programming-languages" title="Post sobre The 2018 Top Programming Languages"&gt;The 2018 Top Programming Languages&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://spectrum.ieee.org/static/interactive-the-top-programming-languages-2018" title="Post sobre Interactive: The Top Programming Languages 201"&gt;Interactive: The Top Programming Languages 201&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="java"&gt;Java&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:50:0:::50:P50_EVENT_ID,P50_COURSE_ID:5777,185" title="Post sobre Java Virtual Machine Troubleshooting"&gt;Java Virtual Machine Troubleshooting&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://netbeans.apache.org/download/nb90/nb90.html" title="Post sobre Apache NetBeans 9.0 Release"&gt;Apache NetBeans 9.0 Release&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://github.com/jbloch/effective-java-3e-source-code" title="Post sobre The source code from the third edition of Effective Java"&gt;The source code from the third edition of Effective Java&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/08/emulator-2802-canary.html" title="Post sobre Emulator 28.0.2 Canary"&gt;Emulator 28.0.2 Canary&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/08/android-studio-33-canary-4-available.html" title="Post sobre Android Studio 3.3 Canary 4 available"&gt;Android Studio 3.3 Canary 4 available&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="kotlin"&gt;Kotlin&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://blog.jetbrains.com/kotlin/2018/08/kotlin-1-2-60-is-out" title="Post sobre Kotlin 1.2.60 is out!"&gt;Kotlin 1.2.60 is out!&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="rust"&gt;Rust&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://blog.rust-lang.org/2018/08/02/Rust-1.28.html" title="Post sobre Announcing Rust 1.28"&gt;Announcing Rust 1.28&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://internals.rust-lang.org/t/2018-edition-end-of-week-post-2018-08-04/8123" title="Post sobre 2018 Edition End of Week Post (2018-08-04)"&gt;2018 Edition End of Week Post (2018&amp;ndash;08&amp;ndash;04)&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/07/31/this-week-in-rust-245" title="Post sobre This Week in Rust 245"&gt;This Week in Rust 245&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://rustwasm.github.io/2018/08/01/this-week-in-rust-wasm-005.html" title="Post sobre This Week in Rust and WebAssembly 005"&gt;This Week in Rust and WebAssembly 005&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="dartflutter"&gt;Dart/Flutter&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://us17.campaign-archive.com/?u=c8d8d18b6e2c6316ddc1d48a0&amp;amp;id=d332860db2" title="Post sobre Flutter Weekly #30"&gt;Flutter Weekly #30&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://dartcode.org/releases/v2-17" title="Post sobre Dart Code v2.17.1"&gt;Dart Code v2.17.1&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="haskell"&gt;Haskell&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/118.html" title="Post sobre Issue 118 :: Haskell Weekly"&gt;Issue 118 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="lisp"&gt;Lisp&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://groups.google.com/forum/?#!topic/clojure/3rLfUwG2FdM" title="Post sobre (ANN) nREPL 0.4.4 released with improved support for clj"&gt;(ANN) nREPL 0.4.4 released with improved support for clj&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://www.reddit.com/r/Clojure/comments/94hkp2/ciders_master_018snapshot_is_now_compatible_with" title="Post sobre CIDER's master (0.18-snapshot) is now compatible with nREPL 0.4!"&gt;CIDER&amp;rsquo;s master (0.18-snapshot) is now compatible with nREPL 0.4!&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h2 id="resumo-em-2017"&gt;Resumo em 2017&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://12factor.net/" title="The Twelve-Factor App"&gt;The Twelve-Factor App&lt;/a&gt;: princípios para o desenvolvimento de aplicações na arquitetura &lt;em&gt;microservices&lt;/em&gt;, em vários idiomas.&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blog.racket-lang.org/2017/07/racket-v6-10.html" title="Racket"&gt;Racket&lt;/a&gt;: lançada a versão 6.10 da linguagem &lt;em&gt;Racket&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
+ &lt;li&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:11342201462029::NO:RP,149:P149_EVENT_ID,P149_PREV_PAGE:5528,2" title="Página de matrícula do curso"&gt;Oracle MOOC: Introduction to Java Cloud Services&lt;/a&gt;: início do curso.&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
