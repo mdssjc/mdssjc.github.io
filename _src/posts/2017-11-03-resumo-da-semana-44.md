@@ -1,5 +1,5 @@
     Title: Resumo da Semana 44
-    Date: 2018-11-04T12:00:00
+    Date: 2018-11-05T12:00:00
     Tags: resumo, semana
 
 Segue o resumo da 44º semana do ano de 2018...
