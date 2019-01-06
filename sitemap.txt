@@ -6,7 +6,7 @@ http://mdssjc.github.io/blog/2018/03/25/resumo-da-semana-12/
 http://mdssjc.github.io/blog/2017/08/01/curso-de-haskell/
 http://mdssjc.github.io/blog/2018/12/30/resumo-da-semana-52/
 http://mdssjc.github.io/blog/2018/04/22/resumo-da-semana-16/
-http://mdssjc.github.io/blog/2018/11/04/resumo-da-semana-44/
+http://mdssjc.github.io/blog/2018/11/05/resumo-da-semana-44/
 http://mdssjc.github.io/blog/2018/06/17/resumo-da-semana-24/
 http://mdssjc.github.io/blog/2018/12/23/resumo-da-semana-51/
 http://mdssjc.github.io/blog/2018/02/25/resumo-da-semana-8/
@@ -16,6 +16,7 @@ http://mdssjc.github.io/blog/2018/09/30/resumo-da-semana-39/
 http://mdssjc.github.io/blog/2018/04/15/resumo-da-semana-15/
 http://mdssjc.github.io/blog/2018/03/11/cursos-da-oracle-mooc/
 http://mdssjc.github.io/blog/2018/07/29/resumo-da-semana-30/
+http://mdssjc.github.io/blog/2019/01/06/emacs-parte-i-instalac%CC%A7a%CC%83o/
 http://mdssjc.github.io/blog/2018/03/11/resumo-da-semana-10/
 http://mdssjc.github.io/blog/2018/04/08/resumo-da-semana-14/
 http://mdssjc.github.io/blog/2018/09/02/resumo-da-semana-35/
@@ -31,7 +32,7 @@ http://mdssjc.github.io/blog/2018/02/04/resumo-da-semana-5/
 http://mdssjc.github.io/blog/2018/01/28/resumo-da-semana-4/
 http://mdssjc.github.io/blog/2018/03/18/resumo-da-semana-11/
 http://mdssjc.github.io/blog/2018/08/12/resumo-da-semana-32/
-http://mdssjc.github.io/blog/2018/01/07/resumo-da-semana-1/
+http://mdssjc.github.io/blog/2019/01/06/resumo-da-semana-1/
 http://mdssjc.github.io/blog/2018/03/04/resumo-da-semana-9/
 http://mdssjc.github.io/blog/2018/11/11/resumo-da-semana-45/
 http://mdssjc.github.io/blog/2018/07/08/resumo-da-semana-27/
