@@ -4,9 +4,61 @@
   <title>Página MDS: Posts tagged 'semana'</title>
   <description>Página MDS: Posts tagged 'semana'</description>
   <link>http://mdssjc.github.io/tags/semana.html</link>
-  <lastBuildDate>Sun, 27 Jan 2019 14:00:00 UT</lastBuildDate>
-  <pubDate>Sun, 27 Jan 2019 14:00:00 UT</pubDate>
+  <lastBuildDate>Sun, 03 Feb 2019 14:00:00 UT</lastBuildDate>
+  <pubDate>Sun, 03 Feb 2019 14:00:00 UT</pubDate>
   <ttl>1800</ttl>
+  <item>
+   <title>Resumo da Semana 5</title>
+   <link>http://mdssjc.github.io/blog/2019/02/03/resumo-da-semana-5/?utm_source=semana&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2019-02-03-resumo-da-semana-5</guid>
+   <pubDate>Sun, 03 Feb 2019 14:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;Segue o resumo da 5º semana do ano de 2019&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://blogs.msdn.microsoft.com/typescript/2019/01/31/announcing-typescript-3-3" title="Post sobre Announcing TypeScript 3.3"&gt;Announcing TypeScript 3.3&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://crystal-lang.org/2019/01/30/crystal-0.27.1-released.html" title="Post sobre Crystal 0.27.1 released!"&gt;Crystal 0.27.1 released!&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="java"&gt;Java&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://dmitrykornilov.net/2019/01/29/eclipse-glassfish-5-1-is-released" title="Post sobre Eclipse GlassFish 5.1 is released"&gt;Eclipse GlassFish 5.1 is released&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.playframework.com/play-2-7-0-is-here" title="Post sobre Play 2.7.0 is here!"&gt;Play 2.7.0 is here!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2019/02/java-annotated-monthly-february-2019" title="Post sobre Java Annotated Monthly - February 2019"&gt;Java Annotated Monthly - February 2019&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2019/01/intellij-idea-2018-3-4-is-released" title="Post sobre IntelliJ IDEA 2018.3.4 is released!"&gt;IntelliJ IDEA 2018.3.4 is released!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2019/01/emulator-28023-stable.html" title="Post sobre Emulator 28.0.23 Stable"&gt;Emulator 28.0.23 Stable&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="rust"&gt;Rust&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2019/01/29/this-week-in-rust-271" title="Post sobre This Week in Rust 271"&gt;This Week in Rust 271&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://intellij-rust.github.io/2019/01/30/changelog-91.html" title="Post sobre IntelliJ Rust Changelog #91"&gt;IntelliJ Rust Changelog #91&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="haskell"&gt;Haskell&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/144.html" title="Post sobre Issue 144 :: Haskell Weekly"&gt;Issue 144 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="lisp"&gt;Lisp&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://blog.racket-lang.org/2019/01/racket-v7-2.html" title="Post sobre Racket v7.2"&gt;Racket v7.2&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.racket-lang.org/2019/01/racket-on-chez-status.html" title="Post sobre Racket-on-Chez Status: January 2019"&gt;Racket-on-Chez Status: January 2019&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://clojurescript.org/news/2019-01-31-release" title="Post sobre ClojureScript 1.10.516 Release"&gt;ClojureScript 1.10.516 Release&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="resumo-em-2018"&gt;Resumo em 2018&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://drive.google.com/file/d/1Wke3lOHFnPTJhT5GO3gSHo_3TJ0o0TY2/view" title="Slides do livro Effective Java, 3rd"&gt;Slides do livro Effective Java, 3rd&lt;/a&gt;: Joshua Bloch compartilhou os &lt;em&gt;slides&lt;/em&gt; de seu novo livro para a comunidade.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://www.javamagazine.mozaicreader.com/JanFeb2018" title="Página da revista Java Magazine"&gt;Java Magazine&lt;/a&gt;: edição de Fevereiro da revista &lt;em&gt;Java Magazine&lt;/em&gt;.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blogs.msdn.microsoft.com/typescript/2018/01/31/announcing-typescript-2-7" title="Post sobre o TypeScript 2.7"&gt;TypeScript 2.7&lt;/a&gt;: anúncio da nova versão do &lt;em&gt;TypeScript&lt;/em&gt;.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://spring.io/blog/2018/01/31/spring-boot-2-0-0-rc1-available-now" title="Post sobre o Spring Boot 2"&gt;Spring Boot 2.0.0 RC1&lt;/a&gt;: anúncio da nova versão do &lt;em&gt;Spring Boot 2&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>Resumo da Semana 4</title>
    <link>http://mdssjc.github.io/blog/2019/01/27/resumo-da-semana-4/?utm_source=semana&amp;utm_medium=RSS</link>
@@ -996,74 +1048,4 @@
  &lt;li&gt;
   &lt;p&gt;&lt;a href="https://github.com/emacs-mirror/emacs/commit/977cd6cb28a37744966ec62f70cf62659f6f302a" title="Increment Emacs version to 27.0.50"&gt;Increment Emacs version to 27.0.50&lt;/a&gt;: nova versão do &lt;em&gt;Emacs&lt;/em&gt; a caminho.&lt;/p&gt;&lt;/li&gt;
  &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://oracle.com/javadownload" title="Java 9"&gt;Java 9&lt;/a&gt;: lançamento da versão 9 do &lt;em&gt;Java&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
-  <item>
-   <title>Resumo da Semana 37</title>
-   <link>http://mdssjc.github.io/blog/2018/09/16/resumo-da-semana-37/?utm_source=semana&amp;utm_medium=RSS</link>
-   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-09-16-resumo-da-semana-37</guid>
-   <pubDate>Sun, 16 Sep 2018 15:00:00 UT</pubDate>
-   <author>Marcelo dos Santos</author>
-   <description>
-&lt;p&gt;Segue o resumo da 37º semana do ano de 2018&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://blogs.msdn.microsoft.com/dotnet/2018/09/12/announcing-net-core-2-2-preview-2" title="Post sobre Announcing .NET Core 2.2 Preview 2"&gt;Announcing .NET Core 2.2 Preview 2&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://sqlite.org/releaselog/3_25_0.html" title="Post sobre SQLite Release 3.25.0"&gt;SQLite Release 3.25.0&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blog.github.com/2018-09-10-highlights-from-git-2-19" title="Post sobre Highlights from Git 2.19"&gt;Highlights from Git 2.19&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="java"&gt;Java&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://github.com/kevinrushforth/openjdk-jfx/blob/c6236ea9037da599efb6142ccbf9f0a739ae164b/doc-files/release-notes-11.md" title="Post sobre Release Notes for JavaFX 11"&gt;Release Notes for JavaFX 11&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://spring.io/blog/2018/09/12/spring-boot-2-0-5" title="Post sobre Spring Boot 2.0.5"&gt;Spring Boot 2.0.5&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/09/emulator-2808-canary.html" title="Post sobre Emulator 28.0.8 Canary"&gt;Emulator 28.0.8 Canary&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/09/android-studio-33-canary-10-available.html" title="Post sobre Android Studio 3.3 Canary 10 available"&gt;Android Studio 3.3 Canary 10 available&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="kotlin"&gt;Kotlin&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://blog.jetbrains.com/kotlin/2018/09/kotlin-1-2-70-is-out" title="Post sobre Kotlin 1.2.70 is Out!"&gt;Kotlin 1.2.70 is Out!&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="rust"&gt;Rust&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://blog.rust-lang.org/2018/09/13/Rust-1.29.html" title="Post sobre Announcing Rust 1.29"&gt;Announcing Rust 1.29&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/09/11/this-week-in-rust-251" title="Post sobre This Week in Rust 251"&gt;This Week in Rust 251&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://intellij-rust.github.io/2018/09/13/changelog-82.html" title="Post sobre IntelliJ Rust Changelog #82"&gt;IntelliJ Rust Changelog #82&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://github.com/BurntSushi/ripgrep/releases/tag/0.10.0" title="Post sobre Ripgrep 0.10.0 released (PCRE2 and multi-line support)"&gt;Ripgrep 0.10.0 released (PCRE2 and multi-line support)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="haskell"&gt;Haskell&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/124.html" title="Post sobre Issue 124 :: Haskell Weekly"&gt;Issue 124 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="lisp"&gt;Lisp&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://groups.google.com/forum/?#!topic/clojure/h3ANsJMcnto" title="Post sobre (ANN) Clojure 1.10.0-alpha8"&gt;(ANN) Clojure 1.10.0-alpha8&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://groups.google.com/forum/?#!topic/clojure/IBCNmnMZ9X0" title="Post sobre (ANN) org.clojure/tools.cli 0.4.0"&gt;(ANN) org.clojure/tools.cli 0.4.0&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://groups.google.com/forum/?#!topic/clojure/Ay3eRBZcl_" title="Post sobre (ANN) tools.deps.alpha 0.5.452 and clj 1.9.0.394"&gt;(ANN) tools.deps.alpha 0.5.452 and clj 1.9.0.394&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://github.com/boot-clj/boot/releases/tag/2.8.2" title="Post sobre Boot 2.8.2"&gt;Boot 2.8.2&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h2 id="artigos"&gt;Artigos&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://crate.io/a/on-writing-beautiful-tests" title="Artigo sobre On Writing Beautiful Tests"&gt;On Writing Beautiful Tests&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h2 id="resumo-em-2017"&gt;Resumo em 2017&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;strong&gt;Understanding Classes in Java&lt;/strong&gt;: série de artigos sobre o funcionamento semântico das classes para o paradigma orientado a objetos com &lt;em&gt;Java&lt;/em&gt;, por Justin Albano.
-  &lt;ul&gt;
-   &lt;li&gt;&lt;a href="https://dzone.com/articles/understanding-classes-in-java-part-1" title="Parte 1"&gt;Parte 1&lt;/a&gt;&lt;/li&gt;
-   &lt;li&gt;&lt;a href="https://dzone.com/articles/understanding-classes-in-java-part-2" title="Parte 2"&gt;Parte 2&lt;/a&gt;&lt;/li&gt;
-   &lt;li&gt;&lt;a href="https://dzone.com/articles/understanding-classes-in-java-part-3" title="Parte 3"&gt;Parte 3&lt;/a&gt;&lt;/li&gt;
-   &lt;li&gt;&lt;a href="https://dzone.com/articles/understanding-classes-in-java-part-4" title="Parte 4"&gt;Parte 4&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://blog.racket-lang.org/2017/09/racket-v6-10-1.html" title="Racket v6.10.1 has been released!"&gt;Racket v6.10.1 has been released!&lt;/a&gt;: versão de correção do &lt;em&gt;Racket&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
- &lt;li&gt;
-  &lt;p&gt;&lt;a href="http://blog.atom.io/2017/09/12/atom-1-20.html" title="Atom 1.20"&gt;Atom 1.20 e 1.21 Beta&lt;/a&gt;: nova versão do &lt;em&gt;Atom&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
+  &lt;p&gt;&lt;a href="http://oracle.com/javadownload" title="Java 9"&gt;Java 9&lt;/a&gt;: lançamento da versão 9 do &lt;em&gt;Java&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
