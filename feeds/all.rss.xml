@@ -4,9 +4,51 @@
   <title>Página MDS: Página MDS</title>
   <description>Página MDS: Página MDS</description>
   <link>http://mdssjc.github.io/index.html</link>
-  <lastBuildDate>Sun, 03 Feb 2019 14:00:00 UT</lastBuildDate>
-  <pubDate>Sun, 03 Feb 2019 14:00:00 UT</pubDate>
+  <lastBuildDate>Sun, 10 Feb 2019 14:00:00 UT</lastBuildDate>
+  <pubDate>Sun, 10 Feb 2019 14:00:00 UT</pubDate>
   <ttl>1800</ttl>
+  <item>
+   <title>Resumo da Semana 6</title>
+   <link>http://mdssjc.github.io/blog/2019/02/10/resumo-da-semana-6/?utm_source=all&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2019-02-10-resumo-da-semana-6</guid>
+   <pubDate>Sun, 10 Feb 2019 14:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;Segue o resumo da 6º semana do ano de 2019&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://us17.campaign-archive.com/?u=c8d8d18b6e2c6316ddc1d48a0&amp;amp;id=9e996cb96b" title="Post sobre Flutter Weekly #44"&gt;Flutter Weekly #44&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://medium.com/the-vue-point/vue-2-6-released-66aa6c8e785e" title="Post sobre Vue 2.6 released"&gt;Vue 2.6 released&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="java"&gt;Java&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://www.jworks.io/whats-new-in-junit-5-4" title="Post sobre What’s new in JUnit 5.4"&gt;What’s new in JUnit 5.4&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2019/02/android-studio-331-available.html" title="Post sobre Android Studio 3.3.1 available"&gt;Android Studio 3.3.1 available&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="rust"&gt;Rust&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2019/02/05/this-week-in-rust-272" title="Post sobre This Week in Rust 272"&gt;This Week in Rust 272&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="haskell"&gt;Haskell&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/145.html" title="Post sobre Issue 145 :: Haskell Weekly"&gt;Issue 145 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="emacs"&gt;Emacs&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://clojure.org/news/2019/02/04/state-of-clojure-2019" title="Post sobre State of Clojure 2019 Results"&gt;State of Clojure 2019 Results&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="resumo-em-2018"&gt;Resumo em 2018&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>Resumo da Semana 5</title>
    <link>http://mdssjc.github.io/blog/2019/02/03/resumo-da-semana-5/?utm_source=all&amp;utm_medium=RSS</link>
@@ -970,64 +1012,4 @@ sudo make install&lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id="resumo-em-2017"&gt;Resumo em 2017&lt;/h2&gt;
 
 &lt;ul&gt;
- &lt;li&gt;&lt;a href="https://con.racket-lang.org" title="Página do (seventh RacketCon)"&gt;(seventh RacketCon)&lt;/a&gt;: nos dias 7 e 8 de Outubro acontece o maior evento de &lt;em&gt;Racket&lt;/em&gt; - transmissão pelo &lt;em&gt;YouTube&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</description></item>
-  <item>
-   <title>Resumo da Semana 39</title>
-   <link>http://mdssjc.github.io/blog/2018/09/30/resumo-da-semana-39/?utm_source=all&amp;utm_medium=RSS</link>
-   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-09-30-resumo-da-semana-39</guid>
-   <pubDate>Sun, 30 Sep 2018 15:00:00 UT</pubDate>
-   <author>Marcelo dos Santos</author>
-   <description>
-&lt;p&gt;Segue o resumo da 39º semana do ano de 2018&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://github.com/scala/scala/releases/tag/v2.12.7" title="Post sobre Scala 2.12.7"&gt;Scala 2.12.7&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://nim-lang.org/blog/2018/09/26/version-0190-released.html" title="Post sobre Nim - Version 0.19.0 released"&gt;Nim - Version 0.19.0 released&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blogs.msdn.microsoft.com/typescript/announcing-typescript-3-1" title="Post sobre Announcing TypeScript 3.1"&gt;Announcing TypeScript 3.1&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://spacevim.org/SpaceVim-release-v0.9.0/#.W6uSRQJFYGU.reddit" title="Post sobre SpaceVim release v0.9.0"&gt;SpaceVim release v0.9.0&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="java"&gt;Java&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://jdk.java.net/11/release-notes" title="Post sobre JDK 11 Release Notes"&gt;JDK 11 Release Notes&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/09/emulator-28010-canary.html" title="Post sobre Emulator 28.0.10 Canary"&gt;Emulator 28.0.10 Canary&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/09/android-studio-33-canary-12-available.html" title="Post sobre Android Studio 3.3 Canary 12 available"&gt;Android Studio 3.3 Canary 12 available&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="rust"&gt;Rust&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://blog.rust-lang.org/2018/09/25/Rust-1.29.1.html" title="Post sobre Announcing Rust 1.29.1"&gt;Announcing Rust 1.29.1&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/09/25/this-week-in-rust-253" title="Post sobre This Week in Rust 253"&gt;This Week in Rust 253&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://intellij-rust.github.io/2018/09/26/changelog-83.html" title="Post sobre IntelliJ Rust Changelog #83"&gt;IntelliJ Rust Changelog #83&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="dartflutter"&gt;Dart/Flutter&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://dartcode.org/releases/v2-19" title="Post sobre Dart Code v2.19.0"&gt;Dart Code v2.19.0&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="haskell"&gt;Haskell&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/126.html" title="Post sobre Issue 126 :: Haskell Weekly"&gt;Issue 126 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="lisp"&gt;Lisp&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="http://www.sbcl.org/all-news.html?1.4.12#1.4.12" title="Post sobre SBCL - New in version 1.4.12"&gt;SBCL - New in version 1.4.12&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h2 id="repositórios"&gt;Repositórios&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://github.com/Microsoft/MS-DOS" title="Repositório sobre The original sources of MS-DOS 1.25 and 2.0, for reference purposes"&gt;The original sources of MS-DOS 1.25 and 2.0, for reference purposes&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h2 id="resumo-em-2017"&gt;Resumo em 2017&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:123367777931100:::149:P149_EVENT_ID,P149_PREV_PAGE:5480,147" title="Página de matrícula do curso"&gt;Oracle MOOC: Introduction to NodeJS Using Oracle Cloud&lt;/a&gt;: curso básico de &lt;em&gt;NodeJS&lt;/em&gt;.&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:123367777931100:::149:P149_EVENT_ID,P149_PREV_PAGE:5571,147" title="Página de matrícula do curso"&gt;Oracle MOOC: PL/SQL Fundamentals&lt;/a&gt;: curso básico de &lt;em&gt;PL/SQL&lt;/em&gt;.&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:123367777931100:::149:P149_EVENT_ID,P149_PREV_PAGE:5616,147" title="Página de matrícula do curso"&gt;Oracle MOOC: Developing Chatbots with Oracle Intelligent Bots&lt;/a&gt;: curso sobre &lt;em&gt;chatbots&lt;/em&gt;.&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://apexapps.oracle.com/pls/apex/f?p=44785:149:123367777931100:::149:P149_EVENT_ID,P149_PREV_PAGE:5610,147" title="Página de matrícula do curso"&gt;Oracle MOOC: Java Coding &amp;amp; Concepts with a Game (Session 2)&lt;/a&gt;: segunda turma do curso básico de &lt;em&gt;Java&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
+ &lt;li&gt;&lt;a href="https://con.racket-lang.org" title="Página do (seventh RacketCon)"&gt;(seventh RacketCon)&lt;/a&gt;: nos dias 7 e 8 de Outubro acontece o maior evento de &lt;em&gt;Racket&lt;/em&gt; - transmissão pelo &lt;em&gt;YouTube&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
