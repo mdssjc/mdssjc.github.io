@@ -4,7 +4,66 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/semana.atom.xml" />
  <link href="http://mdssjc.github.io/tags/semana.html" />
  <id>urn:http-mdssjc-github-io:-tags-semana-html</id>
- <updated>2019-02-24T15:00:00Z</updated>
+ <updated>2019-03-03T15:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 9</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2019/03/03/resumo-da-semana-9/?utm_source=semana&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2019-03-03-resumo-da-semana-9</id>
+  <published>2019-03-03T15:00:00Z</published>
+  <updated>2019-03-03T15:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 9º semana do ano de 2019&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h3 id="novidades"&gt;Novidades&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://emberjs.com/blog/2019/02/27/ember-3-8-released.html" title="Post sobre Ember 3.8 Released"&gt;Ember 3.8 Released&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.gnu.org/software/octave/news/release/2019/03/01/octave-5.1-released.html" title="Post sobre GNU Octave 5.1.0 Released"&gt;GNU Octave 5.1.0 Released&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://golang.org/doc/go1.12" title="Post sobre Go 1.12 Release Notes"&gt;Go 1.12 Release Notes&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="java"&gt;Java&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://javalin.io/news/2019/03/02/javalin-2.7.0-released.html" title="Post sobre Javalin 2.7.0 released"&gt;Javalin 2.7.0 released&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2019/02/intellij-idea-2018-3-5-is-out" title="Post sobre IntelliJ IDEA 2018.3.5 is out!"&gt;IntelliJ IDEA 2018.3.5 is out!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2019/03/emulator-2819-canary.html" title="Post sobre Emulator 28.1.9 Canary"&gt;Emulator 28.1.9 Canary&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="dartflutter"&gt;Dart/Flutter&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://medium.com/dartlang/announcing-dart-2-2-faster-native-code-support-for-set-literals-7e2ab19cc86d" title="Post sobre Announcing Dart 2.2: Faster native code, support for set literals"&gt;Announcing Dart 2.2: Faster native code, support for set literals&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://developers.googleblog.com/2019/02/launching-flutter-12-at-mobile-world.html" title="Post sobre Launching Flutter 1.2 at Mobile World Congress"&gt;Launching Flutter 1.2 at Mobile World Congress&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://us17.campaign-archive.com/?u=c8d8d18b6e2c6316ddc1d48a0&amp;amp;id=7a58b38137" title="Post sobre Flutter Weekly #47"&gt;Flutter Weekly #47&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://us17.campaign-archive.com/?u=c8d8d18b6e2c6316ddc1d48a0&amp;amp;id=403ad6fe0d" title="Post sobre Flutter Weekly #48"&gt;Flutter Weekly #48&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="rust"&gt;Rust&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://blog.rust-lang.org/2019/02/28/Rust-1.33.0.html" title="Post sobre Announcing Rust 1.33.0"&gt;Announcing Rust 1.33.0&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2019/02/26/this-week-in-rust-275" title="Post sobre This Week in Rust 275"&gt;This Week in Rust 275&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://rustwasm.github.io/2019/02/28/this-week-in-rust-and-wasm-012.html" title="Post sobre This Week in Rust and WebAssembly 12"&gt;This Week in Rust and WebAssembly 12&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="haskell"&gt;Haskell&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/148.html" title="Post sobre Issue 148 :: Haskell Weekly"&gt;Issue 148 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="lisp"&gt;Lisp&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://insideclojure.org/2019/03/02/journal" title="Post sobre Journal 2019.9 - jdk regression, clojure.main, spec"&gt;Journal 2019.9 - jdk regression, clojure.main, spec&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://www.sbcl.org/all-news.html?1.5.0#1.5.0" title="Post sobre Steel Bank Common Lisp v1.5.0"&gt;Steel Bank Common Lisp v1.5.0&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="resumo-em-2018"&gt;Resumo em 2018&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://docs.gradle.org/4.6/release-notes.html?utm_source=twitter&amp;amp;utm_medium=social&amp;amp;utm_campaign=4-6-release" title="Post sobre o lançamento do Gradle 4.6"&gt;Gradle 4.6&lt;/a&gt;: lançado a versão 4.6 do gerenciador de &lt;em&gt;build&lt;/em&gt; &lt;em&gt;Gradle&lt;/em&gt;, confira as notas de lançamento.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://docs.google.com/document/d/1mAeEgQu4H4ADxa03k7YaVDjIP5vJBvjVIjg3DIvoc8E/edit" title="Link para o documento com as erratas do livro Effective Java"&gt;Erratas do livro Effective Java&lt;/a&gt;: liberado as erratas da 3ª edição do livro &lt;em&gt;Effective Java&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 8</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2019/02/24/resumo-da-semana-8/?utm_source=semana&amp;utm_medium=Atom" />
@@ -992,53 +1051,4 @@
 &lt;h2 id="resumo-em-2017"&gt;Resumo em 2017&lt;/h2&gt;
 
 &lt;ul&gt;
- &lt;li&gt;&lt;a href="https://www.amazon.com/dp/B06XD5YCKX/ref=nav_shopall_ods_gno_erd_cg?pf_rd_p=4eeb2af8-4cd3-4b93-b7fc-f8e6e1aa949c&amp;amp;pf_rd_s=nav-sa-kindle-reader&amp;amp;pf_rd_t=4201&amp;amp;pf_rd_i=navbar-4201&amp;amp;pf_rd_m=ATVPDKIKX0DER&amp;amp;pf_rd_r=HTYA82YXNN3Z5W22H7CJ" title="Página do Kindle Oasis 2"&gt;Novo Kindle&lt;/a&gt;: lançado a nova versão do &lt;em&gt;Kindle&lt;/em&gt;, &lt;em&gt;Oasis&lt;/em&gt; 2 - inclusive pela &lt;em&gt;Amazon&lt;/em&gt; do Brasil.&lt;/li&gt;&lt;/ul&gt;</content></entry>
- <entry>
-  <title type="text">Resumo da Semana 41</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/10/14/resumo-da-semana-41/?utm_source=semana&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2018-10-14-resumo-da-semana-41</id>
-  <published>2018-10-14T15:00:00Z</published>
-  <updated>2018-10-14T15:00:00Z</updated>
-  <author>
-   <name>Marcelo dos Santos</name></author>
-  <content type="html">
-&lt;p&gt;Segue o resumo da 41º semana do ano de 2018&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="http://blog.qt.io/blog/2018/10/11/qt-creator-4-8-beta-released" title="Post sobre Qt Creator 4.8 Beta released"&gt;Qt Creator 4.8 Beta released&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="java"&gt;Java&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2018/10/java-annotated-monthly-october-" title="Post sobre Java Annotated Monthly - October 2018"&gt;Java Annotated Monthly - October 2018&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/10/haxm-732-emulator-28012-canary.html" title="Post sobre HAXM 7.3.2, Emulator 28.0.12 Canary"&gt;HAXM 7.3.2, Emulator 28.0.12 Canary&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="rust"&gt;Rust&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://blog.rust-lang.org/2018/10/12/Rust-1.29.2.html" title="Post sobre Announcing Rust 1.29.2"&gt;Announcing Rust 1.29.2&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/10/09/this-week-in-rust-255" title="Post sobre This Week in Rust 255"&gt;This Week in Rust 255&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://intellij-rust.github.io/2018/10/10/changelog-84.html" title="Post sobre IntelliJ Rust Changelog #84"&gt;IntelliJ Rust Changelog #84&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="haskell"&gt;Haskell&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/128." title="Post sobre Issue 128 :: Haskell Weekly"&gt;Issue 128 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="lisp"&gt;Lisp&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://github.com/clojure/clojure/blob/master/changes.md" title="Post sobre Clojure-1.10.0-beta3"&gt;Clojure&amp;ndash;1.10.0-beta3&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h2 id="resumo-em-2017"&gt;Resumo em 2017&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://www.youtube.com/channel/UC8uSLYDanXDnP9Yn8UrTNzQ" title="Canal do Racket Lang"&gt;Canal do Racket Lang&lt;/a&gt;: cursos e palestras sobre &lt;em&gt;Racket&lt;/em&gt;.&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://www.youtube.com/channel/UCaLlzGqiPE2QRj6sSOawJRg" title="Canal do ClojureTV"&gt;Canal do ClojureTV&lt;/a&gt;: cursos e palestras sobre &lt;em&gt;Clojure&lt;/em&gt;.&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g" title="Canal do Oracle Developers"&gt;Canal do Oracle Developers&lt;/a&gt;: cursos, palestras e tutoriais sobre &lt;em&gt;Java&lt;/em&gt;.&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg" title="Canal do Android Developers"&gt;Canal do Android Developers&lt;/a&gt;: cursos, palestras e tutoriais sobre &lt;em&gt;Android&lt;/em&gt;.&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://www.youtube.com/channel/UCCUxbxaPefOjgD14-7UbjVg" title="Canal do Eduardo Guerra"&gt;Canal do Eduardo Guerra&lt;/a&gt;: cursos e palestras sobre &lt;em&gt;Java&lt;/em&gt; e &lt;em&gt;Design Patterns&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
+ &lt;li&gt;&lt;a href="https://www.amazon.com/dp/B06XD5YCKX/ref=nav_shopall_ods_gno_erd_cg?pf_rd_p=4eeb2af8-4cd3-4b93-b7fc-f8e6e1aa949c&amp;amp;pf_rd_s=nav-sa-kindle-reader&amp;amp;pf_rd_t=4201&amp;amp;pf_rd_i=navbar-4201&amp;amp;pf_rd_m=ATVPDKIKX0DER&amp;amp;pf_rd_r=HTYA82YXNN3Z5W22H7CJ" title="Página do Kindle Oasis 2"&gt;Novo Kindle&lt;/a&gt;: lançado a nova versão do &lt;em&gt;Kindle&lt;/em&gt;, &lt;em&gt;Oasis&lt;/em&gt; 2 - inclusive pela &lt;em&gt;Amazon&lt;/em&gt; do Brasil.&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
