@@ -4,7 +4,75 @@
  <link rel="self" href="http://mdssjc.github.io/feeds/resumo.atom.xml" />
  <link href="http://mdssjc.github.io/tags/resumo.html" />
  <id>urn:http-mdssjc-github-io:-tags-resumo-html</id>
- <updated>2019-03-17T15:00:00Z</updated>
+ <updated>2019-03-24T15:00:00Z</updated>
+ <entry>
+  <title type="text">Resumo da Semana 12</title>
+  <link rel="alternate" href="http://mdssjc.github.io/blog/2019/03/24/resumo-da-semana-12/?utm_source=resumo&amp;utm_medium=Atom" />
+  <id>urn:http-mdssjc-github-io:-blog-2019-03-24-resumo-da-semana-12</id>
+  <published>2019-03-24T15:00:00Z</published>
+  <updated>2019-03-24T15:00:00Z</updated>
+  <author>
+   <name>Marcelo dos Santos</name></author>
+  <content type="html">
+&lt;p&gt;Segue o resumo da 12º semana do ano de 2019&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://redmonk.com/sogrady/2019/03/20/language-rankings-1-19" title="Post sobre The RedMonk Programming Language Rankings: January 2019"&gt;The RedMonk Programming Language Rankings: January 2019&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://lists.llvm.org/pipermail/llvm-announce/2019-March/000082.html" title="Post sobre LLVM 8.0.0 Release"&gt;LLVM 8.0.0 Release&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="java"&gt;Java&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://docs.gradle.org/5.3/release-notes.html" title="Post sobre Gradle 5.3"&gt;Gradle 5.3&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://junit.org/junit5/docs/5.4.1/release-notes" title="Post sobre JUnit 5.4.1"&gt;JUnit 5.4.1&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.eclipse.org/eclipseide/2019-03" title="Post sobre Eclipse IDE 2019-03"&gt;Eclipse IDE 2019&amp;ndash;03&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2019/03/intellij-idea-2019-1-release-candidate-is-out" title="Post sobre IntelliJ IDEA 2019.1 Release Candidate is Out!"&gt;IntelliJ IDEA 2019.1 Release Candidate is Out!&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="dartflutter"&gt;Dart/Flutter&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://us17.campaign-archive.com/?u=c8d8d18b6e2c6316ddc1d48a0&amp;amp;id=06b82ed3fc" title="Post sobre Flutter Weekly #51"&gt;Flutter Weekly #51&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="rust"&gt;Rust&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2019/03/19/this-week-in-rust-278" title="Post sobre This Week in Rust 278"&gt;This Week in Rust 278&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://rustwasm.github.io/2019/03/21/this-week-in-rust-and-wasm-014.html" title="Post sobre This Week in Rust and WebAssembly 14"&gt;This Week in Rust and WebAssembly 14&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://intellij-rust.github.io/2019/03/18/changelog-94.html" title="Post sobre IntelliJ Rust Changelog #94"&gt;IntelliJ Rust Changelog #94&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="haskell"&gt;Haskell&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/151.html" title="Post sobre Issue 151 :: Haskell Weekly"&gt;Issue 151 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="lisp"&gt;Lisp&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://insideclojure.org/2019/03/23/journal" title="Post sobre Journal 2019.12 - Clojure 1.10.1-beta1"&gt;Journal 2019.12 - Clojure 1.10.1-beta1&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="artigos"&gt;Artigos&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514" title="Artigo sobre What’s Revolutionary about Flutter"&gt;What’s Revolutionary about Flutter&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures" title="Artigo sobre How a Kalman filter works, in pictures"&gt;How a Kalman filter works, in pictures&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="em-2018"&gt;Em 2018&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://openjdk.java.net/projects/jdk/10" title="Página do JDK 10"&gt;Java 10 Released&lt;/a&gt;: lançamento do &lt;em&gt;Java&lt;/em&gt; 10 - com destaque para a inferência de tipos em variáveis locais, seguindo a meta de atualização em ciclos de 6 meses. Outras referências:
+  &lt;ul&gt;
+   &lt;li&gt;&lt;a href="https://www.infoq.com/news/2018/03/Java10GAReleased" title="InfoQ - Java 10 Released"&gt;InfoQ - Java 10 Released&lt;/a&gt;&lt;/li&gt;
+   &lt;li&gt;&lt;a href="https://www.infoworld.com/article/3230507/java/java-jdk-10-what-new-features-to-expect-in-the-next-java.html" title="InfoWorld - JDK 10: What’s new in Java 10"&gt;InfoWorld - JDK 10: What’s new in Java 10&lt;/a&gt;&lt;/li&gt;
+   &lt;li&gt;&lt;a href="https://dzone.com/articles/109-new-features-in-jdk-10?fromrel=true" title="DZone - 109 New Features in JDK 10"&gt;DZone &amp;ndash; 109 New Features in JDK 10&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://danghica.blogspot.com.br/2018/03/copying-vs-sharing-in-functional.html" title="Artigo sobre programação funcional"&gt;Copying vs. sharing in functional languages&lt;/a&gt;: descreve o funcionamento de um &lt;em&gt;debugger&lt;/em&gt; em linguagens funcionais.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://www.inf.fu-berlin.de/inst/ag-se/teaching/K-CCD-2016/Clean-Coder-summary.pdf" title="Artigo com o resumo do Clean Coder"&gt;The essence of &amp;ldquo;Clean Coder&amp;rdquo;&lt;/a&gt;: resumo do livro &lt;em&gt;The Clean Coder: A Code of Conduct for Professional Programmers&lt;/em&gt; do autor Robert C. Martin.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://dev.to/brpaz/my-linux-development-environment-of-2018-ch7" title="Artigo sobre ambiente de desenvolvimento em Linux"&gt;My Linux Development Environment of 2018&lt;/a&gt;: descreve um ambiente de desenvolvimento utilizando as ferramentas/aplicações do sistema operacional &lt;em&gt;Linux&lt;/em&gt;.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312" title="Artigo sobre experiência em programação"&gt;The Mistakes I Made As a Beginner Programmer&lt;/a&gt;: descreve os principais problemas no início da carreira de programação.&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre o resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</content></entry>
  <entry>
   <title type="text">Resumo da Semana 11</title>
   <link rel="alternate" href="http://mdssjc.github.io/blog/2019/03/17/resumo-da-semana-11/?utm_source=resumo&amp;utm_medium=Atom" />
@@ -994,61 +1062,4 @@
 &lt;h2 id="resumo-em-2017"&gt;Resumo em 2017&lt;/h2&gt;
 
 &lt;ul&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</content></entry>
- <entry>
-  <title type="text">Resumo da Semana 44</title>
-  <link rel="alternate" href="http://mdssjc.github.io/blog/2018/11/05/resumo-da-semana-44/?utm_source=resumo&amp;utm_medium=Atom" />
-  <id>urn:http-mdssjc-github-io:-blog-2018-11-05-resumo-da-semana-44</id>
-  <published>2018-11-05T14:00:00Z</published>
-  <updated>2018-11-05T14:00:00Z</updated>
-  <author>
-   <name>Marcelo dos Santos</name></author>
-  <content type="html">
-&lt;p&gt;Segue o resumo da 44º semana do ano de 2018&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://dzone.com/articles/ibm-buying-red-hat" title="Post sobre IBM to Buy Red Hat for $34 Billion"&gt;IBM to Buy Red Hat for $34 Billion&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://crystal-lang.org/2018/11/01/crystal-0.27.0-released.html" title="Post sobre Crystal 0.27.0 released!"&gt;Crystal 0.27.0 released!&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="java"&gt;Java&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="http://spring.io/blog/2018/10/30/spring-boot-2-1-0" title="Post sobre Spring Boot 2.1.0"&gt;Spring Boot 2.1.0&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://spring.io/blog/2018/10/29/spring-framework-5-1-2-available-now" title="Post sobre Spring Framework 5.1.2 available now"&gt;Spring Framework 5.1.2 available now&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://javalin.io/news/2018/11/04/javalin-2.4.0-released.html" title="Post sobre Javalin 2.4.0 released"&gt;Javalin 2.4.0 released&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2018/11/intellij-idea-2018-3-beta-2-is-available" title="Post sobre IntelliJ IDEA 2018.3 Beta 2 is available!"&gt;IntelliJ IDEA 2018.3 Beta 2 is available!&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/11/emulator-28015-canary-stable-candidate.html" title="Post sobre Emulator 28.0.15 Canary (stable candidate)"&gt;Emulator 28.0.15 Canary (stable candidate)&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/10/android-studio-33-beta-2-is-available.html" title="Post sobre Android Studio 3.3 Beta 2 is available"&gt;Android Studio 3.3 Beta 2 is available&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="dartflutter"&gt;Dart/Flutter&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://dartcode.org/releases/v2-20" title="Post sobre Dart Code v2.20.0"&gt;Dart Code v2.20.0&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://groups.google.com/forum/?#!topic/flutter-dev/oJ55FjL5Izc" title="Post sobre Flutter IntelliJ / Android Studio"&gt;Flutter IntelliJ / Android Studio&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="rust"&gt;Rust&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/10/30/this-week-in-rust-258" title="Post sobre This Week in Rust 258"&gt;This Week in Rust 258&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="haskell"&gt;Haskell&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/131.html" title="Post sobre Issue 131 :: Haskell Weekly"&gt;Issue 131 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://airtable.com/shr8G4RBPD9T6tnDf" title="Post sobre 2018 State of Haskell Survey"&gt;2018 State of Haskell Survey&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="lisp"&gt;Lisp&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://groups.google.com/forum/?#!topic/clojure/DCiiV1AbG7g" title="Post sobre (ANN) Opencv bindings for clojure"&gt;(ANN) Opencv bindings for clojure&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://www.sbcl.org/all-news.html?1.4.13#1.4.13" title="Post sobre SBCL v1.4.13"&gt;SBCL v1.4.13&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h2 id="resumo-em-2017"&gt;Resumo em 2017&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blog.racket-lang.org/2017/10/racket-v6-11.html" title="Racket v6.11 has been released!"&gt;Racket v6.11 has been released!&lt;/a&gt;: nova versão do &lt;em&gt;Racket&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</content></entry></feed>

@@ -53,7 +53,7 @@ http://mdssjc.github.io/blog/2017/07/14/cursos-oracle-mooc/
 http://mdssjc.github.io/blog/2018/07/22/resumo-da-semana-29/
 http://mdssjc.github.io/blog/2018/06/10/resumo-da-semana-23/
 http://mdssjc.github.io/blog/2018/07/29/resumo-da-semana-30/
-http://mdssjc.github.io/blog/2018/03/25/resumo-da-semana-12/
+http://mdssjc.github.io/blog/2019/03/24/resumo-da-semana-12/
 http://mdssjc.github.io/blog/2018/09/02/resumo-da-semana-35/
 http://mdssjc.github.io/blog/2017/08/22/curso-de-jvm/
 http://mdssjc.github.io/blog/2018/04/08/resumo-da-semana-14/
