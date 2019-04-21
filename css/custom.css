@@ -23,11 +23,10 @@ pre {
   text-transform: uppercase;
 }
 
-#navegacao {
-  background: #4169E1;
+.navegacao {
+  background: #1A4AD7;
 }
-
-#logotipo {
+.navegacao .navegacao__logotipo {
   font-size: large;
   font-weight: bold;
 }
