@@ -13,7 +13,7 @@ http://mdssjc.github.io/blog/2018/07/15/resumo-da-semana-28/
 http://mdssjc.github.io/blog/2017/05/04/emacs/
 http://mdssjc.github.io/blog/2018/12/09/resumo-da-semana-49/
 http://mdssjc.github.io/blog/2017/08/01/curso-de-haskell/
-http://mdssjc.github.io/blog/2018/04/29/resumo-da-semana-17/
+http://mdssjc.github.io/blog/2019/04/28/resumo-da-semana-17/
 http://mdssjc.github.io/blog/2019/02/10/resumo-da-semana-6/
 http://mdssjc.github.io/blog/2018/11/05/resumo-da-semana-44/
 http://mdssjc.github.io/blog/2018/10/28/resumo-da-semana-43/
