@@ -151,6 +151,9 @@ main {
   color: #666;
   background-color: #EEE;
 }
+.posts .pagination {
+  justify-content: center;
+}
 
 #rodape {
   margin-top: 2px;
