@@ -153,6 +153,7 @@ main {
 }
 .posts .pagination {
   justify-content: center;
+  flex-wrap: wrap;
 }
 
 #rodape {
