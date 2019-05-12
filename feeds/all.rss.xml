@@ -4,9 +4,86 @@
   <title>Página MDS: Página MDS</title>
   <description>Página MDS: Página MDS</description>
   <link>http://mdssjc.github.io/index.html</link>
-  <lastBuildDate>Sun, 05 May 2019 15:00:00 UT</lastBuildDate>
-  <pubDate>Sun, 05 May 2019 15:00:00 UT</pubDate>
+  <lastBuildDate>Sun, 12 May 2019 15:00:00 UT</lastBuildDate>
+  <pubDate>Sun, 12 May 2019 15:00:00 UT</pubDate>
   <ttl>1800</ttl>
+  <item>
+   <title>Resumo da Semana 19</title>
+   <link>http://mdssjc.github.io/blog/2019/05/12/resumo-da-semana-19/?utm_source=all&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2019-05-12-resumo-da-semana-19</guid>
+   <pubDate>Sun, 12 May 2019 15:00:00 UT</pubDate>
+   <author>Marcelo dos Santos</author>
+   <description>
+&lt;p&gt;Segue o resumo da 19º semana do ano de 2019&amp;hellip;&lt;/p&gt;
+&lt;!-- more--&gt;
+
+&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
+
+&lt;h3 id="java"&gt;Java&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://medium.com/graalvm/announcing-graalvm-19-4590cf354df8" title="Post sobre Announcing GraalVM 19.0"&gt;Announcing GraalVM 19.0&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2019/05/java-annotated-monthly-may-2019" title="Post sobre Java Annotated Monthly – May 2019"&gt;Java Annotated Monthly – May 2019&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.jetbrains.com/idea/2019/05/intellij-idea-2019-1-2-is-here" title="Post sobre IntelliJ IDEA 2019.1.2 is here!"&gt;IntelliJ IDEA 2019.1.2 is here!&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://weld.cdi-spec.org/news/2019/05/07/weld-311Final" title="Post sobre Weld 3.1.1.Final"&gt;Weld 3.1.1.Final&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2019/05/emulator-2909-stable.html" title="Post sobre Emulator 29.0.9 Stable"&gt;Emulator 29.0.9 Stable&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="dartflutter"&gt;Dart/Flutter&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://developers.googleblog.com/2019/05/Flutter-io19.html" title="Post sobre Flutter: a Portable UI Framework for Mobile, Web, Embedded, and Desktop"&gt;Flutter: a Portable UI Framework for Mobile, Web, Embedded, and Desktop&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://medium.com/dartlang/announcing-dart-2-3-optimized-for-building-user-interfaces-e84919ca1dff" title="Post sobre Announcing Dart 2.3: Optimized for building user interfaces"&gt;Announcing Dart 2.3: Optimized for building user interfaces&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://medium.com/flutter-io/announcing-flutter-1-5-d203c6072e5c" title="Post sobre Announcing Flutter 1.5"&gt;Announcing Flutter 1.5&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://github.com/flutter/flutter/wiki/Roadmap" title="Post sobre Flutter Roadmap 2019"&gt;Flutter Roadmap 2019&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://dartcode.org/releases/v3-0" title="Post sobre Dart Code v3.0.1"&gt;Dart Code v3.0.1&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://medium.com/flutter-community/flutter-web-announced-in-google-io19-c6f1da207f3c" title="Post sobre Flutter Web Announced in Google IO19  -  How To"&gt;Flutter Web Announced in Google IO19  -  How To&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://us17.campaign-archive.com/?u=c8d8d18b6e2c6316ddc1d48a0&amp;amp;id=b15963c60c" title="Post sobre Flutter Weekly #58"&gt;Flutter Weekly #58&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="rust"&gt;Rust&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2019/05/07/this-week-in-rust-285" title="Post sobre This Week in Rust 285"&gt;This Week in Rust 285&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="haskell"&gt;Haskell&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/158.html" title="Post sobre Issue 158 :: Haskell Weekly"&gt;Issue 158 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://mail.haskell.org/pipermail/haskell-cafe/2019-May/131065.html" title="Post sobre Announce: Haskell Platform 8.6.5"&gt;Announce: Haskell Platform 8.6.5&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="lisp"&gt;Lisp&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="http://insideclojure.org/2019/05/08/journal" title="Post sobre Journal 2019.18 - Clojure 1.10.1 work, clojure dev"&gt;Journal 2019.18 - Clojure 1.10.1 work, clojure dev&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://github.com/janet-lang/janet/releases" title="Post sobre Janet 0.5.0"&gt;Janet 0.5.0&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="artigos"&gt;Artigos&lt;/h3&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://llorllale.github.io/java-variance" title="Artigo sobre Variance in Java"&gt;Variance in Java&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="em-2018"&gt;Em 2018&lt;/h2&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href="https://www.sublimetext.com/blog/articles/sublime-text-3-point-1" title="Post sobre Sublime Text 3.1 Released"&gt;Sublime Text 3.1 Released&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://developers.googleblog.com/2018/05/ready-for-production-apps-flutter-beta-3.html" title="Post sobre Flutter Beta 3"&gt;Flutter Beta 3&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2017-relnotes" title="Post sobre Visual Studio 2017 version 15.7 Release Notes"&gt;Visual Studio 2017 version 15.7 Release Notes&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://android-developers.googleblog.com/2018/05/android-studio-3-2-canary.html" title="Post sobre Android Studio 3.2 Canary"&gt;Android Studio 3.2 Canary&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/106.html" title="Post sobre Issue 106 :: Haskell Weekly"&gt;Issue 106 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://spring.io/blog/2018/05/09/spring-boot-2-0-2" title="Post sobre Spring Boot 2.0.2"&gt;Spring Boot 2.0.2&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://confluence.jetbrains.com/display/IDEADEV/IDEA+2018.1+EAP" title="Post sobre IntelliJ IDEA 2018.1.4 EAP"&gt;IntelliJ IDEA 2018.1.4 EAP&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://blog.rust-lang.org/2018/05/10/Rust-1.26.html" title="Post sobre Announcing Rust 1.26"&gt;Announcing Rust 1.26&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/05/08/this-week-in-rust-233" title="Post sobre This Week in Rust 233"&gt;This Week in Rust 233&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://guillaumegomez.github.io/this-week-in-rust-docs/blog/this-week-in-rust-docs-105" title="Post sobre This Week in Rust Docs 105"&gt;This Week in Rust Docs 105&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf" title="Artigo sobre Energy Efficiency across Programming Languages"&gt;Energy Efficiency across Programming Languages&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://fivebooks.com/best-books/programming-computer-science-ana-bell" title="Artigo sobre The best books on Computer Science and Programming recommended by Ana Bell"&gt;The best books on Computer Science and Programming recommended by Ana Bell&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://www.rubberducking.com/2018/05/the-various-kinds-of-io-blocking-non.html" title="Artigo sobre The Various Kinds of IO - Blocking, Non-blocking, Multiplexed and Async"&gt;The Various Kinds of IO - Blocking, Non-blocking, Multiplexed and Async&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://martinfowler.com/articles/mocksArentStubs.html" title="Artigo sobre Mocks Aren't Stubs"&gt;Mocks Aren&amp;rsquo;t Stubs&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://martinfowler.com/bliki/CommandQuerySeparation.html" title="Artigo sobre Command Query Separation"&gt;Command Query Separation&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://orgmode.org" title="Post sobre Org 9.1.13"&gt;Org 9.1.13&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="https://github.com/clojure-emacs/cider/releases/tag/v0.17.0" title="Post sobre CIDER 0.17 (Andalucía)"&gt;CIDER 0.17 (Andalucía)&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://irreal.org/blog/?p=7181" title="Post sobre Emacs 26.1 Should Be Released Very Soon"&gt;Emacs 26.1 Should Be Released Very Soon&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description></item>
   <item>
    <title>Resumo da Semana 18</title>
    <link>http://mdssjc.github.io/blog/2019/05/05/resumo-da-semana-18/?utm_source=all&amp;utm_medium=RSS</link>
@@ -1090,47 +1167,4 @@ sudo make install&lt;/code&gt;&lt;/pre&gt;
  &lt;li&gt;&lt;a href="https://github.com/hlissner/doom-emacs/issues/310" title="Why is doom emacs so fast?"&gt;Why is doom emacs so fast?&lt;/a&gt;: em uma discussão no repositório &lt;a href="https://github.com/hlissner/doom-emacs/issues/310" title="repositório doom-emacs"&gt;doom-emacs&lt;/a&gt; foi apresentada diversas técnicas para a otimização no tempo de inicialização do &lt;em&gt;Emacs&lt;/em&gt;, as informações completas estão em seu &lt;a href="https://github.com/hlissner/doom-emacs/wiki/FAQ#how-is-dooms-startup-so-fast" title="FAQ"&gt;FAQ&lt;/a&gt;.&lt;/li&gt;
  &lt;li&gt;&lt;a href="https://blog.racket-lang.org/2018/01/racket-on-chez-status.html" title="Nova postagem do blog Racket"&gt;Racket-on-Chez Status: January 2018&lt;/a&gt;: nova postagem do &lt;em&gt;blog&lt;/em&gt; &lt;em&gt;Racket&lt;/em&gt;, comentando o projeto e os &lt;em&gt;benchmarks&lt;/em&gt; da utilização da plataforma &lt;em&gt;Chez&lt;/em&gt; no &lt;em&gt;Racket&lt;/em&gt; - uma versão extendida da postagem em &lt;a href="http://www.cs.utah.edu/~mflatt/racket-on-chez-jan-2018" title="Racket-on-Chez Status: January 2018 [extended version]"&gt;Racket-on-Chez Status: January 2018 - extended version&lt;/a&gt;.&lt;/li&gt;
  &lt;li&gt;&lt;a href="https://github.com/emacs-tw/awesome-emacs" title="Listagem do Emacs"&gt;Listagem do Emacs&lt;/a&gt;: coleção de &lt;em&gt;links&lt;/em&gt; da comunidade &lt;em&gt;Emacs&lt;/em&gt; com diversos pacotes, bibliotecas, &lt;em&gt;starter kit&lt;/em&gt;, dentre outros&amp;hellip;&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</description></item>
-  <item>
-   <title>Resumo da Semana 52</title>
-   <link>http://mdssjc.github.io/blog/2018/12/30/resumo-da-semana-52/?utm_source=all&amp;utm_medium=RSS</link>
-   <guid isPermaLink="false">urn:http-mdssjc-github-io:-blog-2018-12-30-resumo-da-semana-52</guid>
-   <pubDate>Sun, 30 Dec 2018 14:00:00 UT</pubDate>
-   <author>Marcelo dos Santos</author>
-   <description>
-&lt;p&gt;Segue o resumo da 52º semana do ano de 2018&amp;hellip;&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;h2 id="novidades"&gt;Novidades&lt;/h2&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://github.com/fish-shell/fish-shell/releases/tag/3.0.0" title="Post sobre Fish 3.0.0"&gt;Fish 3.0.0&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://spacevim.org/SpaceVim-release-v1.0.0" title="Post sobre SpaceVim release v1.0.0"&gt;SpaceVim release v1.0.0&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://www.ruby-lang.org/en/news/2018/12/25/ruby-2-6-0-released" title="Post sobre Ruby 2.6.0 Released"&gt;Ruby 2.6.0 Released&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://us17.campaign-archive.com/?u=c8d8d18b6e2c6316ddc1d48a0&amp;amp;id=09d0f06f4c" title="Post sobre Flutter Weekly #39"&gt;Flutter Weekly #39&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="java"&gt;Java&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://netbeans.apache.org/download/nb100/index.html" title="Post sobre Apache NetBeans IDE (incubating) 10.0"&gt;Apache NetBeans IDE (incubating) 10.0&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://blogs.apache.org/groovy/entry/groovy-2-5-5-released" title="Post sobre Groovy 2.5.5 released"&gt;Groovy 2.5.5 released&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://androidstudio.googleblog.com/2018/12/emulator-2810-canary.html" title="Post sobre Emulator 28.1.0 Canary"&gt;Emulator 28.1.0 Canary&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="rust"&gt;Rust&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://this-week-in-rust.org/blog/2018/12/25/this-week-in-rust-266" title="Post sobre This Week in Rust 266"&gt;This Week in Rust 266&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://intellij-rust.github.io/2018/12/25/changelog-89.html" title="Post sobre IntelliJ Rust Changelog #89"&gt;IntelliJ Rust Changelog #89&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="haskell"&gt;Haskell&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://haskellweekly.news/issues/139.html" title="Post sobre Issue 139 :: Haskell Weekly"&gt;Issue 139 :: Haskell Weekly&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id="lisp"&gt;Lisp&lt;/h3&gt;
-
-&lt;ul&gt;
- &lt;li&gt;&lt;a href="https://www.reddit.com/r/emacs/comments/a8m2ko/new_features_in_doommodeline" title="Post sobre New features in doom-modeline"&gt;New features in doom-modeline&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="https://www.reddit.com/r/lisp/comments/a954yf/next_browser_120_is_out" title="Post sobre Next browser 1.2.0 is out!"&gt;Next browser 1.2.0 is out!&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://lists.gnu.org/archive/html/emacs-orgmode/2018-12/msg00279.html" title="Post sobre Orgmode - [O] Release 9.2"&gt;Orgmode - (O) Release 9.2&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Post sobre Listagem da Sacha Chua"&gt;Listagem da Sacha Chua&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
+ &lt;li&gt;&lt;a href="http://sachachua.com/blog/category/emacs-news" title="Resumo do Emacs"&gt;Resumo de Emacs&lt;/a&gt;: resumo das últimas atividades do mundo &lt;em&gt;Emacs&lt;/em&gt; por Sacha Chua.&lt;/li&gt;&lt;/ul&gt;</description></item></channel></rss>
