@@ -1,12 +1,43 @@
     Title: Resumo da Semana 22
-    Date: 2018-06-03T12:00:00
+    Date: 2019-06-02T12:00:00
     Tags: resumo, semana
 
-Segue o resumo da 22º semana do ano de 2018...
+Segue o resumo da 22º semana do ano de 2019...
 
 <!-- more -->
 
 ## Novidades
+
+### Java
+
+* [IntelliJ IDEA 2019.1.3 is here!](https://blog.jetbrains.com/idea/2019/05/intellij-idea-2019-1-3-is-here "Post sobre IntelliJ IDEA 2019.1.3 is here!")
+* [Emulator 29.0.11 Stable](https://androidstudio.googleblog.com/2019/05/emulator-29011-stable.html "Post sobre Emulator 29.0.11 Stable")
+* [HAXM 7.5.1 for Windows](https://androidstudio.googleblog.com/2019/05/haxm-751-for-windows.html "Post sobre HAXM 7.5.1 for Windows")
+
+### Dart/Flutter
+
+* [Dart Code v3.1.0](https://dartcode.org/releases/v3-1 "Post sobre Dart Code v3.1.0")
+* [Flutter Weekly #61](https://us17.campaign-archive.com/?u=c8d8d18b6e2c6316ddc1d48a0&id=484c61521d "Post sobre Flutter Weekly #61")
+
+### Rust
+
+* [This Week in Rust 288](https://this-week-in-rust.org/blog/2019/05/28/this-week-in-rust-288 "Post sobre This Week in Rust 288")
+
+### Haskell
+
+* [Issue 161 :: Haskell Weekly](https://haskellweekly.news/issues/161.html "Post sobre Issue 161 :: Haskell Weekly")
+
+### Lisp
+
+* [SBCL v1.5.3](http://www.sbcl.org/all-news.html?1.5.3#1.5.3 "Post sobre SBCL v1.5.3")
+* [Listagem da Sacha Chua](http://sachachua.com/blog/category/emacs-news "Post sobre Listagem da Sacha Chua")
+
+### Web
+
+* [Version 8 of Angular](https://blog.angular.io/version-8-of-angular-smaller-bundles-cli-apis-and-alignment-with-the-ecosystem-af0261112a27 "Post sobre Version 8 of Angular")
+* [Announcing TypeScript 3.5](https://devblogs.microsoft.com/typescript/announcing-typescript-3-5 "Post sobre Announcing TypeScript 3.5")
+
+## Em 2018
 
 * [Emacs 26.1 - latest release](https://www.gnu.org/software/emacs "Post sobre Emacs 26.1 - latest release")
 * [Common Lisp - New in version 1.4.8](http://sbcl.org/all-news.html?1.4.8#1.4.8 "Post sobre Common Lisp - New in version 1.4.8")
@@ -31,9 +62,6 @@ Segue o resumo da 22º semana do ano de 2018...
 * [This Week in Rust Docs 107](http://guillaumegomez.github.io/this-week-in-rust-docs/blog/this-week-in-rust-docs-107 "Post sobre This Week in Rust Docs 107")
 * [Dart Code v2.13.0](https://dartcode.org/releases/v2-13 "Post sobre Dart Code v2.13.0")
 * [Issue 109 :: Haskell Weekly](https://haskellweekly.news/issues/109.html "Post sobre Issue 109 :: Haskell Weekly")
-
-## Artigos
-
 * [A Tutorial Introduction to the Lambda Calculus](http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf "Artigo sobre [A Tutorial Introduction to the Lambda Calculus]")
 * [Emacs 26 Brings Generators and Threads](http://nullprogram.com/blog/2018/05/31 "Artigo sobre Emacs 26 Brings Generators and Threads")
 * [When FFI Function Calls Beat Native C](https://nullprogram.com/blog/2018/05/27 "Artigo sobre When FFI Function Calls Beat Native C")
@@ -41,8 +69,5 @@ Segue o resumo da 22º semana do ano de 2018...
 * [Lambda Calculus In Clojure - Part 1](https://functional.works-hub.com/learn/lmbda-calculus-in-clojure-part-1-4cb7b "Artigo sobre Lambda Calculus In Clojure - Part 1")
 * [Lambda Calculus In Clojure - Part 2](https://functional.works-hub.com/learn/lambda-calculus-in-clojure-part-2-09259 "Artigo sobre Lambda Calculus In Clojure - Part 2")
 * [The Science Behind Functional Programming](https://functional.works-hub.com/learn/the-science-behind-functional-programming-3b060 "Artigo sobre The Science Behind Functional Programming")
-
-## Emacs
-
 * [Listagem da Sacha Chua](http://sachachua.com/blog/category/emacs-news "Post sobre Listagem da Sacha Chua")
 * [Emax64 20180529](https://github.com/m-parashar/emax64/releases/tag/20180529 "Post sobre Emax64 20180529")
