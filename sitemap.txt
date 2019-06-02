@@ -37,7 +37,7 @@ http://mdssjc.github.io/blog/2018/11/11/resumo-da-semana-45/
 http://mdssjc.github.io/blog/2017/08/08/curso-de-sql/
 http://mdssjc.github.io/blog/2019/01/06/emacs-parte-i-instalac%CC%A7a%CC%83o/
 http://mdssjc.github.io/blog/2019/05/05/resumo-da-semana-18/
-http://mdssjc.github.io/blog/2018/06/03/resumo-da-semana-22/
+http://mdssjc.github.io/blog/2019/06/02/resumo-da-semana-22/
 http://mdssjc.github.io/blog/2019/02/17/resumo-da-semana-7/
 http://mdssjc.github.io/blog/2018/07/01/resumo-da-semana-26/
 http://mdssjc.github.io/blog/2018/08/26/resumo-da-semana-34/
