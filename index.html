@@ -30,6 +30,11 @@
   <link rel="manifest" href="manifest.json">
 
   <style>
+    .loading {
+      display: flex;
+      height: 100%;
+      align-items: center;
+    }
     .loader {
       color: #3f51b5;
       font-size: 90px;
@@ -129,11 +134,13 @@
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('flutter-first-frame', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=3085150781');
+        navigator.serviceWorker.register('flutter_service_worker.js?v=3197793449');
       });
     }
   </script>
-  <div class="loader">Loading...</div>
+  <div class="loading">
+    <div class="loader">Loading...</div>
+  </div>
   <script src="main.dart.js" type="application/javascript"></script>
 </body>
 </html>
