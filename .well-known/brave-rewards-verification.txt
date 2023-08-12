@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: marcelo-mds.dev
+Token: 6da81cbe23d84e2034f47d163f44e902190716d50062fa5ed52f3c283042be16
